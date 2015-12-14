@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_wifi_scanning_label">WLAN: スキャン中</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: 接続中</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">機内モードではWLANテザリングは利用できません</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">WLAN OFF</string>
+    <string name="accessibility_no_wifi">WLANが切断されました。</string>
+    <string name="accessibility_wifi_one_bar">WLAN電波: レベル1</string>
+    <string name="accessibility_wifi_two_bars">WLAN電波: レベル2</string>
+    <string name="accessibility_wifi_three_bars">WLAN電波: レベル3</string>
+    <string name="accessibility_wifi_signal_full">WLAN電波: フル</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLANがOFFになりました</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLANがONになりました</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN接続済み</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN OFF</string>
+    <string name="quick_settings_connected_via_wfa">WLANアシスタント経由で接続</string>
+    <string name="status_bar_settings_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">WLANテザリング</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">"WLAN
+テザリング"</string>
+    <string name="vzw_airplane_mode_is_on">機内モードがONになりました。WLANを使用しない場合、データ接続を必要とするインターネット、Eメール、もしくはその他のアプリを使用できません。</string>
+    <string name="vzw_airplane_mode_is_on_volte">機内モードがONになりました。モバイルデータ通信がOFFの時、ビデオコールは動作しません。また、WLANを使用しない場合、データ接続を必要とするインターネット、Eメール、もしくはその他のアプリを使用できません。</string>
+    <string name="vzw_airplane_mode_turn_on">WLANを使用しない場合、データ接続を必要とするインターネット、Eメール、もしくはその他のアプリを使用できません。</string>
+    <string name="vzw_airplane_mode_turn_on_volte">モバイルデータ通信がOFFのとき、ビデオコールは動作しません。また、WLANを使用しない場合、データ接続を必要とするインターネット、Eメール、もしくはその他のアプリを使用できません。</string>
+</resources>

@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usb_connected_txt">USB je pripojené</string>
+    <string name="to_charge_use_charger_txt">Zariadenie nabíjajte pomocou špecializovanej nabíjačky</string>
+    <string name="power_settings_instructions">Povolenie režimu STAMINA v ponuke Správa spotreby optimalizuje životnosť batérie</string>
+    <string name="battery_low_power_settings">Informácie o batérii</string>
+    <string name="stamina_start_action">Zapnúť režim STAMINA</string>
+    <string name="enable_stamina_tip">Životnosť batérie môžete optimalizovať zapnutím režimu STAMINA.</string>
+    <string name="somc_qs_close">Zatvoriť</string>
+    <string name="somc_qs_hint">Rýchle nastavenia presuniete dotknutím sa a podržaním ikon</string>
+    <string name="somc_qs_title">Aktívne rýchle nastavenia</string>
+    <string name="somc_qs_max_exceeds">Už je vybraný maximálny počet rýchlych nastavení</string>
+    <string name="quick_settings_autosync_label">Automatická synchroniz. dát</string>
+    <string name="quick_settings_data_traffic_label">Mobilné dáta</string>
+    <string name="quick_settings_screen_mirroring_label">Zrkadlenie obrazovky</string>
+    <string name="quick_settings_wifi_scanning_label">Wi-Fi: Hľadajú sa siete</string>
+    <string name="quick_settings_wifi_connecting_label">Wi-Fi: Pripája sa k sieti</string>
+    <string name="status_bar_autosync_dialog_enable_title">Zapnúť automatickú synchronizáciu dát?</string>
+    <string name="status_bar_autosync_dialog_enable_warning">"Všetky zmeny vykonané v rámci vašich účtov na webe sa automaticky skopírujú do vášho telefónu.
+
+Niektoré účty môžu tiež automaticky skopírovať na web všetky zmeny vykonané v telefóne.
+
+Typy údajov, ktoré sa budú v jednotlivých účtoch synchronizovať, môžete vybrať v ponuke Nastavenia > Účty."</string>
+    <string name="status_bar_autosync_dialog_extended_enable_warning">"Všetky zmeny vykonané v rámci vašich účtov na webe sa automaticky skopírujú do vášho zariadenia.
+
+Niektoré účty môžu tiež automaticky skopírovať na web všetky zmeny vykonané v zariadení.
+
+Typy údajov, ktoré sa budú v jednotlivých účtoch synchronizovať, môžete vybrať v ponuke Nastavenia > Účty.
+
+Pri aktualizácii zariadenia sa môžu účtovať poplatky za prenos údajov. Odporúča sa neobmedzená údajová tarifa."</string>
+    <string name="status_bar_autosync_dialog_disable_title">Vypnúť automatickú synchronizáciu dát?</string>
+    <string name="status_bar_autosync_dialog_disable_warning">Vypnutím automatickej synchronizácie sa zníži spotreba mobilných dát a batérie, ale jednotlivé účty budete musieť synchronizovať manuálne.</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">V režime V lietadle nie je prístupový bod Wi-Fi k dispozícii</string>
+    <string name="accessibility_desc_edit_quick_settings">Úprava rýchlych nastavení</string>
+    <string name="somc_start_camera_hint">Fotoaparát zapnite potiahnutím prstom</string>
+    <string name="somc_start_phone_hint">Funkcie telefonovania zapnite potiahnutím prstom</string>
+    <string name="silent_mode_panel_silent">Tichý</string>
+    <string name="silent_mode_panel_exceptions">Výnimky</string>
+    <string name="silent_mode_panel_allow_exceptions">Povoliť výnimky</string>
+    <string name="silent_mode_panel_allow_alarm">Povoliť budík</string>
+    <string name="volume_dialog_ringtone">Signál zvonenia</string>
+    <string name="volume_dialog_media">Hlasitosť médií</string>
+    <string name="volume_dialog_notifications">Upozornenia</string>
+    <string name="volume_dialog_alarm">Budík</string>
+    <string name="app_label">UI systému</string>
+    <string name="status_bar_clear_all_button">Vymaz.</string>
+    <string name="status_bar_recent_remove_item_title">Odstrániť zo zoznamu</string>
+    <string name="status_bar_recent_inspect_item_title">Informácie o aplikácii</string>
+    <string name="status_bar_no_recent_apps">Žiadne naposledy použité aplikácie</string>
+    <string name="status_bar_accessibility_dismiss_recents">Odmietnuť najnovšie aplikácie</string>
+    <string name="status_bar_no_notifications_title">Žiadne oznámenia</string>
+    <string name="status_bar_ongoing_events_title">Prebiehajúce</string>
+    <string name="status_bar_latest_events_title">Oznámenia</string>
+    <string name="battery_low_title">Batéria je takmer vybitá</string>
+    <string name="battery_low_percent_format">Zostáva %s alebo menej</string>
+    <string name="battery_low_percent_format_saver_started">Zostáva menej než %s. Šetrič batérie je zapnutý.</string>
+    <string name="invalid_charger">"Nabíjanie pomocou rozhrania USB nie je podporované.
+Používajte iba nabíjačku, ktorá bola dodaná spolu so zariadením."</string>
+    <string name="invalid_charger_title">Nabíjanie cez USB nemá podporu.</string>
+    <string name="invalid_charger_text">Používajte iba originálnu nabíjačku.</string>
+    <string name="battery_low_why">Nastavenia</string>
+    <string name="battery_saver_confirmation_title">Zapnúť šetrič batérie?</string>
+    <string name="battery_saver_confirmation_ok">Zapnúť</string>
+    <string name="battery_saver_start_action">Zapnite šetrič batérie</string>
+    <string name="status_bar_settings_settings_button">Nastavenia</string>
+    <string name="status_bar_settings_wifi_button">Wi-Fi</string>
+    <string name="status_bar_settings_airplane">Režim V lietadle</string>
+    <string name="status_bar_settings_auto_rotation">Automatické otočenie obrazovky</string>
+    <string name="status_bar_settings_mute_label">STLMIŤ</string>
+    <string name="status_bar_settings_auto_brightness_label">AUTO</string>
+    <string name="status_bar_settings_notifications">Upozornenia</string>
+    <string name="bluetooth_tethered">Zdieľané internetové pripojenie cez Bluetooth</string>
+    <string name="status_bar_input_method_settings_configure_input_methods">Nastaviť metódy vstupu</string>
+    <string name="status_bar_use_physical_keyboard">Fyzická klávesnica</string>
+    <string name="usb_device_permission_prompt">Povoliť aplikácii %1$s prístup k zariadeniu USB?</string>
+    <string name="usb_accessory_permission_prompt">Povoliť aplikácii %1$s prístup k príslušenstvu USB?</string>
+    <string name="usb_device_confirm_prompt">Otvoriť pri pripojení tohto zariadenia USB aplikáciu %1$s?</string>
+    <string name="usb_accessory_confirm_prompt">Otvoriť pri pripojení tohto príslušenstva USB aplikáciu %1$s?</string>
+    <string name="usb_accessory_uri_prompt">S uvedeným príslušenstvom USB nefungujú žiadne nainštalované aplikácie. Ďalšie informácie o uvedenom príslušenstve nájdete na adrese %1$s</string>
+    <string name="title_usb_accessory">Príslušenstvo USB</string>
+    <string name="label_view">Zobraziť</string>
+    <string name="always_use_device">Pre toto zariadenie USB použiť ako predvolené</string>
+    <string name="always_use_accessory">K tomuto príslušenstvu USB používať predvolene</string>
+    <string name="usb_debugging_title">Povoliť ladenie USB?</string>
+    <string name="usb_debugging_message">"Digitálny odtlačok kľúča RSA počítača je:
+
+%1$s"</string>
+    <string name="usb_debugging_always">Vždy povoliť z tohto počítača</string>
+    <string name="compat_mode_on">Pribl. na celú obrazovku</string>
+    <string name="compat_mode_off">Rozt. na celú obrazovku</string>
+    <string name="screenshot_saving_ticker">Prebieha ukladanie snímky obrazovky...</string>
+    <string name="screenshot_saving_title">Ukladá sa snímka obrazovky…</string>
+    <string name="screenshot_saving_text">Snímka obrazovky sa ukladá.</string>
+    <string name="screenshot_saved_title">Snímka obr. zaznamenaná.</string>
+    <string name="screenshot_saved_text">Snímku obrazovky zobrazíte dotykom.</string>
+    <string name="screenshot_failed_title">Snímka obrazovky zlyhala</string>
+    <string name="screenshot_failed_text">Obsah môže byť chránený alebo je plná pamäť.</string>
+    <string name="usb_preference_title">Možnosti prenosu súborov cez USB</string>
+    <string name="use_mtp_button_title">Pripojiť ako prehrávač médií (MTP)</string>
+    <string name="use_ptp_button_title">Pripojiť ako fotoaparát (PTP)</string>
+    <string name="installer_cd_button_title">Inštalovať aplikáciu Prenos súborov Android pre systém Mac</string>
+    <string name="accessibility_back">Späť</string>
+    <string name="accessibility_home">Plocha</string>
+    <string name="accessibility_menu">Menu</string>
+    <string name="accessibility_recent">Tlačidlo na zobrazenie naposledy použitých aplikácií</string>
+    <string name="accessibility_search_light">Hľadať</string>
+    <string name="accessibility_camera_button">Fotoaparát</string>
+    <string name="accessibility_phone_button">Telefón</string>
+    <string name="accessibility_unlock_button">Odomknúť</string>
+    <string name="unlock_label">odomknúť</string>
+    <string name="phone_label">otvoriť telefón</string>
+    <string name="camera_label">otvoriť fotoaparát</string>
+    <string name="accessibility_compatibility_zoom_button">Tlačidlo úpravy veľkosti z dôvodu kompatibility.</string>
+    <string name="accessibility_compatibility_zoom_example">Zväčšenie menšieho obrázka na väčšiu obrazovku.</string>
+    <string name="accessibility_bluetooth_connected">Rozhranie Bluetooth je pripojené.</string>
+    <string name="accessibility_bluetooth_disconnected">Rozhranie Bluetooth je odpojené.</string>
+    <string name="accessibility_no_battery">Žiadna batéria.</string>
+    <string name="accessibility_battery_one_bar">Jedna čiarka indikátora batérie.</string>
+    <string name="accessibility_battery_two_bars">Dve čiarky indikátora batérie.</string>
+    <string name="accessibility_battery_three_bars">Tri čiarky indikátora batérie.</string>
+    <string name="accessibility_battery_full">Batéria je nabitá.</string>
+    <string name="accessibility_no_phone">Žiadny telefónny signál.</string>
+    <string name="accessibility_phone_one_bar">Jedna čiarka signálu telefónnej siete.</string>
+    <string name="accessibility_phone_two_bars">Dve čiarky signálu telefónnej siete.</string>
+    <string name="accessibility_phone_three_bars">Tri čiarky signálu telefónnej siete.</string>
+    <string name="accessibility_phone_signal_full">Plný signál telefónnej siete.</string>
+    <string name="accessibility_no_data">Žiadny dátový signál.</string>
+    <string name="accessibility_data_one_bar">Jedna čiarka signálu dátovej siete.</string>
+    <string name="accessibility_data_two_bars">Dve čiarky signálu dátovej siete.</string>
+    <string name="accessibility_data_three_bars">Tri čiarky signálu dátovej siete.</string>
+    <string name="accessibility_data_signal_full">Plný signál dátovej siete.</string>
+    <string name="accessibility_wifi_off">Sieť Wi-Fi je vypnutá.</string>
+    <string name="accessibility_no_wifi">Sieť Wi-Fi je odpojená.</string>
+    <string name="accessibility_wifi_one_bar">Jedna čiarka signálu siete Wi-Fi.</string>
+    <string name="accessibility_wifi_two_bars">Dve čiarky signálu siete Wi-Fi.</string>
+    <string name="accessibility_wifi_three_bars">Tri čiarky signálu siete Wi-Fi.</string>
+    <string name="accessibility_wifi_signal_full">Plný signál siete Wi-Fi.</string>
+    <string name="accessibility_wifi_name">Pripojené k: %s</string>
+    <string name="accessibility_bluetooth_name">Pripojené k: %s</string>
+    <string name="accessibility_no_wimax">Žiadna sieť WiMAX.</string>
+    <string name="accessibility_wimax_one_bar">Jedna čiarka signálu siete WiMAX.</string>
+    <string name="accessibility_wimax_two_bars">Dve čiarky signálu siete WiMAX.</string>
+    <string name="accessibility_wimax_three_bars">Tri čiarky signálu siete WiMAX.</string>
+    <string name="accessibility_wimax_signal_full">Plný signál siete WiMAX.</string>
+    <string name="accessibility_no_signal">Žiadny signál.</string>
+    <string name="accessibility_not_connected">Nepripojené.</string>
+    <string name="accessibility_zero_bars">Žiadna čiarka.</string>
+    <string name="accessibility_one_bar">Jedna čiarka.</string>
+    <string name="accessibility_two_bars">Dve čiarky.</string>
+    <string name="accessibility_three_bars">Tri čiarky.</string>
+    <string name="accessibility_signal_full">Plný signál.</string>
+    <string name="accessibility_desc_on">Zapnuté.</string>
+    <string name="accessibility_desc_off">Vypnuté.</string>
+    <string name="accessibility_desc_connected">Pripojené.</string>
+    <string name="accessibility_desc_connecting">Pripája sa</string>
+    <string name="accessibility_data_connection_gprs">GPRS</string>
+    <string name="accessibility_data_connection_1x">1 X</string>
+    <string name="accessibility_data_connection_hspa">HSPA</string>
+    <string name="accessibility_data_connection_3g">3G</string>
+    <string name="accessibility_data_connection_3.5g">3,5G</string>
+    <string name="accessibility_data_connection_4g">4G</string>
+    <string name="accessibility_data_connection_h_plus">HSPAP</string>
+    <string name="accessibility_data_connection_lte">LTE</string>
+    <string name="accessibility_data_connection_cdma">CDMA</string>
+    <string name="accessibility_data_connection_roaming">Roaming</string>
+    <string name="accessibility_data_connection_edge">Edge</string>
+    <string name="accessibility_data_connection_wifi">Wi-Fi</string>
+    <string name="accessibility_no_sim">Žiadna karta SIM.</string>
+    <string name="accessibility_bluetooth_tether">Zdieľanie internetového pripojenia prostredníctvom rozhrania Bluetooth.</string>
+    <string name="accessibility_airplane_mode">Režim V lietadle</string>
+    <string name="accessibility_battery_level">Batéria: %d percent.</string>
+    <string name="accessibility_settings_button">Systémové nastavenia.</string>
+    <string name="accessibility_notifications_button">Upozornenia.</string>
+    <string name="accessibility_remove_notification">Vymazať upozornenie.</string>
+    <string name="accessibility_gps_enabled">GPS je povolené.</string>
+    <string name="accessibility_gps_acquiring">Prebieha zameriavanie GPS.</string>
+    <string name="accessibility_tty_enabled">Nástroj TTY je zapnutý.</string>
+    <string name="accessibility_ringer_vibrate">Vibračné zvonenie.</string>
+    <string name="accessibility_ringer_silent">Tiché zvonenie.</string>
+    <string name="accessibility_recents_item_will_be_dismissed">Zrušiť aplikáciu %s</string>
+    <string name="accessibility_recents_item_dismissed">Aplikácia %s bola zrušená.</string>
+    <string name="accessibility_recents_item_launched">Spúšťa sa aplikácia %s</string>
+    <string name="accessibility_notification_dismissed">Upozornenie bolo zrušené.</string>
+    <string name="accessibility_desc_notification_shade">Panel upozornení.</string>
+    <string name="accessibility_desc_quick_settings">Rýchle nastavenia.</string>
+    <string name="accessibility_desc_lock_screen">Obrazovka uzamknutia</string>
+    <string name="accessibility_desc_settings">Nastavenia</string>
+    <string name="accessibility_desc_recent_apps">Tlačidlo na zobrazenie naposledy použitých aplikácií</string>
+    <string name="accessibility_quick_settings_user">Používateľ: %s.</string>
+    <string name="accessibility_quick_settings_wifi">%1$s</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">Pripojenie Wi-Fi je vypnuté</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">Pripojenie Wi-Fi je zapnuté</string>
+    <string name="accessibility_quick_settings_mobile">Mobil: %1$s. %2$s. %3$s.</string>
+    <string name="accessibility_quick_settings_battery">Batéria: %s.</string>
+    <string name="accessibility_quick_settings_airplane_off">Režim V lietadle vypnutý</string>
+    <string name="accessibility_quick_settings_airplane_on">Režim V lietadle zapnutý</string>
+    <string name="accessibility_quick_settings_airplane_changed_off">Režim V lietadle je vypnutý</string>
+    <string name="accessibility_quick_settings_airplane_changed_on">Režim V lietadle je zapnutý</string>
+    <string name="accessibility_quick_settings_data_off">Mobilné dáta sú vypnuté.</string>
+    <string name="accessibility_quick_settings_data_on">Mobilné dáta sú zapnuté.</string>
+    <string name="accessibility_quick_settings_roaming_off">Roaming je vypnutý.</string>
+    <string name="accessibility_quick_settings_roaming_on">Roaming je zapnutý.</string>
+    <string name="accessibility_quick_settings_bluetooth_off">Pripojenie Bluetooth je vypnuté</string>
+    <string name="accessibility_quick_settings_bluetooth_on">Pripojenie Bluetooth je zapnuté</string>
+    <string name="accessibility_quick_settings_bluetooth_connecting">Pripája sa cez Bluetooth</string>
+    <string name="accessibility_quick_settings_bluetooth_connected">Bluetooth je pripojené</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_off">Pripojenie Bluetooth je vypnuté</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_on">Pripojenie Bluetooth je zapnuté</string>
+    <string name="accessibility_quick_settings_location_off">Hlásenie o polohe je vypnuté</string>
+    <string name="accessibility_quick_settings_location_on">Hlásenie o polohe je zapnuté</string>
+    <string name="accessibility_quick_settings_location_changed_off">Hlásenie o polohe je vypnuté</string>
+    <string name="accessibility_quick_settings_location_changed_on">Hlásenie o polohe je zapnuté</string>
+    <string name="accessibility_quick_settings_alarm">Budík nastavený na %s.</string>
+    <string name="accessibility_quick_settings_close">Zatvorenie panela</string>
+    <string name="accessibility_quick_settings_more_time">Dlhší čas</string>
+    <string name="accessibility_quick_settings_less_time">Kratší čas</string>
+    <string name="accessibility_quick_settings_flashlight_off">Baterka je vypnutá</string>
+    <string name="accessibility_quick_settings_flashlight_on">Baterka je zapnutá</string>
+    <string name="accessibility_quick_settings_flashlight_changed_off">Baterka je vypnutá</string>
+    <string name="accessibility_quick_settings_flashlight_changed_on">Baterka je zapnutá</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_off">Inverzia farieb je vypnutá</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_on">Inverzia farieb je zapnutá</string>
+    <string name="accessibility_quick_settings_hotspot_changed_off">Mobilný prístupový bod sa vypol</string>
+    <string name="accessibility_quick_settings_hotspot_changed_on">Mobilný prístupový bod sa zapol</string>
+    <string name="accessibility_casting_turned_off">Záznam obrazovky sa zastavil</string>
+    <string name="accessibility_brightness">Jas displeja</string>
+    <string name="data_usage_disabled_dialog_3g_title">Dáta 2G – 3G sú vypnuté</string>
+    <string name="data_usage_disabled_dialog_4g_title">Dáta 4G sú vypnuté</string>
+    <string name="data_usage_disabled_dialog_mobile_title">Mobilné dátové prenosy sú zakázané</string>
+    <string name="data_usage_disabled_dialog_title">Mobilné dáta sú vypnuté</string>
+    <string name="data_usage_disabled_dialog">"Zariadenie vyplo mobilné dátové pripojenie, pretože sa dosiahol nastavený limit.
+
+Ak ho znova zapnete, poskytovateľ služieb si môže účtovať poplatky."</string>
+    <string name="data_usage_disabled_dialog_enable">Zapnúť mobil. dáta</string>
+    <string name="status_bar_settings_signal_meter_disconnected">Bez prip. na internet</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">Pripojené k Wi-Fi</string>
+    <string name="gps_notification_searching_text">Hľadanie systému GPS</string>
+    <string name="gps_notification_found_text">Poloha nastavená pomocou systému GPS</string>
+    <string name="accessibility_location_active">Žiadosti o zistenie miesta sú aktívne</string>
+    <string name="accessibility_clear_all">Vymazanie všetkých upozornení.</string>
+    <string name="status_bar_notification_inspect_item_title">Nastavenia upozornení</string>
+    <string name="status_bar_notification_app_settings_title">Nastavenia aplikácie %s</string>
+    <string name="accessibility_rotation_lock_off">Obrazovka sa automaticky otočí.</string>
+    <string name="accessibility_rotation_lock_on_landscape">Obrazovka je uzamknutá v orientácii na šírku.</string>
+    <string name="accessibility_rotation_lock_on_portrait">Obrazovka je uzamknutá v orientácii na výšku.</string>
+    <string name="accessibility_rotation_lock_off_changed">Obrazovka sa začne automaticky otáčať</string>
+    <string name="accessibility_rotation_lock_on_landscape_changed">Obrazovka je zamknutá v zobrazení na šírku</string>
+    <string name="accessibility_rotation_lock_on_portrait_changed">Obrazovka je zamknutá v zobrazení na výšku</string>
+    <string name="dessert_case">Pult s dezertmi</string>
+    <string name="start_dreams">Šetrič obrazovky</string>
+    <string name="ethernet_label">Ethernet</string>
+    <string name="quick_settings_airplane_mode_label">Režim V lietadle</string>
+    <string name="quick_settings_mobile_data_label">Mobilné dáta</string>
+    <string name="quick_settings_roaming_label">Roaming</string>
+    <string name="quick_settings_battery_charging_label">Nabíjanie, %d%%</string>
+    <string name="quick_settings_battery_charged_label">Nabité</string>
+    <string name="quick_settings_bluetooth_label">Bluetooth</string>
+    <string name="quick_settings_bluetooth_multiple_devices_label">Rozhranie Bluetooth (počet zariadení: %d)</string>
+    <string name="quick_settings_bluetooth_off_label">Rozhranie Bluetooth je vypnuté</string>
+    <string name="quick_settings_bluetooth_detail_empty_text">Nie sú k dispozícii žiadne spárované zariadenia</string>
+    <string name="quick_settings_brightness_label">Jas</string>
+    <string name="quick_settings_rotation_unlocked_label">Automatické otočenie</string>
+    <string name="quick_settings_rotation_locked_label">Otáčanie je uzamknuté</string>
+    <string name="quick_settings_rotation_locked_portrait_label">Na výšku</string>
+    <string name="quick_settings_rotation_locked_landscape_label">Na šírku</string>
+    <string name="quick_settings_ime_label">Metóda vstupu</string>
+    <string name="quick_settings_location_label">Miesto</string>
+    <string name="quick_settings_location_off_label">Miesto je vypnuté</string>
+    <string name="quick_settings_media_device_label">Mediálne zariadenie</string>
+    <string name="quick_settings_rssi_label">RSSI</string>
+    <string name="quick_settings_rssi_emergency_only">Len tiesňové volania</string>
+    <string name="quick_settings_settings_label">Nastavenia</string>
+    <string name="quick_settings_time_label">Čas</string>
+    <string name="quick_settings_user_label">Ja</string>
+    <string name="quick_settings_user_title">Používateľ</string>
+    <string name="quick_settings_user_new_user">Nový používateľ</string>
+    <string name="quick_settings_wifi_label">Wi-Fi</string>
+    <string name="quick_settings_wifi_not_connected">Nepripojené</string>
+    <string name="quick_settings_wifi_no_network">Žiadna sieť</string>
+    <string name="quick_settings_wifi_off_label">Sieť Wi-Fi je vypnutá</string>
+    <string name="quick_settings_wifi_detail_empty_text">Nie sú k dispozícii žiadne uložené siete</string>
+    <string name="quick_settings_cast_title">Vzdialená obrazovka</string>
+    <string name="quick_settings_casting">Prenáša sa</string>
+    <string name="quick_settings_cast_device_default_name">Nepomenované zariadenie</string>
+    <string name="quick_settings_cast_device_default_description">Pripravené na prenášanie</string>
+    <string name="quick_settings_cast_detail_empty_text">Nie sú k dispozícii žiadne zariadenia</string>
+    <string name="quick_settings_brightness_dialog_title">Jas</string>
+    <string name="quick_settings_brightness_dialog_auto_brightness_label">AUTOMATICKY</string>
+    <string name="quick_settings_apn_switch_label">APN switch</string>
+    <string name="quick_settings_inversion_label">Invertovať farby</string>
+    <string name="quick_settings_color_space_label">Režim korekcie farieb</string>
+    <string name="quick_settings_more_settings">ĎALŠIE NASTAVENIA</string>
+    <string name="quick_settings_done">HOTOVO</string>
+    <string name="quick_settings_connected">Pripojené</string>
+    <string name="quick_settings_connected_via_wfa">Pripojené pomocou Asistenta Wi-Fi</string>
+    <string name="quick_settings_connecting">Pripája sa...</string>
+    <string name="quick_settings_tethering_label">Zdieľanie dátového pripojenia</string>
+    <string name="quick_settings_hotspot_label">Prístupový bod</string>
+    <string name="quick_settings_notifications_label">Upozornenia</string>
+    <string name="quick_settings_flashlight_label">Baterka</string>
+    <string name="quick_settings_cellular_detail_title">Mobilné dáta</string>
+    <string name="quick_settings_cellular_detail_data_usage">Využitie dát</string>
+    <string name="quick_settings_cellular_detail_remaining_data">Zostávajúce údaje</string>
+    <string name="quick_settings_cellular_detail_over_limit">Dosiahol sa limit, používanie dát je pozastavené</string>
+    <string name="quick_settings_cellular_detail_data_used">Využité: %s</string>
+    <string name="quick_settings_cellular_detail_data_limit">Limit: %s</string>
+    <string name="quick_settings_cellular_detail_data_warning">Upozornenie pri %s</string>
+    <string name="quick_settings_dds_sub">Údaje na karte %d</string>
+    <string name="quick_settings_data_off">Dáta sú vypnuté</string>
+    <string name="recents_empty_message">Žiadne naposledy použité aplikácie</string>
+    <string name="recents_app_info_button_label">Informácie o aplikácii</string>
+    <string name="recents_lock_to_app_button_label">Uzamknutie v aplikácii</string>
+    <string name="recents_search_bar_label">hľadať</string>
+    <string name="recents_launch_error_message">Aplikáciu %s sa nepodarilo spustiť</string>
+    <string name="expanded_header_battery_charged">Nabitá</string>
+    <string name="expanded_header_battery_charging">Nabíja sa</string>
+    <string name="expanded_header_battery_charging_with_time">Úplné nabitie o %s</string>
+    <string name="expanded_header_battery_not_charging">Nenabíja sa</string>
+    <string name="ssl_ca_cert_warning">"Sieť môže byť
+monitorovaná"</string>
+    <string name="description_target_search">Vyhľadávanie</string>
+    <string name="description_direction_up">Posuňte prstom nahor: %s.</string>
+    <string name="description_direction_left">Posuňte prstom doľava: %s.</string>
+    <string name="zen_no_interruptions_with_warning">Žiadne prerušenia vrátane budíkov</string>
+    <string name="zen_no_interruptions">Žiadne prerušenia. Budíky budú fungovať i naďalej.</string>
+    <string name="zen_important_interruptions">Iba prioritné prerušenia</string>
+    <string name="zen_alarm_information_time">Ďalší budík: %s</string>
+    <string name="zen_alarm_information_day_time">Ďalší budík: %s</string>
+    <string name="zen_alarm_warning">Váš budík o %s sa nespustí</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
+    <string name="speed_bump_explanation">Menej naliehavé upozornenia sa nachádzajú nižšie</string>
+    <string name="notification_tap_again">Upozornenie otvorte opätovným ťuknutím</string>
+    <string name="keyguard_unlock">Odomknite potiahnutím prstom nahor</string>
+    <string name="phone_hint">Telefón otvoríte prejdením doprava</string>
+    <string name="camera_hint">Fotoaparát otvoríte prejdením doľava</string>
+    <string name="interruption_level_none">Tichý režim</string>
+    <string name="interruption_level_priority">Priorita</string>
+    <string name="interruption_level_all">Zvuk</string>
+    <string name="keyguard_indication_charging_time">Nabíja sa (úplné nabitie o %s)</string>
+    <string name="accessibility_multi_user_switch_switcher">Prepnúť používateľa</string>
+    <string name="accessibility_multi_user_switch_switcher_with_current">Prepnúť používateľa (súčasný používateľ: %s)</string>
+    <string name="accessibility_multi_user_switch_quick_contact">Zobraziť profil</string>
+    <string name="user_add_user">Pridať používateľa</string>
+    <string name="user_new_user_name">Nový používateľ</string>
+    <string name="guest_nickname">Hosť</string>
+    <string name="guest_new_guest">Pridať hosťa</string>
+    <string name="guest_exit_guest">Odstrániť hosťa</string>
+    <string name="guest_exit_guest_dialog_title">Chcete odstrániť hosťa?</string>
+    <string name="guest_exit_guest_dialog_message">Odstránia sa všetky aplikácie a dáta tejto relácie</string>
+    <string name="guest_exit_guest_dialog_remove">Odstrániť</string>
+    <string name="guest_wipe_session_title">Vitajte späť ako hosť!</string>
+    <string name="guest_wipe_session_message">Chcete pokračovať v relácii?</string>
+    <string name="guest_wipe_session_wipe">Začať odznova</string>
+    <string name="guest_wipe_session_dontwipe">Áno, pokračovať</string>
+    <string name="user_add_user_title">Pridať nového používateľa?</string>
+    <string name="user_add_user_message_short">"Keď pridáte nového používateľa, musí si nastaviť vlastný priestor.
+
+Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných používateľov."</string>
+    <string name="battery_saver_notification_title">Šetrič batérie je zapnutý</string>
+    <string name="battery_saver_notification_text">Obmedzí výkon a prenos údajov na pozadí</string>
+    <string name="battery_saver_notification_action_text">Vypnúť šetrič batérie</string>
+    <string name="battery_level_template">%d %%</string>
+    <string name="notification_hidden_text">Skrytý obsah</string>
+    <string name="media_projection_dialog_text">Aplikácia %s začne zaznamenávať všetok obsah zobrazený na vašej obrazovke.</string>
+    <string name="media_projection_remember_text">Nabudúce nezobrazovať</string>
+    <string name="clear_all_notifications_text">Vymazať všetko</string>
+    <string name="media_projection_action_text">Spustiť</string>
+    <string name="empty_shade_text">Žiadne upozornenia</string>
+    <string name="tasklistview_title">Správca úloh</string>
+    <string name="message_switch_fail">Na túto úlohu sa nedá prepnúť, pretože nemá rozhranie.</string>
+    <string name="tasklist_killall">Zrušiť všetky úlohy</string>
+    <string name="tasklist_memory_usage" formatted="false">Kapacita pamäte (voľné/celkom): [%s]/[%s]</string>
+    <string name="message_keep_one_launcher">Ponechajte aspoň jeden spúšťač plochy.</string>
+    <string name="device_owned_footer">Zariadenie môže byť sledované</string>
+    <string name="profile_owned_footer">Profil môže byť monitorovaný</string>
+    <string name="vpn_footer">Sieť môže byť sledovaná</string>
+    <string name="monitoring_title_device_owned">Sledovanie zariadenia</string>
+    <string name="monitoring_title_profile_owned">Monitorovanie profilu</string>
+    <string name="monitoring_title">Sledovanie siete</string>
+    <string name="disable_vpn">Vypnúť VPN</string>
+    <string name="disconnect_vpn">Odpojiť sieť VPN</string>
+    <string name="monitoring_description_device_owned">"Toto zariadenie spravuje organizácia:
+%1$s
+
+Správca môže sledovať vaše zariadenie a aktivitu v sieti vrátane správ, aplikácií a zabezpečených webových stránok.
+
+Ďalšie informácie získate od svojho správcu."</string>
+    <string name="monitoring_description_vpn">"Aplikácii %1$s ste povolili nastaviť pripojenie VPN.
+
+Táto aplikácia môže sledovať vaše zariadenie a aktivitu v sieti vrátane správ, aplikácií a zabezpečených webových stránok."</string>
+    <string name="monitoring_description_legacy_vpn">"Ste pripojený/-á k sieti VPN (%1$s).
+
+Poskytovateľ služby VPN môže sledovať vaše zariadenie a aktivitu v sieti vrátane správ, aplikácií a zabezpečených webových stránok."</string>
+    <string name="monitoring_description_vpn_device_owned">"Toto zariadenie spravuje organizácia:
+%1$s
+
+Správca môže sledovať vašu aktivitu v sieti vrátane e-mailov, aplikácií a zabezpečených webových stránok. Ďalšie informácie získate od svojho správcu.
+
+Zároveň ste aplikácii %2$spovolili nastaviť pripojenie VPN. Táto aplikácia môže tiež sledovať vašu aktivitu v sieti."</string>
+    <string name="monitoring_description_legacy_vpn_device_owned">"Toto zariadenie spravuje organizácia:
+%1$s
+
+Správca môže sledovať vašu aktivitu v sieti vrátane e-mailov, aplikácií a zabezpečených webových stránok. Ďalšie informácie získate od svojho správcu.
+
+Zároveň ste pripojený/-á aj k sieti VPN (%2$s). Poskytovateľ služby VPN môže tiež sledovať vašu aktivitu v sieti."</string>
+    <string name="monitoring_description_profile_owned">"Tento profil spravuje organizácia:
+%1$s
+
+Správca môže sledovať vaše zariadenie a aktivitu v sieti vrátane správ, aplikácií a zabezpečených webových stránok.
+
+Ďalšie informácie získate od svojho správcu."</string>
+    <string name="monitoring_description_device_and_profile_owned">"Toto zariadenie spravuje organizácia:
+%1$s
+Váš profil spravuje organizácia:
+%2$s
+
+Správca môže sledovať vaše zariadenie a aktivitu v sieti vrátane správ, aplikácií a zabezpečených webových stránok.
+
+Ďalšie informácie získate od svojho správcu."</string>
+    <string name="monitoring_description_vpn_profile_owned">"Tento profil spravuje organizácia:
+%1$s
+
+Správca môže sledovať vašu aktivitu v sieti vrátane správ, aplikácií a zabezpečených webových stránok. Ďalšie informácie získate od svojho správcu.
+
+Zároveň ste aplikácii %2$spovolili možnosť nastaviť pripojenie VPN. Táto aplikácia tiež môže sledovať vašu aktivitu v sieti."</string>
+    <string name="monitoring_description_legacy_vpn_profile_owned">"Tento profil spravuje organizácia:
+%1$s
+
+Správca môže sledovať vašu aktivitu v sieti vrátane správ, aplikácií a zabezpečených webových stránok. Ďalšie informácie získate od svojho správcu.
+
+Zároveň ste pripojený/-á k sieti VPN (%2$s). Poskytovateľ služby VPN môže tiež sledovať vašu aktivitu v sieti."</string>
+    <string name="monitoring_description_vpn_device_and_profile_owned">"Toto zariadenie spravuje organizácia:
+%1$s
+Váš profil spravuje organizácia:
+%2$s
+
+Správca môže sledovať vašu aktivitu v sieti vrátane správ, aplikácií a zabezpečených webových stránok. Ďalšie informácie získate od svojho správcu.
+
+Zároveň ste aplikácii %3$spovolili možnosť nastaviť pripojenie VPN. Táto aplikácia tiež môže sledovať vašu aktivitu v sieti."</string>
+    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"Toto zariadenie spravuje organizácia:
+%1$s
+Váš profil spravuje organizácia:
+%2$s
+
+Správca môže sledovať vašu aktivitu v sieti vrátane správ, aplikácií a zabezpečených webových stránok. Ďalšie informácie získate od svojho správcu.
+
+Zároveň ste pripojený/-á k sieti VPN (%3$s). Poskytovateľ služby VPN môže tiež sledovať vašu aktivitu v sieti."</string>
+    <string name="keyguard_indication_trust_disabled">Zariadenie zostane zamknuté, kým ho manuálne neodomknete</string>
+    <string name="hidden_notifications_title">Získavať upozornenia rýchlejšie</string>
+    <string name="hidden_notifications_text">Zobraziť pred odomknutím</string>
+    <string name="hidden_notifications_cancel">Nie, vďaka</string>
+    <string name="hidden_notifications_setup">Nastaviť</string>
+    <string name="zen_mode_and_condition">%1$s. %2$s</string>
+    <string name="screen_pinning_title">Obrazovka je pripnutá</string>
+    <string name="screen_pinning_description">Obsah bude pripnutý v zobrazení, dokým ho neuvoľníte. Ak ho chcete uvoľniť, stlačte a podržte súčasne tlačidlá Späť a Prehľad.</string>
+    <string name="screen_pinning_description_accessible">Obsah bude pripnutý v zobrazení, dokým ho neuvoľníte. Uvoľníte ho stlačením a podržaním tlačidla Prehľad.</string>
+    <string name="screen_pinning_positive">Rozumiem</string>
+    <string name="screen_pinning_negative">Nie, vďaka</string>
+    <string name="quick_settings_reset_confirmation_title">Skryť %1$s?</string>
+    <string name="quick_settings_reset_confirmation_message">Táto položka sa znova zobrazí, keď ju v nastaveniach opätovne zapnete.</string>
+    <string name="quick_settings_reset_confirmation_button">Skryť</string>
+    <string name="accessibility_ime_switch_button">Tlačidlo prepnutia metódy vstupu.</string>
+    <string name="somc_kg_ice_button_label_0">ICE – In Case of Emergency</string>
+    <string name="somc_kg_ice_button_label_1">ICE</string>
+    <string name="somc_keyguard_analog_clock_name">Analógové hodiny</string>
+    <string name="digital_clock_name">Digitálne hodiny</string>
+    <string name="kg_somc_note">Upozornenie</string>
+    <string name="kg_somc_continue">Pokračovať</string>
+    <string name="sony_clock_name">Hodiny Sony</string>
+    <string name="lockscreen_voice_unlock_or_short_unlock_hint">Vyslovte prístupový výraz alebo na odblokovanie potiahnite prstom</string>
+    <string name="lockscreen_voice_unlock_error_hint">Prístupový výraz sa nerozpoznal</string>
+    <string name="lockscreen_microphone_image_hint">Obrázok mikrofónu</string>
+    <string name="app_name">Zámka klávesnice</string>
+    <string name="keyguard_password_enter_pin_code">Zadajte kód PIN</string>
+    <string name="keyguard_password_enter_puk_code">Zadajte kód PUK karty SIM a nový kód PIN</string>
+    <string name="keyguard_password_enter_puk_prompt">Kód PUK karty SIM</string>
+    <string name="keyguard_password_enter_pin_prompt">Nový kód PIN karty SIM</string>
+    <string name="keyguard_password_entry_touch_hint"><font size="17">Dotknutím zadajte heslo</font></string>
+    <string name="keyguard_password_enter_password_code">Zadajte heslo na odomknutie</string>
+    <string name="keyguard_password_enter_pin_password_code">Zadajte kód PIN na odomknutie</string>
+    <string name="keyguard_password_wrong_pin_code">Nesprávny kód PIN.</string>
+    <string name="lockscreen_sim_error_message_short">Neplatná karta.</string>
+    <string name="keyguard_label_text">Ak chcete telefón odomknúť, stlačte tlačidlo Ponuka a následne 0.</string>
+    <string name="faceunlock_multiple_failures">Prekročili ste maximálny povolený počet pokusov o odomknutie tvárou</string>
+    <string name="keyguard_charged">Batéria je nabitá</string>
+    <string name="keyguard_plugged_in">Nabíja sa</string>
+    <string name="keyguard_low_battery">Pripojte nabíjačku.</string>
+    <string name="keyguard_instructions_when_pattern_disabled">Telefón odomknete stlačením tlačidla Ponuka.</string>
+    <string name="keyguard_network_locked_message">Sieť je zablokovaná</string>
+    <string name="keyguard_perso_locked_message">SIM je zablokovaná prispôsobením</string>
+    <string name="keyguard_missing_sim_message_short">Nie je vložená karta SIM.</string>
+    <string name="keyguard_missing_sim_message">V telefóne nie je žiadna karta SIM.</string>
+    <string name="keyguard_missing_sim_instructions">Vložte kartu SIM.</string>
+    <string name="keyguard_missing_sim_instructions_long">Karta SIM chýba alebo sa z nej nedá čítať. Vložte kartu SIM.</string>
+    <string name="keyguard_permanent_disabled_sim_message_short">Karta SIM je zakázaná.</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"Vaša karta SIM bola natrvalo zakázaná.
+Ak chcete získať inú kartu SIM, kontaktujte svojho poskytovateľa bezdrôtových služieb."</string>
+    <string name="keyguard_sim_locked_message">Karta SIM je uzamknutá.</string>
+    <string name="keyguard_sim_puk_locked_message">Karta SIM je uzamknutá pomocou kódu PUK.</string>
+    <string name="keyguard_sim_unlock_progress_dialog_message">Prebieha odomykanie karty SIM...</string>
+    <string name="keyguard_accessibility_widget_changed">%1$s. Widget %2$d z %3$d.</string>
+    <string name="keyguard_accessibility_add_widget">Pridať widget.</string>
+    <string name="keyguard_accessibility_widget_empty_slot">Prázdne</string>
+    <string name="keyguard_accessibility_unlock_area_expanded">Oblasť na odomknutie bola rozšírená.</string>
+    <string name="keyguard_accessibility_unlock_area_collapsed">Oblasť na odomknutie bola zúžená.</string>
+    <string name="keyguard_accessibility_widget">Widget %1$s.</string>
+    <string name="keyguard_accessibility_user_selector">Výber používateľa</string>
+    <string name="keyguard_accessibility_camera">Fotoaparát</string>
+    <string name="keygaurd_accessibility_media_controls">Ovládacie prvky médií</string>
+    <string name="keyguard_accessibility_widget_reorder_start">Zmena usporiadania widgetov sa začala.</string>
+    <string name="keyguard_accessibility_widget_reorder_end">Zmena usporiadania widgetov sa skončila.</string>
+    <string name="keyguard_accessibility_widget_deleted">Widget %1$s bol odstránený.</string>
+    <string name="keyguard_accessibility_expand_lock_area">Rozšíriť oblasť na odomknutie.</string>
+    <string name="keyguard_accessibility_slide_unlock">Odomknutie posunutím.</string>
+    <string name="keyguard_accessibility_pattern_unlock">Odomknutie vzorom.</string>
+    <string name="keyguard_accessibility_face_unlock">Odomknutie tvárou.</string>
+    <string name="keyguard_accessibility_pin_unlock">Odomknutie kódom PIN.</string>
+    <string name="keyguard_accessibility_password_unlock">Odomknutie heslom.</string>
+    <string name="keyguard_accessibility_pattern_area">Oblasť na zadanie bezpečnostného vzoru.</string>
+    <string name="keyguard_accessibility_slide_area">Oblasť na posúvanie.</string>
+    <string name="keyguard_accessibility_pin_area">Oblasť kódu PIN</string>
+    <string name="keyguard_accessibility_sim_pin_area">Oblasť kódu PIN SIM karty</string>
+    <string name="keyguard_accessibility_sim_puk_area">Oblasť kódu PUK SIM karty</string>
+    <string name="keyguard_accessibility_transport_prev_description">Tlačidlo Predchádzajúca stopa</string>
+    <string name="keyguard_accessibility_transport_next_description">Tlačidlo Ďalšia stopa</string>
+    <string name="keyguard_accessibility_transport_pause_description">Tlačidlo Pozastaviť</string>
+    <string name="keyguard_accessibility_transport_play_description">Tlačidlo Prehrať</string>
+    <string name="keyguard_accessibility_transport_stop_description">Tlačidlo Zastaviť</string>
+    <string name="keyguard_accessibility_transport_thumbs_up_description">Páči sa mi</string>
+    <string name="keyguard_accessibility_transport_thumbs_down_description">Nepáči sa mi</string>
+    <string name="keyguard_accessibility_transport_heart_description">Srdce</string>
+    <string name="keyguard_accessibility_show_bouncer">Odomknite zariadenie a pokračujte</string>
+    <string name="keyguard_accessibility_hide_bouncer">Spustenie bolo zrušené</string>
+    <string name="keyguard_accessibility_delete_widget_start">Uvoľnením dotyku widget %1$s odstránite.</string>
+    <string name="keyguard_accessibility_delete_widget_end">Widget %1$s nebude odstránený.</string>
+    <string name="keyguard_accessibility_next_alarm">Nasledujúci budík je nastavený na %1$s</string>
+    <string name="password_keyboard_label_symbol_key">\?123</string>
+    <string name="password_keyboard_label_alpha_key">ABC</string>
+    <string name="password_keyboard_label_alt_key">ALT</string>
+    <string name="keyboardview_keycode_alt">Alt</string>
+    <string name="keyboardview_keycode_cancel">Zrušiť</string>
+    <string name="keyboardview_keycode_delete">Odstrániť</string>
+    <string name="keyboardview_keycode_done">Hotovo</string>
+    <string name="keyboardview_keycode_mode_change">Zmena režimu</string>
+    <string name="keyboardview_keycode_shift">Shift</string>
+    <string name="keyboardview_keycode_enter">Enter</string>
+    <string name="description_target_unlock">Odomknúť</string>
+    <string name="description_target_camera">Fotoaparát</string>
+    <string name="description_target_silent">Tichý</string>
+    <string name="description_target_soundon">Zapnúť zvuk</string>
+    <string name="description_direction_down">Posuňte prstom nadol: %s.</string>
+    <string name="description_direction_right">Posuňte prstom doprava: %s.</string>
+    <string name="user_switched">Aktuálny používateľ je %1$s.</string>
+    <string name="kg_emergency_call_label">Tiesňové volanie</string>
+    <string name="kg_forgot_pattern_button_text">Nepamätám si vzor</string>
+    <string name="kg_wrong_pattern">Nesprávny vzor</string>
+    <string name="kg_wrong_password">Nesprávne heslo</string>
+    <string name="kg_wrong_pin">Nesprávny kód PIN</string>
+    <string name="kg_too_many_failed_attempts_countdown">Skúste to znova o %d s.</string>
+    <string name="kg_pattern_instructions">Nakreslite svoj vzor odomknutia</string>
+    <string name="kg_sim_pin_instructions">Zadajte kód PIN karty SIM</string>
+    <string name="kg_sim_pin_instructions_multi">Zadajte kód PIN pre SIM kartu operátora %1$s</string>
+    <string name="kg_pin_instructions">Zadajte kód PIN</string>
+    <string name="kg_password_instructions">Zadajte heslo</string>
+    <string name="kg_puk_enter_puk_hint">Karta SIM je teraz zablokovaná. Zadajte kód PUK alebo o ďalšie informácie požiadajte poskytovateľa služieb.</string>
+    <string name="kg_puk_enter_puk_hint_multi">SIM karta operátora %1$s bola zakázaná. Ak chcete pokračovať, zadajte kód PUK. Podrobnosti získate od svojho operátora.</string>
+    <string name="kg_puk_enter_pin_hint">Zadajte požadovaný kód PIN</string>
+    <string name="kg_enter_confirm_pin_hint">Potvrďte požadovaný kód PIN</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Prebieha odomykanie karty SIM...</string>
+    <string name="kg_invalid_sim_pin_hint">Zadajte kód PIN s dĺžkou 4 až 8 číslic.</string>
+    <string name="kg_invalid_sim_puk_hint">Kód PUK musí obsahovať 8 číslic.</string>
+    <string name="kg_invalid_puk">Znova zadajte správny kód PUK. Opakované pokusy zakážu kartu SIM natrvalo.</string>
+    <string name="kg_invalid_confirm_pin_hint">Kódy PIN sa nezhodujú</string>
+    <string name="kg_login_too_many_attempts">Príliš veľa pokusov o nakreslenie vzoru</string>
+    <string name="kg_login_instructions">Ak chcete telefón odomknúť, prihláste sa pomocou svojho účtu Google.</string>
+    <string name="kg_login_username_hint">Meno používateľa (e-mail)</string>
+    <string name="kg_login_password_hint">Heslo</string>
+    <string name="kg_login_submit_button">Prihlásiť sa</string>
+    <string name="kg_login_invalid_input">Neplatné meno používateľa alebo heslo.</string>
+    <string name="kg_login_account_recovery_hint">"Zabudli ste svoje meno používateľa alebo heslo?
+Navštívte stránku "<b>google.com/accounts/recovery</b>.</string>
+    <string name="kg_login_checking_password">Prebieha kontrola účtu...</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"%d-krát ste zadali nesprávny kód PIN. 
+
+Skúste to znova o %d s."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"%d-krát ste zadali nesprávne heslo. 
+
+Skúste to znova o %d s."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"%d-krát ste použili nesprávny vzor odomknutia. 
+
+Skúste to znova o %d s."</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Telefón ste sa pokúsili odomknúť nesprávnym spôsobom %d-krát. Po %d ďalších neúspešných pokusoch sa v telefóne obnovia nastavenia od výrobcu a všetky používateľské údaje budú stratené.</string>
+    <string name="kg_failed_attempts_now_wiping">Telefón ste sa pokúsili odomknúť nesprávnym spôsobom %d-krát. V telefóne sa teraz obnovia nastavenia od výrobcu.</string>
+    <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">Telefón ste sa pokúsili %d-krát nesprávne odomknúť. Po ďalších neúspešných pokusoch (počet: %d) bude tento používateľ odstránený a spolu s ním všetky jeho údaje.</string>
+    <string name="kg_failed_attempts_now_erasing_user">Telefón ste sa pokúsili %d-krát nesprávne odomknúť. Používateľ bude odstránený a spolu s ním všetky jeho údaje.</string>
+    <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">Telefón ste sa pokúsili %d-krát nesprávne odomknúť. Po ďalších neúspešných pokusoch (počet: %d) bude pracovný profil odstránený a spolu s ním všetky údaje profilu.</string>
+    <string name="kg_failed_attempts_now_erasing_profile">Telefón ste sa pokúsili %d-krát nesprávne odomknúť. Pracovný profil bude odstránený spolu so všetkými údajmi.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"%d-krát ste nesprávne nakreslili svoj vzor odomknutia. Po %d ďalších neúspešných pokusoch sa zobrazí výzva na odomknutie telefónu pomocou e-mailového účtu.
+
+Skúste to znova o %d s."</string>
+    <string name="kg_reordering_delete_drop_target_text">Odstrániť</string>
+    <string name="kg_password_wrong_pin_code_pukked">Nesprávny kód PIN karty SIM. Zadajte kód PUK alebo o ďalšie informácie požiadajte poskytovateľa služieb.</string>
+    <string name="kg_password_wrong_puk_code_dead">Karta SIM je zablokovaná. Kontaktujte svojho poskytovateľa služieb.</string>
+    <string name="kg_password_pin_failed">Operácia kódu PIN karty SIM zlyhala!</string>
+    <string name="kg_password_puk_failed">Operácia kódu PUK karty SIM zlyhala!</string>
+    <string name="kg_pin_accepted">Kód bol prijatý!</string>
+    <string name="keyguard_transport_prev_description">Tlačidlo Predchádzajúca stopa</string>
+    <string name="keyguard_transport_next_description">Tlačidlo Ďalšia stopa</string>
+    <string name="keyguard_transport_pause_description">Tlačidlo Pozastaviť</string>
+    <string name="keyguard_transport_play_description">Tlačidlo Prehrať</string>
+    <string name="keyguard_transport_stop_description">Tlačidlo Zastaviť</string>
+    <string name="keyguard_carrier_default">Žiadny signál</string>
+    <string name="kg_dismiss">Zrušiť</string>
+    <string name="kg_slot_name">"Zásuvka %d: nová karta SIM "</string>
+    <string name="unmount_strings_dialog_content_txt">Počas odpájania nevyberajte kartu SD</string>
+    <string name="accessibility_desc_tab_quick_settings_edit">Úprava rýchlych nastavení</string>
+    <string name="accessibility_phone_four_bars">Štyri čiarky v telefóne.</string>
+    <string name="accessibility_state_vibrate">Vibrovať</string>
+    <string name="accessibility_tool_dragging">Presúva sa ikona</string>
+    <string name="accessibility_tool_drop_to_add">Sem vložte ikonu, aby sa pridala</string>
+    <string name="accessibility_tool_drop_to_remove">Sem vložte ikonu, aby sa odstránila</string>
+    <string name="accessibility_tool_edit_mode_done">Režim úprav je vypnutý</string>
+    <string name="accessibility_tool_edit_mode_enabled">Režim úprav je zapnutý</string>
+    <string name="brightness_adapt_checkbox_information">Prispôsobiť svetelným podmienkam</string>
+    <string name="brightness_help_information_automatic">Jas obrazovky sa dá upraviť automaticky. Štandardný jas nastavte pomocou jazdca.</string>
+    <string name="brightness_help_information_manual">Nastavte jas manuálne bez ohľadu na svetelné podmienky</string>
+    <string name="carrier_invalid_sim_card">Neplatná karta SIM</string>
+    <string name="carrier_text_perso_locked_message">Karta SIM alebo RUIM je zablokovaná pomocou osobného nastavenia</string>
+    <string name="close_all_apps_button_text">Zavrieť všetky</string>
+    <string name="close_all_apps_toast_text">Všetky aplikácie sú zatvorené</string>
+    <string name="data_traffic_cost_warning_dialog_message">Chcete povoliť prenos mobilných dát? V závislosti od predplatených sieťových služieb sa môžu uplatňovať dodatočné poplatky. Ak sa chcete vyhnúť dodatočným poplatkom, po skončení prenosu mobilné dáta vypnite.</string>
+    <string name="description_direction_left_down">K aplikácii %s prejdete potiahnutím prsta šikmo doľava a nadol.</string>
+    <string name="description_direction_left_up">K aplikácii %s prejdete potiahnutím prsta šikmo doľava a nahor.</string>
+    <string name="description_direction_up_left">K aplikácii %s prejdete potiahnutím prsta šikmo doľava a nahor.</string>
+    <string name="description_direction_up_right">K aplikácii %s prejdete potiahnutím prsta šikmo doprava a nahor.</string>
+    <string name="emergencymode_strings_could_not_use_quick_settings">Nedostupné v tiesňovom režime</string>
+    <string name="lockscreen_perso_locked_message">SIM/RUIM je zablok. (osob. nast.)</string>
+    <string name="new_note">Nová poznámka</string>
+    <string name="new_sketch">Nová skica</string>
+    <string name="no_button_txt">Nie</string>
+    <string name="priority_mode_notification_text">Ťuknutím zmeníte nastavenia prerušenia</string>
+    <string name="priority_mode_notification_title">Iba prioritné prerušenia</string>
+    <string name="quick_Settings">Rýchle nastavenia</string>
+    <string name="quick_settings_description">Na paneli upozornení vyberte počet rýchlych nastavení a zmeňte ich poradie</string>
+    <string name="quick_settings_detect_usb_device_label">Vyhľadať USB zariadenie</string>
+    <string name="quicksettings_hint_bubble">"Úprava rýchlych nastavení
+Rýchle nastavenia odstránite alebo pridáte tak,
+že sa dotknete ikon, podržíte ich a presuniete."</string>
+    <string name="quicksettings_toast_bubble">Vybrali ste maximálny počet rýchlych nastavení</string>
+    <string name="quicksettings_toast_torch">"Baterka sa nedá zapnúť,
+kým sa používa fotoaparát"</string>
+    <string name="quicksettings_toast_volte_not_supported">"Váš poskytovateľ služieb službu VoLTE
+momentálne nepodporuje"</string>
+    <string name="silent_mode_notification_text">Zap. zvuk stlačením tlačid. hlasitosti nahor</string>
+    <string name="silent_mode_notification_title">Ticho, bez prerušení</string>
+    <string name="smallapp_systemui_recentapp_menu_show_smallapp_txt">Zobraziť ako malú</string>
+    <string name="start_note_app">Spustenie aplikácie na poznámky</string>
+    <string name="start_sketch_app">Otvorenie aplikácie na skicovanie</string>
+    <string name="status_bar_airplanemode">Režim V lietadle</string>
+    <string name="status_bar_autorotate">Automatické otočenie</string>
+    <string name="status_bar_autosync">Automatická synchr. údajov</string>
+    <string name="status_bar_bluetooth">Bluetooth</string>
+    <string name="status_bar_brightness">Jas</string>
+    <string name="status_bar_glove_mode">Režim Rukavice</string>
+    <string name="status_bar_gps">GPS</string>
+    <string name="status_bar_location">Poloha</string>
+    <string name="status_bar_mirroring">Zrkadlenie obrazovky</string>
+    <string name="status_bar_mobile_data">Mobilné dáta</string>
+    <string name="status_bar_nfc">NFC</string>
+    <string name="status_bar_recent_failed_to_launch_app">Aplikáciu sa nepodarilo spustiť</string>
+    <string name="status_bar_roaming">Roaming</string>
+    <string name="status_bar_settings">Nastavenia</string>
+    <string name="status_bar_settings_airplanemode">Režim V lietadle</string>
+    <string name="status_bar_settings_autorotate">Aut. otoč. obrazovky</string>
+    <string name="status_bar_settings_autosync">Autom. synchr. údajov</string>
+    <string name="status_bar_settings_bluetooth">Bluetooth</string>
+    <string name="status_bar_settings_brightness">Jas</string>
+    <string name="status_bar_settings_glove_mode">Režim Rukavice</string>
+    <string name="status_bar_settings_gps">GPS</string>
+    <string name="status_bar_settings_location">Poloha</string>
+    <string name="status_bar_settings_mirroring">Zrkadlenie obrazovky</string>
+    <string name="status_bar_settings_mobile_data">Mobilný dátový prenos</string>
+    <string name="status_bar_settings_nfc">NFC</string>
+    <string name="status_bar_settings_roaming">Roaming</string>
+    <string name="status_bar_settings_settings">Skratka Nastavení</string>
+    <string name="status_bar_settings_sound">Zvuk</string>
+    <string name="status_bar_settings_wifi">Wi-Fi</string>
+    <string name="status_bar_settings_wifi_hotspot">Prístupový bod Wi-Fi</string>
+    <string name="status_bar_sound">Zvuk</string>
+    <string name="status_bar_tab_notifications_title">Upozornenia</string>
+    <string name="status_bar_tab_quick_settings_done">Hotovo</string>
+    <string name="status_bar_tab_quick_settings_edit">Upraviť</string>
+    <string name="status_bar_tab_quick_settings_title">Rýchle nastavenia</string>
+    <string name="status_bar_toolsbar_settings_title">Vybrať rýchle nastavenia</string>
+    <string name="status_bar_torch">Blesk</string>
+    <string name="status_bar_wifi">Wi-Fi</string>
+    <string name="status_bar_wifi_hotspot">Prístupový bod Wi‑Fi</string>
+    <string name="toast_message_maximum_number_of_tools_reached">Je vybratý maximálny počet rýchlych nastavení</string>
+    <string name="usbux_strings_charger_do_not_show_agin_txt">Už nezobrazovať</string>
+    <string name="usbux_strings_charger_incompatible_dialog_msg_txt">Pripojená nabíjačka nie je kompatibilná s týmto zariadením. Nabíjanie sa zastavilo, aby sa zariadenie nepoškodilo. Ak chcete v nabíjaní pokračovať, použite nabíjačku a kábel, ktoré boli dodané s týmto zariadením.</string>
+    <string name="usbux_strings_charger_incompatible_dialog_title_txt">Nenabíja sa</string>
+    <string name="usbux_strings_charger_incompatible_notification_summary_txt">Nedá sa nabíjať. Použite originálnu nabíjačku.</string>
+    <string name="usbux_strings_charger_under_current_dialog_msg_txt">Nabíjanie pomocou pripojenej nabíjačky bude trvať dlho. Ak chcete nabíjať rýchlejšie, použite nabíjačku a kábel, ktoré boli dodané s týmto zariadením.</string>
+    <string name="usbux_strings_charger_under_current_dialog_title_txt">Pomalé nabíjanie</string>
+    <string name="usbux_strings_charger_under_current_toast_txt">Ak chcete nabíjať rýchlejšie, použite originálnu nabíjačku.</string>
+    <string name="vzw_airplane_mode_dont_show_again">Viac nezobrazovať</string>
+    <string name="vzw_airplane_mode_is_on">Je zapnutý letový režim. Ak nepoužijete Wi-Fi, nebudete môcť používať internet, e-mail ani iné aplikácie, ktoré vyžadujú dátové pripojenie.</string>
+    <string name="vzw_airplane_mode_is_on_volte">Je zapnutý letový režim. Keď sú vypnuté mobilné dáta, videohovory nefungujú. Ak sa nepripojíte cez Wi-Fi, nebudete môcť používať ani internet, e-mail či iné aplikácie, ktoré vyžadujú dátové pripojenie.</string>
+    <string name="vzw_airplane_mode_turn_on">Ak sa nepripojíte cez Wi-Fi, nebudete už môcť používať internet, e-mail ani iné aplikácie, ktoré vyžadujú dátové pripojenie.</string>
+    <string name="vzw_airplane_mode_turn_on_volte">Keď sú vypnuté mobilné dáta, videohovory nefungujú. Ak sa nepripojíte cez Wi-Fi, nebudete môcť používať ani internet, e-mail či iné aplikácie, ktoré vyžadujú dátové pripojenie.</string>
+    <string name="vzw_airplane_turn_on_airplane_mode">Zapnúť režim V lietadle?</string>
+    <string name="vzw_status_bar_roam_status_data_roaming_txt">Dátový roaming</string>
+    <string name="vzw_status_bar_roam_status_roaming_txt">Roaming</string>
+    <string name="vzw_status_bar_roam_status_voice_and_data_roaming_txt">Hlasový a dátový roaming</string>
+    <string name="vzw_status_bar_roam_status_voice_roaming_txt">Hlasový roaming</string>
+    <string name="vzw_title_airplane_mode">Režim V lietadle</string>
+    <string name="vzw_title_airplane_mode_is_on">Režim V lietadle</string>
+    <string name="yes_button_txt">Áno</string>
+    <string name="dsds_keyguard_enter_sim_pin_txt">Zadajte PIN pre %s</string>
+    <string name="dsds_keyguard_enter_sim_puk_txt">Zadajte PUK pre %s</string>
+    <string name="dsds_sim_disable_notification_tray_first_line_txt">Karta %1$s je vypnutá</string>
+    <string name="dsds_sim_disable_notification_tray_second_line_txt">Ťuknutím zapnite %1$s</string>
+    <string name="keyguard_carrier_default_when_not_softbank_sim">Vložená karta SIM nepatrí do tohto telefónu. Vložte platnú kartu SIM.</string>
+    <string name="kg_somc_verizon_enter_confirm_pin_hint">Kód PIN pred opätovným zadaním skontrolujte.</string>
+    <string name="kg_somc_verizon_invalid_confirm_pin_hint">Ľutujeme, nové kódy PIN karty SIM sa nezhodujú. Zadajte nový kód PIN karty SIM pozostávajúci zo 4 až 8 číslic.</string>
+    <string name="kg_somc_verizon_password_wrong_pin_code_pukked">Po poslednom pokuse o zadanie kódu PIN sa táto karta SIM zablokovala. Poskytovateľa bezdrôtových služieb požiadajte o kód PUK na odblokovanie karty SIM. Stlačte položku Pokračovať a zadajte kód PUK na odblokovanie karty SIM.</string>
+    <string name="kg_somc_verizon_password_wrong_puk_code_dead">Po 10. pokuse o zadanie kódu PUK sa karta SIM natrvalo zablokovala. Poskytovateľa bezdrôtových služieb požiadajte o inú kartu SIM.</string>
+    <string name="kg_somc_verizon_puk_enter_pin_hint">Zadajte nový kód PIN karty SIM pozostávajúci z 4 až 8 číslic.</string>
+    <string name="kg_somc_verizon_puk_enter_puk_hint">Zadajte 8-ciferný kód PUK karty SIM</string>
+    <string name="kg_somc_verizon_sim_pin_instructions">Zadajte kód PIN karty SIM pozostávajúci z 4 až 8 číslic</string>
+    <string name="lockscreen_accessibility_unlock_hint">Telefón odomknete potiahnutím nahor alebo nadol</string>
+    <string name="lockscreen_app_name">Obrazovka uzamknutia</string>
+    <string name="lockscreen_short_unlock_hint">Odomknite potiahnutím prstom</string>
+    <string name="lockscreen_unlock_hint">Telefón odomknete potiahnutím nahor alebo nadol</string>
+</resources>

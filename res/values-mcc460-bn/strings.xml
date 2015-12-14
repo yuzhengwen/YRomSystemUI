@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_wifi_scanning_label">WLAN: স্ক্যান চলছে</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: সংযোগ হচ্ছে</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">"বিমান মোডে WLAN হটস্পট  উপলভ্য নয়"</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">WLAN বন্ধ।</string>
+    <string name="accessibility_no_wifi">WLAN সংযোগ বিচ্ছিন্ন।</string>
+    <string name="accessibility_wifi_one_bar">WLAN একটি বার৷</string>
+    <string name="accessibility_wifi_two_bars">WLAN দুটি বার৷</string>
+    <string name="accessibility_wifi_three_bars">WLAN তিনটি বার৷</string>
+    <string name="accessibility_wifi_signal_full">WLAN সিগন্যাল পূর্ণ৷</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN বন্ধ আছে</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN চালু আছে</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN সংযুক্ত</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN বন্ধ</string>
+    <string name="quick_settings_connected_via_wfa">WLAN সহায়ক-এর মাধ্যমে সংযুক্ত হয়েছে</string>
+    <string name="status_bar_settings_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">WLAN হটস্পট</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">WLAN হটস্পট</string>
+    <string name="vzw_airplane_mode_is_on">বিমান মোড চালু আছে। আপনি WLAN ব্যবহার না করলে, আপনি ইন্টারনেট, ইমেল বা ডেটা সংযোগের প্রয়োজন হয় এমন অন্য অ্যাপগুলিকে ব্যবহার করতে পারবেন না।</string>
+    <string name="vzw_airplane_mode_is_on_volte">বিমান মোড চালু আছে। মোবাইল ডেটা বন্ধ থাকা অবস্থায় ভিডিও কলগুলি কাজ করবে না। তাছাড়া, আপনি কোনো WLAN নেটওয়ার্কে সংযোগ না করলে ইন্টারনেট, ইমেল বা ডেটা সংযোগের প্রয়োজন হয় এমন অন্য অ্যাপগুলিকে ব্যবহার করতে পারবেন না।</string>
+    <string name="vzw_airplane_mode_turn_on">আপনি WLAN ব্যবহার না করলে, ইন্টারনেট, ইমেল বা ডেটা সংযোগের প্রয়োজন হয় এমন অন্য অ্যাপগুলিকে আর ব্যবহার করতে পারবেন না।</string>
+    <string name="vzw_airplane_mode_turn_on_volte">মোবাইল ডেটা বন্ধ থাকা অবস্থায় ভিডিও কলগুলি কাজ করবে না। তাছাড়া, আপনি কোনো WLAN নেটওয়ার্কে সংযোগ না করলে ইন্টারনেট, ইমেল বা ডেটা সংযোগের প্রয়োজন হয় এমন অন্য অ্যাপগুলি ব্যবহার করতে পারবেন না।</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_wifi_scanning_label">WLAN：正在扫描</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN：正在连接</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">移动热点在飞行模式下不可用</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">已关闭WLAN。</string>
+    <string name="accessibility_no_wifi">WLAN连接已断开。</string>
+    <string name="accessibility_wifi_one_bar">WLAN 信号强度为一格。</string>
+    <string name="accessibility_wifi_two_bars">WLAN 信号强度为两格。</string>
+    <string name="accessibility_wifi_three_bars">WLAN 信号强度为三格。</string>
+    <string name="accessibility_wifi_signal_full">WLAN 信号满格。</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN网络关闭</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN网络开启</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN已连接</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN已关闭</string>
+    <string name="quick_settings_connected_via_wfa">已连接（通过 WLAN 助手）</string>
+    <string name="status_bar_settings_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">移动热点</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">移动热点</string>
+    <string name="vzw_airplane_mode_is_on">飞行模式已开启。除非您使用WLAN，否则无法使用互联网、电子邮件或其他需要数据连接的应用程序。</string>
+    <string name="vzw_airplane_mode_is_on_volte">飞行模式已开启。移动数据关闭时视频通话无法正常运行。另外，除非您连接到WLAN网络，否则将无法使用互联网、电子邮件或其他需要数据连接的应用程序。</string>
+    <string name="vzw_airplane_mode_turn_on">除非您使用WLAN，否则将无法再使用互联网、电子邮件或其他需要数据连接的应用程序。</string>
+    <string name="vzw_airplane_mode_turn_on_volte">移动数据关闭时视频通话无法正常运行。另外，除非您连接到WLAN网络，否则将无法使用互联网、电子邮件或其他需要数据连接的应用程序。</string>
+</resources>

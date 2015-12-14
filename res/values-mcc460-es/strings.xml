@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_wifi_scanning_label">WLAN: explorando</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: conectando</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">La zona activa de WLAN no está disponible en el modo de avión</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">WLAN desactivado.</string>
+    <string name="accessibility_no_wifi">WLAN desconectado.</string>
+    <string name="accessibility_wifi_one_bar">Una barra de WLAN</string>
+    <string name="accessibility_wifi_two_bars">Dos barras de WLAN</string>
+    <string name="accessibility_wifi_three_bars">Tres barras de WLAN</string>
+    <string name="accessibility_wifi_signal_full">Señal de WLAN al máximo</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN apagado</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN encendido</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">Con conexión WLAN</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN desactivado</string>
+    <string name="quick_settings_connected_via_wfa">Conexión por asistente de WLAN</string>
+    <string name="status_bar_settings_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">Zona activa de WLAN</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">Zona activa de WLAN</string>
+    <string name="vzw_airplane_mode_is_on">El modo de avión está activado. A menos que use WLAN, no podrá usar Internet, correo electrónico u otras aplicaciones que necesite de una conexión de datos.</string>
+    <string name="vzw_airplane_mode_is_on_volte">El modo de avión está activado. Las llamadas de video no funcionarán cuando los datos celulares estén apagados. Tampoco podrá usar Internet, correo electrónico ni otras aplicaciones que necesiten una conexión de datos a menos que se conecte a una red WLAN.</string>
+    <string name="vzw_airplane_mode_turn_on">A menos que use WLAN, ya no podrá usar Internet, correo electrónico u otras aplicaciones que necesiten una conexión de datos.</string>
+    <string name="vzw_airplane_mode_turn_on_volte">Las videoconferencias no funcionarán cuando los datos celulares estén apagados. Tampoco podrá usar Internet, correo electrónico ni otras aplicaciones que necesiten una conexión de datos a menos que se conecte a una red WLAN.</string>
+</resources>

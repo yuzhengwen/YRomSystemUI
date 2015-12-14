@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_wifi_scanning_label">WLAN. որոնում</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN. միացում</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">WLAN մատչելիության կետը հասանելի չէ ինքնաթիռի ռեժիմում</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">WLAN-ն անջատված է:</string>
+    <string name="accessibility_no_wifi">WLAN-ը անջատված է:</string>
+    <string name="accessibility_wifi_one_bar">WLAN-ը՝ մեկ գիծ</string>
+    <string name="accessibility_wifi_two_bars">WLAN-ը՝ երկու գիծ</string>
+    <string name="accessibility_wifi_three_bars">WLAN-ը՝ երեք գիծ</string>
+    <string name="accessibility_wifi_signal_full">WLAN-ի ազդանշանը լի է:</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN-ն անջատված է</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN-ը միացած է</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN-ը կապակցված է</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN-ն անջատված է</string>
+    <string name="quick_settings_connected_via_wfa">Կապակցված է WLAN Օգնականի միջոցով</string>
+    <string name="status_bar_settings_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">WLAN մտչլիութ կետ</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">WLAN մտչլիութ կետ</string>
+    <string name="vzw_airplane_mode_is_on">Ինքնաթիռի ռեժիմը միացված է: Եթե չեք օգտագործում WLAN, ապա չեք կարողանա օգտվել Ինտերնետից, Էլ. փոստից կամ այլ աշխատածրագրերից, որոնք պահանջում են տվյալների միացում:</string>
+    <string name="vzw_airplane_mode_is_on_volte">Ինքնաթիռի ռեժիմը միացված է: Երբ բջջային տվյալներն անջատված են, տեսականչերը չեն աշխատում: Դուք չեք կարողանա օգտագործել նաև Ինտերնետը, էլեկտրոնային փոստը կամ տվյալների միացում պահանջող այլ աշխատածրագրերը՝ եթե չմիանաք WLAN ցանցին:</string>
+    <string name="vzw_airplane_mode_turn_on">Եթե չեք օգտագործում WLAN, ապա այլևս չեք կարողանա օգտվել Ինտերնետից, Էլ. փոստից կամ այլ աշխատածրագրերից, որոնք պահանջում են տվյալների միացում:</string>
+    <string name="vzw_airplane_mode_turn_on_volte">Երբ բջջային տվյալներն անջատված են, տեսականչերը չեն աշխատում: Դուք չեք կարողանա օգտագործել նաև Ինտերնետը, էլեկտրոնային փոստը կամ տվյալների միացում պահանջող այլ աշխատածրագրերը՝ եթե չմիանաք WLAN ցանցին:</string>
+</resources>

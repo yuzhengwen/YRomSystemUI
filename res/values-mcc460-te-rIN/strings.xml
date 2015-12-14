@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">వైఫై ఆఫ్‌లో ఉంది.</string>
+    <string name="accessibility_no_wifi">వైఫై డిస్‌కనెక్ట్ చేయబడింది.</string>
+    <string name="accessibility_wifi_one_bar">వైఫై ఒక బార్ కలిగి ఉంది.</string>
+    <string name="accessibility_wifi_two_bars">వైఫై రెండు బార్‌లు కలిగి ఉంది.</string>
+    <string name="accessibility_wifi_three_bars">వైఫై మూడు బార్‌లు కలిగి ఉంది.</string>
+    <string name="accessibility_wifi_signal_full">వైఫై సిగ్నల్ పూర్తిగా ఉంది.</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">వైఫై ఆఫ్ చేయబడింది.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">వైఫై ఆన్ చేయబడింది.</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN కనెక్ట్ చేయబడింది</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN ఆఫ్‌లో ఉంది</string>
+    <string name="quick_settings_connected_via_wfa">WLAN సహాయకం ద్వారా కనెక్ట్ చేయబడింది</string>
+</resources>

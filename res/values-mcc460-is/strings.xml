@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_wifi_scanning_label">WLAN: Skannar</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: Tengist</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">"Heitur reitur WLAN nets er ekki tiltækur í flugstillingu "</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">Slökkt á WLAN.</string>
+    <string name="accessibility_no_wifi">WLAN aftengt.</string>
+    <string name="accessibility_wifi_one_bar">WLAN-samband eitt strik.</string>
+    <string name="accessibility_wifi_two_bars">WLAN-samband tvö strik.</string>
+    <string name="accessibility_wifi_three_bars">WLAN-samband þrjú strik.</string>
+    <string name="accessibility_wifi_signal_full">Fullt WLAN-samband.</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">Slökkt á WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">Kveikt á WLAN</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN er tengt</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">Slökkt á WLAN</string>
+    <string name="quick_settings_connected_via_wfa">Tengt í gegnum WLAN aðstoð</string>
+    <string name="status_bar_settings_wifi">WLAN-kerfi</string>
+    <string name="status_bar_settings_wifi_hotspot">Heitur WLAN reitur</string>
+    <string name="status_bar_wifi">WLAN-kerfi</string>
+    <string name="status_bar_wifi_hotspot">Heitur WLAN reitur</string>
+    <string name="vzw_airplane_mode_is_on">Kveikt er á flugstillingu. Nema þú notir WLAN geturðu ekki notað Internetið, tölvupóst eða önnur forrit sem krefjast gagnatengingar.</string>
+    <string name="vzw_airplane_mode_is_on_volte">Kveikt er á flugstillingu. Myndsímtöl virka ekki þegar slökkt er á gagnatengingu. Auk þess geturðu ekki notað Internetið, tölvupóst eða önnur forrit sem krefjast gagnatengingar nema þú tengist WLAN neti.</string>
+    <string name="vzw_airplane_mode_turn_on">Nema þú notir WLAN geturðu ekki lengur notað Internetið, tölvupóst eða önnur forrit sem krefjast gagnatengingar.</string>
+    <string name="vzw_airplane_mode_turn_on_volte">Myndsímtöl virka ekki þegar slökkt er á gagnatengingu. Auk þess geturðu ekki notað Internetið, tölvupóst eða önnur forrit sem krefjast gagnatengingar nema þú tengist WLAN neti.</string>
+</resources>

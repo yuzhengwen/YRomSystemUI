@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/theme_accent">
+        <bitmap android:src="@drawable/ic_qs_data_traffic_on_colored" android:tint="@color/somc_color_accent_dark" />
+    </item>
+</layer-list>

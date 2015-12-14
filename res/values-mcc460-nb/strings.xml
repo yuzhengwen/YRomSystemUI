@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_wifi_scanning_label">WLAN: Skanner</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: Kobler til</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">WLAN-tilkoblingspunkt er ikke tilgjengelig i flymodus</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">WLAN er av.</string>
+    <string name="accessibility_no_wifi">WLAN er frakoblet.</string>
+    <string name="accessibility_wifi_one_bar">WLAN – én stolpe.</string>
+    <string name="accessibility_wifi_two_bars">WLAN – to stolper.</string>
+    <string name="accessibility_wifi_three_bars">WLAN – tre stolper.</string>
+    <string name="accessibility_wifi_signal_full">WLAN-signal er ved full styrke.</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN slått av</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN slått på</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN tilkoblet</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN er av</string>
+    <string name="quick_settings_connected_via_wfa">Koblet til via en WLAN-assistent</string>
+    <string name="quick_settings_hotspot_label">WLAN-sone</string>
+    <string name="status_bar_settings_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">WLAN-tilkoblingspunkt</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">"WLAN-
+tilkoblingspunkt"</string>
+    <string name="vzw_airplane_mode_is_on">Flymodus er slått på. Hvis du ikke bruker WLAN, vil du ikke kunne bruke Internett, e-post eller andre apper som krever en datatilkobling.</string>
+    <string name="vzw_airplane_mode_is_on_volte">Flymodus er slått på. Videoanrop vil ikke fungere når mobildata er avslått. I tillegg vil du ikke kunne bruke Internett, e-post eller andre apper som trenger en datatilkobling, hvis du ikke kobler til et WLAN-nettverk.</string>
+    <string name="vzw_airplane_mode_turn_on">Hvis du ikke bruker WLAN, vil du ikke lenger kunne bruke Internett, e-post eller andre apper som krever en datatilkobling.</string>
+    <string name="vzw_airplane_mode_turn_on_volte">Videoanrop vil ikke fungere når mobildata er avslått. I tillegg vil du ikke kunne bruke Internett, e-post eller andre apper som trenger en datatilkobling, hvis du ikke kobler til et WLAN-nettverk.</string>
+</resources>

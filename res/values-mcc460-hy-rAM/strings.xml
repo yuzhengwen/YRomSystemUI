@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">WLAN-ը անջատված է:</string>
+    <string name="accessibility_no_wifi">WLAN-ը անջատված է:</string>
+    <string name="accessibility_wifi_one_bar">WLAN-ի մեկ գիծ:</string>
+    <string name="accessibility_wifi_two_bars">WLAN-ի երկու գիծ:</string>
+    <string name="accessibility_wifi_three_bars">WLAN-ի երեք գիծ:</string>
+    <string name="accessibility_wifi_signal_full">WLAN-ի ազդանշանը լիքն է:</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN-ն անջատվեց:</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN-ը միացավ:</string>
+    <string name="accessibility_quick_settings_hotspot_changed_off">Շարժական կապի WLAN ցրիչն անջատվեց:</string>
+    <string name="accessibility_quick_settings_hotspot_changed_on">Շարժական կապի WLAN ցրիչը միացավ:</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN-ը միացված է</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN-ը անջատված է</string>
+    <string name="quick_settings_connected_via_wfa">Կապակցված է WLAN Օգնականի միջոցով</string>
+</resources>

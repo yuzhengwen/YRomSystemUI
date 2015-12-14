@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_wifi_scanning_label">WLAN: Nyeken</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: Nyambungkeun</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">Hotspot WLAN teu sadia di modeu pesawt terbang</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">WLAN pareum.</string>
+    <string name="accessibility_no_wifi">Pegat sambungan WLAN.</string>
+    <string name="accessibility_wifi_one_bar">Sinyal WLAN ngan sagaris.</string>
+    <string name="accessibility_wifi_two_bars">Sinyal WLAN dua garis.</string>
+    <string name="accessibility_wifi_three_bars">Sinyal WLAN tilu garis.</string>
+    <string name="accessibility_wifi_signal_full">Sinyal WLAN pinuh.</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN dinonaktipkeun</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN diaktipkeun</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN nyambung</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN pareum</string>
+    <string name="quick_settings_connected_via_wfa">Nyambung ka asistem WLAN</string>
+    <string name="status_bar_settings_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">Hostspot WLAN</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">Hostspot WLAN</string>
+    <string name="vzw_airplane_mode_is_on">Modeu pesawat diaktipkeun. Kajaba anjeun make WLAN, anjeun moal tiasa make Internet, Surelek atawa aplikasi sejen nu perlu sambungan data.</string>
+    <string name="vzw_airplane_mode_is_on_volte">Modeu pesawat diaktipkeun. Telepon video moal ngapungsi upami data seluler pareum. Oge, anjeun moal tiasa make Internet, Surelek atau aplikasi sejen nu perlu sambungan data kajaba anjeun nyambung ka jaringan WLAN.</string>
+    <string name="vzw_airplane_mode_turn_on">Kajaba anjeun make WLAN, anjeun moal tiasa make Internet, Surelek atawa aplikasi sejen nu perlu sambungan data.</string>
+    <string name="vzw_airplane_mode_turn_on_volte">Telepon video moal ngapungsi upami data seluler pareum. Oge anjeun moal tiasa make Internet, Surelek atawa aplikasi sejen nu perlu sambungan data kajaba anjeun nyambung ka jaringan WLAN.</string>
+</resources>

@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usb_connected_txt">USB povezan</string>
+    <string name="to_charge_use_charger_txt">Koristite odobreni punjač za punjenje uređaja</string>
+    <string name="power_settings_instructions">Omogućavanjem načina rada STAMINA u opciji Upravljanje napajanjem optimizira se trajanje baterije</string>
+    <string name="battery_low_power_settings">Informacije o bateriji</string>
+    <string name="stamina_start_action">Omogući način rada STAMINA</string>
+    <string name="enable_stamina_tip">Možete optimizirati trajanje baterije omogućavanjem načina rada STAMINA.</string>
+    <string name="somc_qs_close">Zatvori</string>
+    <string name="somc_qs_hint">Dodirnite i držite ikone da premjestite Brze postavke</string>
+    <string name="somc_qs_title">Aktivne brze postavke</string>
+    <string name="somc_qs_max_exceeds">Odabran je maksimalni broj brzih postavki</string>
+    <string name="quick_settings_autosync_label">Automatsko sinhronizir. pod.</string>
+    <string name="quick_settings_data_traffic_label">Mobilni podaci</string>
+    <string name="quick_settings_screen_mirroring_label">Prikaz ekrana na drug. uređaju</string>
+    <string name="quick_settings_wifi_scanning_label">Wi-Fi: skeniranje</string>
+    <string name="quick_settings_wifi_connecting_label">Wi-Fi: povezivanje</string>
+    <string name="status_bar_autosync_dialog_enable_title">Uključiti automatsko sinhroniziranje podataka?</string>
+    <string name="status_bar_autosync_dialog_enable_warning">"Sve promjene koje načinite na računima na webu će biti automatski kopirane na telefon.
+
+Neki računi također mogu automatski kopirati na web promjene koje izvršite na telefonu.
+
+Da biste izabrali koje vrste podataka će se sinhronizirati za svaki računa, idite na Postavke > Računi."</string>
+    <string name="status_bar_autosync_dialog_extended_enable_warning">"Sve promjene koje napravite na računima na webu će se automatski kopirati na vaš uređaj.
+
+Neki računi također mogu automatski kopirati na web sve promjene koje napravite na uređaj.
+
+Da biste odabrali koju vrstu podataka želite sinhronizirati za svaki račun, idite na Postavke > Računi.
+
+Mogu biti zaračunati troškovi prijenosa podataka prilikom ažuriranja uređaja. Preporučuje se pretplata bez ograničenja u prijenosu podataka."</string>
+    <string name="status_bar_autosync_dialog_disable_title">Isključiti automatsko sinhroniziranje podataka?</string>
+    <string name="status_bar_autosync_dialog_disable_warning">Isključivanjem automatskog sinhroniziranja će se smanjiti potrošnja mobilnih podataka i baterije, ali ćete svaki račun trebati ručno sinhronizirati.</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">Wi-Fi pristupna tačka nije dostupna u načinu rada u avionu</string>
+    <string name="accessibility_desc_edit_quick_settings">Uredi brze postavke</string>
+    <string name="somc_start_camera_hint">Prevucite kako biste pokrenuli kameru</string>
+    <string name="somc_start_phone_hint">Prevucite kako biste pokrenuli upravljanje pozivom</string>
+    <string name="silent_mode_panel_silent">Nečujno</string>
+    <string name="silent_mode_panel_exceptions">Izuzeci</string>
+    <string name="silent_mode_panel_allow_exceptions">Dozvoli izuzetke</string>
+    <string name="silent_mode_panel_allow_alarm">Dozvoli alarm</string>
+    <string name="volume_dialog_ringtone">Melodija zvona</string>
+    <string name="volume_dialog_media">Jačina zvuka medija</string>
+    <string name="volume_dialog_notifications">Obavještenja</string>
+    <string name="volume_dialog_alarm">Alarm</string>
+    <string name="app_label">Korisnički UI</string>
+    <string name="status_bar_clear_all_button">Obrisati</string>
+    <string name="status_bar_recent_remove_item_title">Ukloni sa spiska</string>
+    <string name="status_bar_recent_inspect_item_title">Informacije o aplikaciji</string>
+    <string name="status_bar_no_recent_apps">Nema nedavnih aplikacija</string>
+    <string name="status_bar_accessibility_dismiss_recents">Odbaci nedavne aplikacije</string>
+    <string name="status_bar_no_notifications_title">Bez obavještenja</string>
+    <string name="status_bar_ongoing_events_title">U toku</string>
+    <string name="status_bar_latest_events_title">Obavještenja</string>
+    <string name="battery_low_title">Baterija je gotovo prazna</string>
+    <string name="battery_low_percent_format">Preostalo %s ili manje</string>
+    <string name="battery_low_percent_format_saver_started">Preostalo manje od %s. Štednja baterije je uključena.</string>
+    <string name="invalid_charger">"Punjenje putem USB-a nije podržano.
+Koristite samo isporučeni punjač."</string>
+    <string name="invalid_charger_title">USB punjenje nije podržano.</string>
+    <string name="invalid_charger_text">Koristite samo priloženi punjač.</string>
+    <string name="battery_low_why">Postavke</string>
+    <string name="battery_saver_confirmation_title">Uključiti štednju baterije?</string>
+    <string name="battery_saver_confirmation_ok">Uključi</string>
+    <string name="battery_saver_start_action">Uključi štednju baterije</string>
+    <string name="status_bar_settings_settings_button">Postavke</string>
+    <string name="status_bar_settings_wifi_button">Wi-Fi</string>
+    <string name="status_bar_settings_airplane">Režim za letenje avionom</string>
+    <string name="status_bar_settings_auto_rotation">Automatska rotacija ekrana</string>
+    <string name="status_bar_settings_mute_label">ISK. TON</string>
+    <string name="status_bar_settings_auto_brightness_label">AUTOM.</string>
+    <string name="status_bar_settings_notifications">Obavještenja</string>
+    <string name="bluetooth_tethered">Telefon se koristi kao modem putem Bluetooth veze</string>
+    <string name="status_bar_input_method_settings_configure_input_methods">Postavi načine unosa</string>
+    <string name="status_bar_use_physical_keyboard">Fizička tastatura</string>
+    <string name="usb_device_permission_prompt">Dozvoliti aplikaciji da %1$s da pristupa USB uređaju?</string>
+    <string name="usb_accessory_permission_prompt">Dozvoliti aplikaciji da %1$s da pristupa USB priboru?</string>
+    <string name="usb_device_confirm_prompt">Otvoriti %1$s nakon povezivanja ovog USB uređaja?</string>
+    <string name="usb_accessory_confirm_prompt">Otvoriti %1$s nakon povezivanja ovog USB pribora?</string>
+    <string name="usb_accessory_uri_prompt">Nijedna instalirana aplikacija ne radi sa ovim USB priborom. Saznajte više o ovom priboru na %1$s</string>
+    <string name="title_usb_accessory">USB pribor</string>
+    <string name="label_view">Prikazati</string>
+    <string name="always_use_device">Koristiti po zadanoj vrijednosti za ovaj USB uređaj</string>
+    <string name="always_use_accessory">Koristiti kao zadano za ovaj USB pribor</string>
+    <string name="usb_debugging_title">Dozvoliti USB ispravljanje grešaka?</string>
+    <string name="usb_debugging_message">"RSA otisak prsta koda na računaru je:
+
+%1$s"</string>
+    <string name="usb_debugging_always">Uvijek dozvoli s ovog računara</string>
+    <string name="compat_mode_on">Zumirati preko ekrana</string>
+    <string name="compat_mode_off">Razvući preko ekrana</string>
+    <string name="screenshot_saving_ticker">Zapisivanje snimka ekrana u toku…</string>
+    <string name="screenshot_saving_title">Zapisivanje snimka ekrana…</string>
+    <string name="screenshot_saving_text">Snimak ekrana se zapisuje.</string>
+    <string name="screenshot_saved_title">Snimak ekrana je načinjen.</string>
+    <string name="screenshot_saved_text">Dodirnite da prikažete snimak ekrana.</string>
+    <string name="screenshot_failed_title">Snimak ekr. nije napravljen</string>
+    <string name="screenshot_failed_text">Moguće je da je sadržaj zaštićen ili da je memorija puna.</string>
+    <string name="usb_preference_title">Opcije USB prijenosa datoteka</string>
+    <string name="use_mtp_button_title">Postavi kao medijski plejer (MTP)</string>
+    <string name="use_ptp_button_title">Postavi kao kameru (PTP)</string>
+    <string name="installer_cd_button_title">Instaliraj aplikaciju Android Prijenos datoteka za Mac</string>
+    <string name="accessibility_back">Natrag</string>
+    <string name="accessibility_home">Početna</string>
+    <string name="accessibility_menu">Izbornik</string>
+    <string name="accessibility_recent">Tipka za nedavne aplikacije</string>
+    <string name="accessibility_search_light">Traži</string>
+    <string name="accessibility_camera_button">Kamera</string>
+    <string name="accessibility_phone_button">Telefon</string>
+    <string name="accessibility_unlock_button">Otključaj</string>
+    <string name="unlock_label">otključaj</string>
+    <string name="phone_label">otvori telefon</string>
+    <string name="camera_label">otvori kameru</string>
+    <string name="accessibility_compatibility_zoom_button">Dugme zuma za kompatibilnost.</string>
+    <string name="accessibility_compatibility_zoom_example">Zumiraj manje na veći ekran.</string>
+    <string name="accessibility_bluetooth_connected">Bluetooth je povezan.</string>
+    <string name="accessibility_bluetooth_disconnected">Bluetooth veza je prekinuta.</string>
+    <string name="accessibility_no_battery">Nema baterije.</string>
+    <string name="accessibility_battery_one_bar">Baterija je na jednoj crtici.</string>
+    <string name="accessibility_battery_two_bars">Baterija je na dvije crtice.</string>
+    <string name="accessibility_battery_three_bars">Baterija je na tri crtice.</string>
+    <string name="accessibility_battery_full">Baterija je puna.</string>
+    <string name="accessibility_no_phone">Nema telefona.</string>
+    <string name="accessibility_phone_one_bar">Signal telefona je na jednoj crtici.</string>
+    <string name="accessibility_phone_two_bars">Signal telefona je na dvije crtice.</string>
+    <string name="accessibility_phone_three_bars">Signal telefona je na tri crtice.</string>
+    <string name="accessibility_phone_signal_full">Puni signal telefona.</string>
+    <string name="accessibility_no_data">Nema podataka.</string>
+    <string name="accessibility_data_one_bar">Signal za prijenos podataka na jednoj crtici.</string>
+    <string name="accessibility_data_two_bars">Signal za prijenos podataka na dvije crtice.</string>
+    <string name="accessibility_data_three_bars">Signal za prijenos podataka na tri crtice.</string>
+    <string name="accessibility_data_signal_full">Puni signal za prijenos podataka.</string>
+    <string name="accessibility_wifi_off">Wi-Fi isključen.</string>
+    <string name="accessibility_no_wifi">Wi-Fi veza prekinuta.</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi signal je na jednoj crtici.</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi signal je na dvije crtice.</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi signal je na tri crtice.</string>
+    <string name="accessibility_wifi_signal_full">Puni Wi-Fi signal.</string>
+    <string name="accessibility_wifi_name">Povezani ste na %s</string>
+    <string name="accessibility_bluetooth_name">Povezani ste na %s</string>
+    <string name="accessibility_no_wimax">Nema WiMAX signala.</string>
+    <string name="accessibility_wimax_one_bar">WiMAX signal na jednoj crtici.</string>
+    <string name="accessibility_wimax_two_bars">WiMAX signal na dvije crtice.</string>
+    <string name="accessibility_wimax_three_bars">WiMAX signal na tri crtice.</string>
+    <string name="accessibility_wimax_signal_full">Puni WiMAX signal.</string>
+    <string name="accessibility_no_signal">Nema signala.</string>
+    <string name="accessibility_not_connected">Veza nije uspostavljena.</string>
+    <string name="accessibility_zero_bars">Nijedna crtica.</string>
+    <string name="accessibility_one_bar">Jedna crtica.</string>
+    <string name="accessibility_two_bars">Dvije crtice.</string>
+    <string name="accessibility_three_bars">Tri crtice.</string>
+    <string name="accessibility_signal_full">Puni signal.</string>
+    <string name="accessibility_desc_on">Uključeno.</string>
+    <string name="accessibility_desc_off">Isključeno.</string>
+    <string name="accessibility_desc_connected">Povezano.</string>
+    <string name="accessibility_desc_connecting">Povezivanje.</string>
+    <string name="accessibility_data_connection_gprs">GPRS</string>
+    <string name="accessibility_data_connection_1x">1 X</string>
+    <string name="accessibility_data_connection_hspa">HSPA</string>
+    <string name="accessibility_data_connection_3g">3G</string>
+    <string name="accessibility_data_connection_3.5g">3.5G</string>
+    <string name="accessibility_data_connection_4g">4G</string>
+    <string name="accessibility_data_connection_h_plus">HSPAP</string>
+    <string name="accessibility_data_connection_lte">LTE</string>
+    <string name="accessibility_data_connection_cdma">CDMA</string>
+    <string name="accessibility_data_connection_roaming">Roming</string>
+    <string name="accessibility_data_connection_edge">Edge</string>
+    <string name="accessibility_data_connection_wifi">Wi-Fi</string>
+    <string name="accessibility_no_sim">Nema SIM kartice.</string>
+    <string name="accessibility_bluetooth_tether">Dijeljenje Internet veze putem Bluetooth veze.</string>
+    <string name="accessibility_airplane_mode">Režim za letenje avionom.</string>
+    <string name="accessibility_battery_level">Baterija je na %d procenata.</string>
+    <string name="accessibility_settings_button">Postavke sistema.</string>
+    <string name="accessibility_notifications_button">Obavještenja.</string>
+    <string name="accessibility_remove_notification">Obriši obavještenje.</string>
+    <string name="accessibility_gps_enabled">GPS je omogućen.</string>
+    <string name="accessibility_gps_acquiring">Pribavljanje GPS informacija u toku.</string>
+    <string name="accessibility_tty_enabled">TeleTypewriter omogućen.</string>
+    <string name="accessibility_ringer_vibrate">Zvonjava na vibraciji.</string>
+    <string name="accessibility_ringer_silent">Zvonjava utišana.</string>
+    <string name="accessibility_recents_item_will_be_dismissed">Odbaci %s</string>
+    <string name="accessibility_recents_item_dismissed">Aplikacija %s je uklonjena.</string>
+    <string name="accessibility_recents_item_launched">Pokreće se %s</string>
+    <string name="accessibility_notification_dismissed">Obavještenje odbačeno.</string>
+    <string name="accessibility_desc_notification_shade">Sjena obavještenja.</string>
+    <string name="accessibility_desc_quick_settings">Brze postavke.</string>
+    <string name="accessibility_desc_lock_screen">Zaključavanje ekrana</string>
+    <string name="accessibility_desc_settings">Postavke</string>
+    <string name="accessibility_desc_recent_apps">Tipka za nedavne aplikacije</string>
+    <string name="accessibility_quick_settings_user">Korisnik/ca %s.</string>
+    <string name="accessibility_quick_settings_wifi">%1$s</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">Wi-Fi veza je isključena</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">Wi-Fi veza je uključena</string>
+    <string name="accessibility_quick_settings_mobile">Mobilni %1$s. %2$s. %3$s.</string>
+    <string name="accessibility_quick_settings_battery">Baterija %s.</string>
+    <string name="accessibility_quick_settings_airplane_off">Način rada u avionu isključen</string>
+    <string name="accessibility_quick_settings_airplane_on">Uključen je način rada u avionu</string>
+    <string name="accessibility_quick_settings_airplane_changed_off">Način rada u avionu je isključen</string>
+    <string name="accessibility_quick_settings_airplane_changed_on">Način rada u avionu je uključen</string>
+    <string name="accessibility_quick_settings_data_off">Mobilni podaci isključeni.</string>
+    <string name="accessibility_quick_settings_data_on">Mobilni podaci uključeni.</string>
+    <string name="accessibility_quick_settings_roaming_off">Roming isključen.</string>
+    <string name="accessibility_quick_settings_roaming_on">Roming uključen.</string>
+    <string name="accessibility_quick_settings_bluetooth_off">Bluetooth isključen</string>
+    <string name="accessibility_quick_settings_bluetooth_on">Bluetooth uključen</string>
+    <string name="accessibility_quick_settings_bluetooth_connecting">Bluetooth se povezuje</string>
+    <string name="accessibility_quick_settings_bluetooth_connected">Bluetooth povezan</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_off">Bluetooth je isključen</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_on">Bluetooth uključen</string>
+    <string name="accessibility_quick_settings_location_off">Prijavljivanje lokacije isključeno</string>
+    <string name="accessibility_quick_settings_location_on">Prijavljivanje lokacije uključeno</string>
+    <string name="accessibility_quick_settings_location_changed_off">Prijavljivanje lokacije je isključeno</string>
+    <string name="accessibility_quick_settings_location_changed_on">Prijavljivanje lokacije je uključeno</string>
+    <string name="accessibility_quick_settings_alarm">Alarm postavljen za %s.</string>
+    <string name="accessibility_quick_settings_close">Zatvori okno.</string>
+    <string name="accessibility_quick_settings_more_time">Više vremena.</string>
+    <string name="accessibility_quick_settings_less_time">Manje vremena.</string>
+    <string name="accessibility_quick_settings_flashlight_off">Svjetiljka isključena</string>
+    <string name="accessibility_quick_settings_flashlight_on">Svjetiljka uključena</string>
+    <string name="accessibility_quick_settings_flashlight_changed_off">Svjetiljka isključena</string>
+    <string name="accessibility_quick_settings_flashlight_changed_on">Svjetiljka uključena</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_off">Inverzija boja isključena</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_on">Inverzija boja uključena</string>
+    <string name="accessibility_quick_settings_hotspot_changed_off">Mobilna pristupna tačka isključena</string>
+    <string name="accessibility_quick_settings_hotspot_changed_on">Mobilna pristupna tačka uključena</string>
+    <string name="accessibility_casting_turned_off">Emitiranje sadržaja ekrana zaustavljeno</string>
+    <string name="accessibility_brightness">Osvjetljenje ekrana</string>
+    <string name="data_usage_disabled_dialog_3g_title">2G-3G podaci isključeni</string>
+    <string name="data_usage_disabled_dialog_4g_title">4G podaci isključeni</string>
+    <string name="data_usage_disabled_dialog_mobile_title">Prenos podataka mobilnom mrežom onemogućen</string>
+    <string name="data_usage_disabled_dialog_title">Mobilni podaci isključeni</string>
+    <string name="data_usage_disabled_dialog">"Uređaj je isključio mobilne podatke jer je dosegao ograničenje koje ste postavili.
+
+Ako ih opet uključite, pružalac usluga će vam možda naplatiti troškove."</string>
+    <string name="data_usage_disabled_dialog_enable">Omog. mob. pod.</string>
+    <string name="status_bar_settings_signal_meter_disconnected">Nema internetske veze</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi je povezan</string>
+    <string name="gps_notification_searching_text">Traženje GPS-a u toku</string>
+    <string name="gps_notification_found_text">Lokacija koju je postavio GPS</string>
+    <string name="accessibility_location_active">Aktivni zahtjevi za lokaciju</string>
+    <string name="accessibility_clear_all">Obriši sva obavještenja.</string>
+    <string name="status_bar_notification_inspect_item_title">Postavke obavještenja</string>
+    <string name="status_bar_notification_app_settings_title">%s postavke</string>
+    <string name="accessibility_rotation_lock_off">Ekran će se automatski rotirati.</string>
+    <string name="accessibility_rotation_lock_on_landscape">Ekran je zaključan u horizontalnom položaju slike.</string>
+    <string name="accessibility_rotation_lock_on_portrait">Ekran je zaključan u uspravnom položaju slike.</string>
+    <string name="accessibility_rotation_lock_off_changed">Ekran će se sada automatski rotirati</string>
+    <string name="accessibility_rotation_lock_on_landscape_changed">Ekran je sada zaključan u položenoj orijentaciji</string>
+    <string name="accessibility_rotation_lock_on_portrait_changed">Ekran je sada zaključan u uspravnoj orijentaciji</string>
+    <string name="dessert_case">Polica za slatkiše</string>
+    <string name="start_dreams">Sanjarenje</string>
+    <string name="ethernet_label">Ethernet</string>
+    <string name="quick_settings_airplane_mode_label">Način rada u avionu</string>
+    <string name="quick_settings_mobile_data_label">Mobilni podaci</string>
+    <string name="quick_settings_roaming_label">Roming</string>
+    <string name="quick_settings_battery_charging_label">Punjenje, %d%%</string>
+    <string name="quick_settings_battery_charged_label">Baterija napunjena</string>
+    <string name="quick_settings_bluetooth_label">Bluetooth</string>
+    <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (Uređaja: %d)</string>
+    <string name="quick_settings_bluetooth_off_label">Bluetooth isključen</string>
+    <string name="quick_settings_bluetooth_detail_empty_text">Nema dostupnih uparenih uređaja</string>
+    <string name="quick_settings_brightness_label">Osvjetljenje</string>
+    <string name="quick_settings_rotation_unlocked_label">Automatska rotacija</string>
+    <string name="quick_settings_rotation_locked_label">Rotacija zaključana</string>
+    <string name="quick_settings_rotation_locked_portrait_label">Portret</string>
+    <string name="quick_settings_rotation_locked_landscape_label">Pejzaž</string>
+    <string name="quick_settings_ime_label">Način unosa</string>
+    <string name="quick_settings_location_label">Lokacija</string>
+    <string name="quick_settings_location_off_label">Lokacija isključena</string>
+    <string name="quick_settings_media_device_label">Medijski uređaj</string>
+    <string name="quick_settings_rssi_label">RSSI</string>
+    <string name="quick_settings_rssi_emergency_only">Samo pozivi za hitne slučajeve</string>
+    <string name="quick_settings_settings_label">Postavke</string>
+    <string name="quick_settings_time_label">Vrijeme</string>
+    <string name="quick_settings_user_label">Ja</string>
+    <string name="quick_settings_user_title">Korisnik</string>
+    <string name="quick_settings_user_new_user">Novi korisnik</string>
+    <string name="quick_settings_wifi_label">Wi-Fi</string>
+    <string name="quick_settings_wifi_not_connected">Veza nije uspostavljena</string>
+    <string name="quick_settings_wifi_no_network">Nema mreže</string>
+    <string name="quick_settings_wifi_off_label">Wi-Fi isključen</string>
+    <string name="quick_settings_wifi_detail_empty_text">Nema dostupnih sačuvanih mreža</string>
+    <string name="quick_settings_cast_title">Šalji sadržaj ekrana</string>
+    <string name="quick_settings_casting">Slanje sadržaja</string>
+    <string name="quick_settings_cast_device_default_name">Neimenovani uređaj</string>
+    <string name="quick_settings_cast_device_default_description">Spreman za slanje sadržaja</string>
+    <string name="quick_settings_cast_detail_empty_text">Nema dostupnih uređaja</string>
+    <string name="quick_settings_brightness_dialog_title">Osvjetljenje</string>
+    <string name="quick_settings_brightness_dialog_auto_brightness_label">AUTO</string>
+    <string name="quick_settings_apn_switch_label">Prebacivanje APN-a</string>
+    <string name="quick_settings_inversion_label">Invertiraj boje</string>
+    <string name="quick_settings_color_space_label">Način rada za korekciju boje</string>
+    <string name="quick_settings_more_settings">VIŠE POSTAVKI</string>
+    <string name="quick_settings_done">GOTOVO</string>
+    <string name="quick_settings_connected">Povezan</string>
+    <string name="quick_settings_connected_via_wfa">Povezano preko Wi‑Fi pomoćnika</string>
+    <string name="quick_settings_connecting">Povezivanje...</string>
+    <string name="quick_settings_tethering_label">Pristup internetu putem telefona domaćina</string>
+    <string name="quick_settings_hotspot_label">Pristupna tačka</string>
+    <string name="quick_settings_notifications_label">Obavještenja</string>
+    <string name="quick_settings_flashlight_label">Svjetiljka</string>
+    <string name="quick_settings_cellular_detail_title">Mobilni podaci</string>
+    <string name="quick_settings_cellular_detail_data_usage">Korištenje podataka</string>
+    <string name="quick_settings_cellular_detail_remaining_data">Preostali podaci</string>
+    <string name="quick_settings_cellular_detail_over_limit">Ograničenje dosegnuto – promet podataka pauziran</string>
+    <string name="quick_settings_cellular_detail_data_used">Iskorišteno %s</string>
+    <string name="quick_settings_cellular_detail_data_limit">Ograničenje %s</string>
+    <string name="quick_settings_cellular_detail_data_warning">Upozorenje na %s</string>
+    <string name="quick_settings_dds_sub">Podaci %d kartice</string>
+    <string name="quick_settings_data_off">Podaci isključeni</string>
+    <string name="recents_empty_message">Nema nedavnih aplikacija</string>
+    <string name="recents_app_info_button_label">Informacije o aplikaciji</string>
+    <string name="recents_lock_to_app_button_label">zaključaj na aplikaciju</string>
+    <string name="recents_search_bar_label">traži</string>
+    <string name="recents_launch_error_message">Nije bilo moguće pokrenuti %s.</string>
+    <string name="expanded_header_battery_charged">Napunjeno</string>
+    <string name="expanded_header_battery_charging">Punjenje</string>
+    <string name="expanded_header_battery_charging_with_time">%s do pune napunjenosti</string>
+    <string name="expanded_header_battery_not_charging">Ne puni se</string>
+    <string name="ssl_ca_cert_warning">"Moguće je da
+se mreža nadzire"</string>
+    <string name="description_target_search">Traži</string>
+    <string name="description_direction_up">Prevucite gore za radnju %s.</string>
+    <string name="description_direction_left">Prevucite lijevo za radnju %s.</string>
+    <string name="zen_no_interruptions_with_warning">Bez prekida, uključujući alarme</string>
+    <string name="zen_no_interruptions">Bez prekida. Alarmi će se i dalje oglašavati.</string>
+    <string name="zen_important_interruptions">Samo prioritetni prekidi</string>
+    <string name="zen_alarm_information_time">Sljedeći alarm je u %s</string>
+    <string name="zen_alarm_information_day_time">Sljedeći alarm: %s</string>
+    <string name="zen_alarm_warning">Nećete čuti alarm u %s</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
+    <string name="speed_bump_explanation">Manje hitna obavještenja ispod</string>
+    <string name="notification_tap_again">Dodirnite opet da otvorite</string>
+    <string name="keyguard_unlock">Prevucite kako biste otključali</string>
+    <string name="phone_hint">Prevucite udesno za telefon</string>
+    <string name="camera_hint">Prevucite ulijevo za kameru</string>
+    <string name="interruption_level_none">Nečujno</string>
+    <string name="interruption_level_priority">Prioritet</string>
+    <string name="interruption_level_all">Zvuk</string>
+    <string name="keyguard_indication_charging_time">Punjenje (%s do pune napunjenosti)</string>
+    <string name="accessibility_multi_user_switch_switcher">Prebaci korisnika</string>
+    <string name="accessibility_multi_user_switch_switcher_with_current">Zamijeni korisnika, trenutni korisnik %s</string>
+    <string name="accessibility_multi_user_switch_quick_contact">Prikaži profil</string>
+    <string name="user_add_user">Dodaj korisnika</string>
+    <string name="user_new_user_name">Novi korisnik</string>
+    <string name="guest_nickname">Gost</string>
+    <string name="guest_new_guest">Dodaj gosta</string>
+    <string name="guest_exit_guest">Ukloni gosta</string>
+    <string name="guest_exit_guest_dialog_title">Ukloniti gosta?</string>
+    <string name="guest_exit_guest_dialog_message">Sve aplikacije i podaci u ovoj sesiji će se izbrisati</string>
+    <string name="guest_exit_guest_dialog_remove">Ukloni</string>
+    <string name="guest_wipe_session_title">Dobro došli opet kao gost!</string>
+    <string name="guest_wipe_session_message">Da li želite nastaviti sesiju?</string>
+    <string name="guest_wipe_session_wipe">Počni ispočetka</string>
+    <string name="guest_wipe_session_dontwipe">Da, nastavi</string>
+    <string name="user_add_user_title">Dodati novog korisnika?</string>
+    <string name="user_add_user_message_short">"Kada dodate novog korisnika, on/a treba postaviti vlastiti prostor.
+
+Svaki korisnik može ažurirati aplikacije za sve ostale korisnike."</string>
+    <string name="battery_saver_notification_title">Štednja baterije je uključena</string>
+    <string name="battery_saver_notification_text">Smanjuje performanse i podatke u pozadini</string>
+    <string name="battery_saver_notification_action_text">Isključi štednju baterije</string>
+    <string name="battery_level_template">%d%%</string>
+    <string name="notification_hidden_text">Sadržaj sakriven</string>
+    <string name="media_projection_dialog_text">%s će početi bilježiti sve što se prikaže na vašem ekranu.</string>
+    <string name="media_projection_remember_text">Ne prikazuj ponovo</string>
+    <string name="clear_all_notifications_text">Obriši sve</string>
+    <string name="media_projection_action_text">Pokreni sada</string>
+    <string name="empty_shade_text">Bez obavještenja</string>
+    <string name="tasklistview_title">Upravitelj zadacima</string>
+    <string name="message_switch_fail">Ne može preći na ovaj zadatak jer nema interfejsa.</string>
+    <string name="tasklist_killall">Zatvori sve</string>
+    <string name="tasklist_memory_usage" formatted="false">Slobodna/ukupna memorija: [%s] / [%s]</string>
+    <string name="message_keep_one_launcher">Treba se zadržati bar jedna početna aktivnost!</string>
+    <string name="device_owned_footer">Moguće je da se uređaj nadzire</string>
+    <string name="profile_owned_footer">Moguće je da se profil nadzire</string>
+    <string name="vpn_footer">Moguće je da se mreža nadzire</string>
+    <string name="monitoring_title_device_owned">Nadziranje uređaja</string>
+    <string name="monitoring_title_profile_owned">Nadziranje profila</string>
+    <string name="monitoring_title">Nadziranje mreže</string>
+    <string name="disable_vpn">Onemogući VPN</string>
+    <string name="disconnect_vpn">Prekinu vezu na VPN</string>
+    <string name="monitoring_description_device_owned">"Ovim uređajem upravlja:
+%1$s
+
+Vaš administrator može nadzirati vaš uređaj i mrežnu aktivnost, uključujući poruke e-pošte, aplikacije i sigurne web lokacije.
+
+Obratite se administratoru za dodatne informacije."</string>
+    <string name="monitoring_description_vpn">"Dali ste aplikaciji \"%1$s\" dozvolu da postavlja VPN vezu.
+
+Ova aplikacija može nadzirati vaš uređaj i mrežnu aktivnost, uključujući poruke e-pošte, aplikacije i sigurne web lokacije."</string>
+    <string name="monitoring_description_legacy_vpn">"Povezani ste na VPN (\"%1$s\").
+
+Pružalac VPN usluge može nadzirati vaš uređaj i mrežnu aktivnost, uključujući poruke e-pošte, aplikacije i sigurne web lokacije."</string>
+    <string name="monitoring_description_vpn_device_owned">"Uređajem upravlja:
+%1$s
+
+Vaš administrator može nadzirati vašu mrežnu aktivnost, uključujući poruke e-pošte, aplikacije i sigurne web lokacije. Obratite se administratoru za dodatne informacije.
+
+Pored toga, aplikaciji \"%2$s\" ste dali dozvolu da postavlja VPN vezu. Ova aplikacija može nadzirati i mrežnu aktivnost."</string>
+    <string name="monitoring_description_legacy_vpn_device_owned">"Uređajem upravlja:
+%1$s
+
+Vaš administrator može nadzirati vašu mrežnu aktivnost, uključujući poruke e-pošte, aplikacije i sigurne web lokacije. Obratite se administratoru za dodatne informacije.
+
+Pored toga, povezani ste na VPN (\"%2$s\"). Pružalac VPN usluga može nadzirati i mrežnu aktivnost."</string>
+    <string name="monitoring_description_profile_owned">"Ovim profilom upravlja:
+%1$s
+
+Vaš administrator može nadzirati uređaj i aktivnost na mreži, uključujući poruke e-pošte, aplikacije i sigurne web lokacije.
+
+Dodatne informacije zatražite od administratora."</string>
+    <string name="monitoring_description_device_and_profile_owned">"Ovim uređajem upravlja:
+%1$s
+Vašim profilom upravlja:
+%2$s
+
+Vaš administrator može nadzirati uređaj i aktivnost na mreži, uključujući poruke e-pošte, aplikacije i sigurne web lokacije.
+
+Dodatne informacije zatražite od administratora."</string>
+    <string name="monitoring_description_vpn_profile_owned">"Ovim profilom upravlja:
+%1$s
+
+Vaš administrator može nadzirati vašu aktivnost na mreži, uključujući poruke e-pošte, aplikacije i sigurne web lokacije. Dodatne informacije zatražite od administratora.
+
+Pored toga, dali ste dozvolu aplikaciji \"%2$s\" da postavi VPN vezu. Ta aplikacija može nadzirati i aktivnost na mreži."</string>
+    <string name="monitoring_description_legacy_vpn_profile_owned">"Ovim profilom upravlja:
+%1$s
+
+Vaš administrator može nadzirati vašu aktivnost na mreži, uključujući poruke e-pošte, aplikacije i sigurne web lokacije. Dodatne informacije zatražite od administratora.
+
+Pored toga, povezani ste na VPN (\"%2$s\"). Vaš pružalac VPN usluga također može nadzirati aktivnost na mreži."</string>
+    <string name="monitoring_description_vpn_device_and_profile_owned">"Ovim uređajem upravlja:
+%1$s
+Vašim profilom upravlja:
+%2$s
+
+Vaš administrator može nadzirati vašu aktivnost na mreži, uključujući poruke e-pošte, aplikacije i sigurne web lokacije. Dodatne informacije zatražite od administratora.
+
+Pored toga, dali ste dozvolu aplikaciji \"%3$s\" da postavi VPN vezu. Ta aplikacija može nadzirati i aktivnost na mreži."</string>
+    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"Ovim uređajem upravlja:
+%1$s
+Vašim profilom upravlja:
+%2$s
+
+Vaš administrator može nadzirati vašu aktivnost na mreži, uključujući poruke e-pošte, aplikacije i sigurne web lokacije. Dodatne informacije zatražite od administratora.
+
+Pored toga, povezani ste na VPN (\"%3$s\"). Vaš pružalac VPN usluga također može nadzirati aktivnost na mreži."</string>
+    <string name="keyguard_indication_trust_disabled">Uređaj će ostati zaključan dok ga ne otključate ručno</string>
+    <string name="hidden_notifications_title">Brže primajte obavještenja</string>
+    <string name="hidden_notifications_text">Vidite ih prije nego što otključate</string>
+    <string name="hidden_notifications_cancel">Ne, hvala</string>
+    <string name="hidden_notifications_setup">Postavi</string>
+    <string name="zen_mode_and_condition">%1$s. %2$s</string>
+    <string name="screen_pinning_title">Ekran je zakačen</string>
+    <string name="screen_pinning_description">Time se nastavlja prikazivati dok ga ne otkačite. Da biste otkačili, istovremeno dodirnite i držite Nazad i Pregled.</string>
+    <string name="screen_pinning_description_accessible">Time se nastavlja prikazivati dok ga ne otkačite. Da biste otkačili, dodirnite i držite Pregled.</string>
+    <string name="screen_pinning_positive">Važi</string>
+    <string name="screen_pinning_negative">Ne, hvala</string>
+    <string name="quick_settings_reset_confirmation_title">Sakriti %1$s?</string>
+    <string name="quick_settings_reset_confirmation_message">Ponovo će se pojaviti narednog puta kada je uključite u postavkama.</string>
+    <string name="quick_settings_reset_confirmation_button">Sakriti</string>
+    <string name="accessibility_ime_switch_button">Dugme za promjenu načina unosa</string>
+    <string name="somc_kg_ice_button_label_0">ICE – In Case of Emergency</string>
+    <string name="somc_kg_ice_button_label_1">ICE</string>
+    <string name="somc_keyguard_analog_clock_name">Analogni sat</string>
+    <string name="digital_clock_name">Digitalni sat</string>
+    <string name="kg_somc_note">Napomena</string>
+    <string name="kg_somc_continue">Nastavi</string>
+    <string name="sony_clock_name">Sony sat</string>
+    <string name="lockscreen_voice_unlock_or_short_unlock_hint">Izgovorite pristupnu frazu ili prevucite prstom da otključate</string>
+    <string name="lockscreen_voice_unlock_error_hint">Pristupna fraza nije prepoznata</string>
+    <string name="lockscreen_microphone_image_hint">Slika mikrofona</string>
+    <string name="app_name">Čuvar tipki</string>
+    <string name="keyguard_password_enter_pin_code">Unesite PIN kôd</string>
+    <string name="keyguard_password_enter_puk_code">Unesite SIM PUK i novi PIN kôd</string>
+    <string name="keyguard_password_enter_puk_prompt">SIM PUK kôd</string>
+    <string name="keyguard_password_enter_pin_prompt">Novi SIM PIN kôd</string>
+    <string name="keyguard_password_entry_touch_hint"><font size="17">Dodirnite da unesete lozinku</font></string>
+    <string name="keyguard_password_enter_password_code">Unesite lozinku kako biste otključali</string>
+    <string name="keyguard_password_enter_pin_password_code">Unesite PIN kako biste otključali</string>
+    <string name="keyguard_password_wrong_pin_code">Netačan PIN kôd.</string>
+    <string name="lockscreen_sim_error_message_short">Nevažeća kartica.</string>
+    <string name="keyguard_label_text">Da biste otključali, pritisnite Meni, a zatim 0.</string>
+    <string name="faceunlock_multiple_failures">Premašen je maksimalni broj pokušaja otključavanja licem</string>
+    <string name="keyguard_charged">Napunjena</string>
+    <string name="keyguard_plugged_in">Punjenje u toku</string>
+    <string name="keyguard_low_battery">Povežite punjač.</string>
+    <string name="keyguard_instructions_when_pattern_disabled">Pritisnite Meni za otključavanje.</string>
+    <string name="keyguard_network_locked_message">Mreža je zaključana</string>
+    <string name="keyguard_perso_locked_message">SIM je zaključan uz personaliz.</string>
+    <string name="keyguard_missing_sim_message_short">Nema SIM kartice</string>
+    <string name="keyguard_missing_sim_message">Nema SIM kartice u telefonu</string>
+    <string name="keyguard_missing_sim_instructions">Umetnite SIM karticu.</string>
+    <string name="keyguard_missing_sim_instructions_long">SIM kartice nema ili se ne može čitati. Umetnite SIM karticu.</string>
+    <string name="keyguard_permanent_disabled_sim_message_short">SIM kartica je onemogućena</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"Vaša SIM kartica je trajno onemogućena.
+ Obratite se pružaocu bežične usluge i tražite novu SIM karticu."</string>
+    <string name="keyguard_sim_locked_message">SIM kartica je zaključana.</string>
+    <string name="keyguard_sim_puk_locked_message">SIM kartica je zaključana PUK-om.</string>
+    <string name="keyguard_sim_unlock_progress_dialog_message">Otključavanje SIM kartice...</string>
+    <string name="keyguard_accessibility_widget_changed">%1$s. Kontrola %2$d od %3$d.</string>
+    <string name="keyguard_accessibility_add_widget">Dodaj kontrolu.</string>
+    <string name="keyguard_accessibility_widget_empty_slot">Prazno</string>
+    <string name="keyguard_accessibility_unlock_area_expanded">Područje otključavanja povećano.</string>
+    <string name="keyguard_accessibility_unlock_area_collapsed">Područje otključavanja smanjeno.</string>
+    <string name="keyguard_accessibility_widget">%1$s kontrola.</string>
+    <string name="keyguard_accessibility_user_selector">Odabir korisnika</string>
+    <string name="keyguard_accessibility_camera">Kamera</string>
+    <string name="keygaurd_accessibility_media_controls">Kontrole medija</string>
+    <string name="keyguard_accessibility_widget_reorder_start">Pokrenuta je promjena redoslijeda kontrola.</string>
+    <string name="keyguard_accessibility_widget_reorder_end">Promjena redoslijeda kontrola dovršena.</string>
+    <string name="keyguard_accessibility_widget_deleted">Kontrola %1$s izbrisana.</string>
+    <string name="keyguard_accessibility_expand_lock_area">Povećaj područje otključavanja.</string>
+    <string name="keyguard_accessibility_slide_unlock">Otključavanje prevlačenjem.</string>
+    <string name="keyguard_accessibility_pattern_unlock">Otključavanje uzorkom.</string>
+    <string name="keyguard_accessibility_face_unlock">Otključavanje licem.</string>
+    <string name="keyguard_accessibility_pin_unlock">Otključavanje PIN-om.</string>
+    <string name="keyguard_accessibility_password_unlock">Otključavanje lozinkom.</string>
+    <string name="keyguard_accessibility_pattern_area">Područje uzorka.</string>
+    <string name="keyguard_accessibility_slide_area">Područje klizanja.</string>
+    <string name="keyguard_accessibility_pin_area">Područje za PIN</string>
+    <string name="keyguard_accessibility_sim_pin_area">Područje za SIM PIN</string>
+    <string name="keyguard_accessibility_sim_puk_area">Područje za SIM PUK</string>
+    <string name="keyguard_accessibility_transport_prev_description">Dugme za prethodnu numeru</string>
+    <string name="keyguard_accessibility_transport_next_description">Dugme za narednu numeru</string>
+    <string name="keyguard_accessibility_transport_pause_description">Dugme za pauzu</string>
+    <string name="keyguard_accessibility_transport_play_description">Dugme za reproduciranje</string>
+    <string name="keyguard_accessibility_transport_stop_description">Dugme za zaustavljanje</string>
+    <string name="keyguard_accessibility_transport_thumbs_up_description">Odlična</string>
+    <string name="keyguard_accessibility_transport_thumbs_down_description">Ne sviđa mi se</string>
+    <string name="keyguard_accessibility_transport_heart_description">Srce</string>
+    <string name="keyguard_accessibility_show_bouncer">Otključajte kako biste nastavili</string>
+    <string name="keyguard_accessibility_hide_bouncer">Pokretanje otkazano</string>
+    <string name="keyguard_accessibility_delete_widget_start">Ispustite %1$s kako biste izbrisali.</string>
+    <string name="keyguard_accessibility_delete_widget_end">%1$s neće biti izbrisan.</string>
+    <string name="keyguard_accessibility_next_alarm">Naredni alarm postavljen za %1$s</string>
+    <string name="password_keyboard_label_alpha_key">ABC</string>
+    <string name="password_keyboard_label_alt_key">ALT</string>
+    <string name="keyboardview_keycode_alt">Tipka Alt</string>
+    <string name="keyboardview_keycode_cancel">Otkaži</string>
+    <string name="keyboardview_keycode_delete">Izbriši</string>
+    <string name="keyboardview_keycode_done">Gotovo</string>
+    <string name="keyboardview_keycode_mode_change">Promjena načina rada</string>
+    <string name="keyboardview_keycode_shift">Mijenjanje</string>
+    <string name="keyboardview_keycode_enter">Unos</string>
+    <string name="description_target_unlock">Otključavanje</string>
+    <string name="description_target_camera">Kamera</string>
+    <string name="description_target_silent">Nečujno</string>
+    <string name="description_target_soundon">Uključi zvuk</string>
+    <string name="description_direction_down">Prevucite dolje za radnju %s.</string>
+    <string name="description_direction_right">Prevucite desno za radnju %s.</string>
+    <string name="user_switched">Trenutni korisnik %1$s.</string>
+    <string name="kg_emergency_call_label">Poziv za hitne slučajeve</string>
+    <string name="kg_forgot_pattern_button_text">Zaboravljen uzorak</string>
+    <string name="kg_wrong_pattern">Netačan uzorak</string>
+    <string name="kg_wrong_password">Netačna lozinka</string>
+    <string name="kg_wrong_pin">Netačan PIN</string>
+    <string name="kg_too_many_failed_attempts_countdown">Pokušajte ponovo za %d sek.</string>
+    <string name="kg_pattern_instructions">Nacrtajte uzorak otključavanja</string>
+    <string name="kg_sim_pin_instructions">Unesite SIM PIN</string>
+    <string name="kg_sim_pin_instructions_multi">Unesite SIM PIN za \"%1$s\"</string>
+    <string name="kg_pin_instructions">Unesite PIN</string>
+    <string name="kg_password_instructions">Unesite lozinku</string>
+    <string name="kg_puk_enter_puk_hint">SIM kartica je sada onemogućena. Unesite PUK kôd ili se obratite pružaocu usluga za više detalja.</string>
+    <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" je sada onemogućen. Unesite PUK kôd kako biste nastavili. Obratite se operateru za detalje.</string>
+    <string name="kg_puk_enter_pin_hint">Unesite novi PIN kôd</string>
+    <string name="kg_enter_confirm_pin_hint">Potvrdite novi PIN kôd</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Otključavanje SIM kartice</string>
+    <string name="kg_invalid_sim_pin_hint">Unesite PIN od 4 do 8 brojki.</string>
+    <string name="kg_invalid_sim_puk_hint">PUK treba imati 8 brojki.</string>
+    <string name="kg_invalid_puk">Ponovo unesite tačan PUK kôd. Ponovljenim pokušajima će se trajno onemogućiti SIM.</string>
+    <string name="kg_invalid_confirm_pin_hint">PIN kodovi se ne podudaraju</string>
+    <string name="kg_login_too_many_attempts">Previše pokušaja crtanja uzorka</string>
+    <string name="kg_login_instructions">Da biste otključali, prijavite se svojim Google računom.</string>
+    <string name="kg_login_username_hint">Korisničko ime (e-pošta)</string>
+    <string name="kg_login_password_hint">Lozinka</string>
+    <string name="kg_login_submit_button">Prijava</string>
+    <string name="kg_login_invalid_input">Nevažeće korisničko ime ili lozinka.</string>
+    <string name="kg_login_account_recovery_hint">"Zaboravili ste korisničko ime ili lozinku?
+Posjetite "<b>google.com/accounts/recovery</b>.</string>
+    <string name="kg_login_checking_password">Provjeravanje računa…</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Unijeli ste netačan PIN sljedeći broj puta: %d. 
+
+Pokušajte ponovo za %d sek."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Unijeli ste netačnu lozinku sljedeći broj puta: %d. 
+
+Pokušajte ponovo za %d sek."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Nacrtali ste netačan uzorak otključavanja sljedeći broj puta: %d. 
+
+Pokušajte ponovo za %d sek."</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Pokušali ste otključati telefon sljedeći broj puta: %d. Telefon će se vratiti na fabričke postavke i svi korisnički podaci će biti izgubljeni nakon sljedećeg broja neuspješnih pokušaja: %d.</string>
+    <string name="kg_failed_attempts_now_wiping">Unijeli ste netačni kôd sljedeći broj puta: %d. Telefon će se sada vratiti na fabričke postavke.</string>
+    <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">Pokušali ste nepravilno otključati telefon %d put/a. Nakon što neuspješno pokušate još %d put/a, korisnik će biti uklonjen, čime će se izbrisati svi korisnički podaci.</string>
+    <string name="kg_failed_attempts_now_erasing_user">Pokušali ste nepravilno otključati telefon %d put/a. Korisnik će biti uklonjen, čime će se izbrisati svi korisnički podaci.</string>
+    <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">Pokušali ste nepravilno otključati telefon %d put/a. Nakon što neuspješno pokušate još %d put/a, radni profil će biti uklonjen, čime će se izbrisati svi podaci profila.</string>
+    <string name="kg_failed_attempts_now_erasing_profile">Pokušali ste nepravilno otključati telefon %d put/a. Radni profil će biti uklonjen, čime će se izbrisati svi podaci profila.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Nacrtali ste netačni uzorak otključavanja sljedeći broj puta: %d. Od vas će se tražiti da otključate telefon pomoću računa e-pošte nakon sljedećeg broja dodatnih neuspješnih pokušaja: %d.
+
+Pokušajte ponovo za %d sek."</string>
+    <string name="kg_reordering_delete_drop_target_text">Izbriši</string>
+    <string name="kg_password_wrong_pin_code_pukked">Netačan SIM PIN kôd. Unesite PUK kôd ili se obratite pružaocu usluga za više detalja.</string>
+    <string name="kg_password_wrong_puk_code_dead">SIM onemogućen. Obratite se pružaocu usluga.</string>
+    <string name="kg_password_pin_failed">SIM PIN operacija nije uspjela!</string>
+    <string name="kg_password_puk_failed">SIM PUK operacija nije uspjela!</string>
+    <string name="kg_pin_accepted">Kôd prihvaćen!</string>
+    <string name="keyguard_transport_prev_description">Dugme za prethodnu numeru</string>
+    <string name="keyguard_transport_next_description">Dugme za narednu numeru</string>
+    <string name="keyguard_transport_pause_description">Dugme za pauzu</string>
+    <string name="keyguard_transport_play_description">Dugme za reproduciranje</string>
+    <string name="keyguard_transport_stop_description">Dugme za zaustavljanje</string>
+    <string name="keyguard_carrier_default">Nema usluge</string>
+    <string name="kg_dismiss">Odbaci</string>
+    <string name="kg_slot_name">"Utor %d: nova SIM kartica "</string>
+    <string name="unmount_strings_dialog_content_txt">Ne uklanjajte SD karticu dok se prekida veza s njom</string>
+    <string name="accessibility_desc_tab_quick_settings_edit">Uredi brze postavke</string>
+    <string name="accessibility_phone_four_bars">Četiri trake telefona.</string>
+    <string name="accessibility_state_vibrate">Vibracija</string>
+    <string name="accessibility_tool_dragging">Povlačenje</string>
+    <string name="accessibility_tool_drop_to_add">Ispustite da dodate</string>
+    <string name="accessibility_tool_drop_to_remove">Ispustite da uklonite</string>
+    <string name="accessibility_tool_edit_mode_done">Način rada za uređivanje onemogućen</string>
+    <string name="accessibility_tool_edit_mode_enabled">Način rada za uređivanje omogućen</string>
+    <string name="brightness_adapt_checkbox_information">Prilagođavanje uslovima osvjetljenja</string>
+    <string name="brightness_help_information_automatic">Osvjetljenje ekrana može se podešavati automatski. Za postavljanje standardnog osvjetljenja koristite klizač.</string>
+    <string name="brightness_help_information_manual">Ručno postavite osvjetljenje ekrana bez obzira na količinu svjetla u okruženju</string>
+    <string name="carrier_invalid_sim_card">Nevažeća SIM kartica</string>
+    <string name="carrier_text_perso_locked_message">SIM/RUIM je zaključan uz personaliziranje</string>
+    <string name="close_all_apps_button_text">Zatvori sve</string>
+    <string name="close_all_apps_toast_text">Sve aplikacije su zatvorene</string>
+    <string name="data_traffic_cost_warning_dialog_message">Dozvoliti prijenos podataka mobilnom mrežom? Moguće je zaračunavanje dodatnih troškova, ovisno o vašoj pretplati na mrežu. Da biste izbjegli dodatne troškove, onemogućite prijenos podataka mobilnom mrežom kada završite.</string>
+    <string name="description_direction_left_down">Dijagonalno prevucite dolje lijevo za %s.</string>
+    <string name="description_direction_left_up">Dijagonalno prevucite gore lijevo za %s.</string>
+    <string name="description_direction_up_left">Dijagonalno prevucite gore lijevo za %s.</string>
+    <string name="description_direction_up_right">Dijagonalno prevucite gore desno za %s.</string>
+    <string name="emergencymode_strings_could_not_use_quick_settings">Nije dostupno u načinu rada za hitne situacije</string>
+    <string name="lockscreen_perso_locked_message">SIM/RUIM zaključan uz personal.</string>
+    <string name="new_note">Nova bilješka</string>
+    <string name="new_sketch">Nova skica</string>
+    <string name="no_button_txt">Ne</string>
+    <string name="priority_mode_notification_text">Kucnite da promijenite postavke prekida</string>
+    <string name="priority_mode_notification_title">Samo prioritetni prekidi</string>
+    <string name="quick_Settings">Brze postavke</string>
+    <string name="quick_settings_description">Odaberite broj brzih postavki u Ploči s obavještenjima i uredite njihov redoslijed</string>
+    <string name="quick_settings_detect_usb_device_label">Pronađi USB uređaj</string>
+    <string name="quicksettings_hint_bubble">"Uredite brze postavke
+Dodirnite i držite ikone te ih povucite i ispustite
+kako biste dodali ili uklonili brze postavke."</string>
+    <string name="quicksettings_toast_bubble">Odabran je maksimalni broj brzih postavki</string>
+    <string name="quicksettings_toast_torch">"Svjetiljka se ne može uključiti
+dok se koristi kamera"</string>
+    <string name="quicksettings_toast_volte_not_supported">"Vaš pružalac usluga trenutno
+ne podržava VoLTE"</string>
+    <string name="silent_mode_notification_text">Uključite zvuk tipkom za povećanje jač. zv.</string>
+    <string name="silent_mode_notification_title">Nečujno, bez prekida</string>
+    <string name="smallapp_systemui_recentapp_menu_show_smallapp_txt">Prikaži kao malu apl.</string>
+    <string name="start_note_app">Pokrenite aplikaciju za bilješke</string>
+    <string name="start_sketch_app">Pokrenite aplikaciju za skiciranje</string>
+    <string name="status_bar_airplanemode">Način rada u avionu</string>
+    <string name="status_bar_autorotate">Automatska rotacija</string>
+    <string name="status_bar_autosync">Aut. sinhroniz. podataka</string>
+    <string name="status_bar_bluetooth">Bluetooth</string>
+    <string name="status_bar_brightness">Osvjetljenje</string>
+    <string name="status_bar_glove_mode">Način rada pri nošenju rukav.</string>
+    <string name="status_bar_gps">GPS</string>
+    <string name="status_bar_location">Lokacija</string>
+    <string name="status_bar_mirroring">Prikaz ekrana na drug. uređaju</string>
+    <string name="status_bar_mobile_data">Mobilni podaci</string>
+    <string name="status_bar_nfc">NFC</string>
+    <string name="status_bar_recent_failed_to_launch_app">Nije bilo moguće pokrenuti aplikaciju</string>
+    <string name="status_bar_roaming">Roming</string>
+    <string name="status_bar_settings">Postavke</string>
+    <string name="status_bar_settings_airplanemode">Način rada u avionu</string>
+    <string name="status_bar_settings_autorotate">Aut. rotacija ekrana</string>
+    <string name="status_bar_settings_autosync">Aut. sinhr. podataka</string>
+    <string name="status_bar_settings_bluetooth">Bluetooth</string>
+    <string name="status_bar_settings_brightness">Osvjetljenje</string>
+    <string name="status_bar_settings_glove_mode">Način rada pri nošenju rukavica</string>
+    <string name="status_bar_settings_gps">GPS</string>
+    <string name="status_bar_settings_location">Lokacija</string>
+    <string name="status_bar_settings_mirroring">Prikaz na drug. uređaju</string>
+    <string name="status_bar_settings_mobile_data">Promet mob. podataka</string>
+    <string name="status_bar_settings_nfc">NFC</string>
+    <string name="status_bar_settings_roaming">Roming</string>
+    <string name="status_bar_settings_settings">Prečica do Postavki</string>
+    <string name="status_bar_settings_sound">Zvuk</string>
+    <string name="status_bar_settings_wifi">Wi-Fi</string>
+    <string name="status_bar_settings_wifi_hotspot">Wi-Fi pristupna tačka</string>
+    <string name="status_bar_sound">Zvuk</string>
+    <string name="status_bar_tab_notifications_title">Obavještenja</string>
+    <string name="status_bar_tab_quick_settings_done">Gotovo</string>
+    <string name="status_bar_tab_quick_settings_edit">Uredi</string>
+    <string name="status_bar_tab_quick_settings_title">Brze postavke</string>
+    <string name="status_bar_toolsbar_settings_title">Odaberi brze postavke</string>
+    <string name="status_bar_torch">Blic</string>
+    <string name="status_bar_wifi">Wi-Fi</string>
+    <string name="status_bar_wifi_hotspot">Wi-Fi pristupna tačka</string>
+    <string name="toast_message_maximum_number_of_tools_reached">Odabran je maksimalni broj brzih postavki</string>
+    <string name="usbux_strings_charger_do_not_show_agin_txt">Ne prikazuj ovo ponovno</string>
+    <string name="usbux_strings_charger_incompatible_dialog_msg_txt">Povezani punjač nije kompatibilan s uređajem. Da bi se spriječilo oštećenje uređaja, punjenje je zaustavljeno. Da biste nastavili s punjenjem, koristite punjač i kabl koji su isporučeni s uređajem.</string>
+    <string name="usbux_strings_charger_incompatible_dialog_title_txt">Ne puni se</string>
+    <string name="usbux_strings_charger_incompatible_notification_summary_txt">Punjenje nije moguće. Koristite originalni punjač.</string>
+    <string name="usbux_strings_charger_under_current_dialog_msg_txt">Punjenje će trajati duže s punjačem koji je povezan. Za brže punjenje koristite punjač i kabl koji su isporučeni s uređajem.</string>
+    <string name="usbux_strings_charger_under_current_dialog_title_txt">Sporo punjenje</string>
+    <string name="usbux_strings_charger_under_current_toast_txt">Za brže punjenje koristite originalni punjač.</string>
+    <string name="vzw_airplane_mode_dont_show_again">Ne prikazuj ovo opet</string>
+    <string name="vzw_airplane_mode_is_on">Uključen je način rada u avionu. Ako ne koristite Wi-Fi, nećete moći koristiti Internet, E-poštu ili druge aplikacije koje zahtijevaju vezu za prijenos podataka.</string>
+    <string name="vzw_airplane_mode_is_on_volte">Uključen je način rada u avionu. Video pozivi neće funkcionirati kada su isključeni mobilni podaci. Pored toga, nećete moći koristiti Internet, E-poštu ili druge aplikacije kojima je potrebna veza za prijenos podataka osim ako se ne povežete na Wi-Fi mrežu.</string>
+    <string name="vzw_airplane_mode_turn_on">Ako ne koristite Wi-Fi, više nećete moći koristiti Internet, E-poštu ili druge aplikacije koje zahtijevaju vezu za prijenos podataka.</string>
+    <string name="vzw_airplane_mode_turn_on_volte">Video pozivi neće funkcionirati kada su isključeni mobilni podaci. Pored toga, nećete moći koristiti Internet, E-poštu ili druge aplikacije kojima je potrebna veza za prijenos podataka osim ako se ne povežete na Wi-Fi mrežu.</string>
+    <string name="vzw_airplane_turn_on_airplane_mode">Želite uključiti način rada u avionu?</string>
+    <string name="vzw_status_bar_roam_status_data_roaming_txt">Roming podataka</string>
+    <string name="vzw_status_bar_roam_status_roaming_txt">Roming</string>
+    <string name="vzw_status_bar_roam_status_voice_and_data_roaming_txt">Glasovni roming i roming podataka</string>
+    <string name="vzw_status_bar_roam_status_voice_roaming_txt">Glasovni roming</string>
+    <string name="vzw_title_airplane_mode">Način rada u avionu</string>
+    <string name="vzw_title_airplane_mode_is_on">Način rada u avionu</string>
+    <string name="yes_button_txt">Da</string>
+    <string name="dsds_keyguard_enter_sim_pin_txt">Unesite %s PIN</string>
+    <string name="dsds_keyguard_enter_sim_puk_txt">Unesite %s PUK</string>
+    <string name="dsds_sim_disable_notification_tray_first_line_txt">%1$s onemogućen</string>
+    <string name="dsds_sim_disable_notification_tray_second_line_txt">Kucnite da omogućite %1$s</string>
+    <string name="keyguard_carrier_default_when_not_softbank_sim">Umetnuta SIM kartica nije dostupna na ovom telefonu. Umetnite važeću SIM karticu.</string>
+    <string name="kg_somc_verizon_enter_confirm_pin_hint">Potvrdite PIN kôd ponovnim unosom PIN-a.</string>
+    <string name="kg_somc_verizon_invalid_confirm_pin_hint">Žao nam je, novi unosi za PIN kôd za SIM se ne podudaraju. Unesite novi PIN kôd za SIM od 4-8 brojki.</string>
+    <string name="kg_somc_verizon_password_wrong_pin_code_pukked">Vašim posljednjim pokušajem da unesete PIN je zaključana ova SIM kartica. Obratite se pružaocu bežičnih usluga kako biste dobili PUK kôd za otključavanje SIM kartice. Pritisnite Nastavi kako biste unijeli PUK kôd za otključavanje SIM kartice.</string>
+    <string name="kg_somc_verizon_password_wrong_puk_code_dead">Vašim desetim pokušajem da unesete PUK kôd je trajno onemogućena SIM kartica. Obratite se pružaocu bežičnih usluga kako biste kupili drugu SIM karticu.</string>
+    <string name="kg_somc_verizon_puk_enter_pin_hint">Unesite novi SIM PIN s 4-8 brojki</string>
+    <string name="kg_somc_verizon_puk_enter_puk_hint">Unesite SIM PUK kôd od 8 brojki</string>
+    <string name="kg_somc_verizon_sim_pin_instructions">Unesite SIM PIN s 4-8 brojki</string>
+    <string name="lockscreen_accessibility_unlock_hint">Prevucite gore ili dolje kako biste otključali</string>
+    <string name="lockscreen_app_name">Zaključavanje ekrana</string>
+    <string name="lockscreen_short_unlock_hint">Prevucite kako biste otključali</string>
+    <string name="lockscreen_unlock_hint">Prevucite gore ili dolje kako biste otključali</string>
+</resources>

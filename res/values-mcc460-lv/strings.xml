@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_wifi_scanning_label">WLAN: skenēšana</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: savien. izveide</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">WLAN tīklājs lidmašīnas režīmā nav pieejams</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">WLAN izslēgts.</string>
+    <string name="accessibility_no_wifi">WLAN savienojums ir pārtraukts.</string>
+    <string name="accessibility_wifi_one_bar">WLAN: viena josla</string>
+    <string name="accessibility_wifi_two_bars">WLAN: divas joslas</string>
+    <string name="accessibility_wifi_three_bars">WLAN: trīs joslas</string>
+    <string name="accessibility_wifi_signal_full">Pilna piekļuve WLAN signālam</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">Ir izslēgts WLAN savienojums</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">Ir ieslēgts WLAN savienojums</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">Izv. sav. ar WLAN</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN izslēgts</string>
+    <string name="quick_settings_connected_via_wfa">Izveidots savienojums ar WLAN palīgu</string>
+    <string name="status_bar_settings_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">WLAN tīklājs</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">WLAN tīklājs</string>
+    <string name="vzw_airplane_mode_is_on">Lidmašīnas režīms ir ieslēgts. Ja neizmantosiet WLAN tīklu, nevarēsiet izmantot internetu, e-pastu vai citas lietotnes, kurām ir nepieciešams datu savienojums.</string>
+    <string name="vzw_airplane_mode_is_on_volte">Lidmašīnas režīms ir ieslēgts. Ja mobilie dati ir izslēgti, videozvani nedarbosies. Ja neizveidosiet savienojumu ar WLAN tīklu, nevarēsiet izmantot arī internetu, e-pastu vai citas lietotnes, kurām ir nepieciešams datu savienojums.</string>
+    <string name="vzw_airplane_mode_turn_on">Ja neizmantosiet WLAN tīklu, vairs nevarēsiet lietot internetu, e-pastu vai citas lietotnes, kurām ir nepieciešams datu savienojums.</string>
+    <string name="vzw_airplane_mode_turn_on_volte">Ja mobilie dati būs izslēgti, videozvani nedarbosies. Ja neizveidosiet savienojumu ar WLAN tīklu, nevarēsiet izmantot arī internetu, e-pastu vai citas lietotnes, kurām ir nepieciešams datu savienojums.</string>
+</resources>

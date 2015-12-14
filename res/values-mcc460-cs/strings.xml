@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_wifi_scanning_label">WLAN: vyhledávání</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: připojování</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">Přístupový bod WLAN není v režimu Letadlo k dispozici</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">Připojení WLAN je vypnuto.</string>
+    <string name="accessibility_no_wifi">Síť WLAN odpojena.</string>
+    <string name="accessibility_wifi_one_bar">Jedna čárka signálu sítě WLAN.</string>
+    <string name="accessibility_wifi_two_bars">Dvě čárky signálu sítě WLAN.</string>
+    <string name="accessibility_wifi_three_bars">Tři čárky signálu sítě WLAN.</string>
+    <string name="accessibility_wifi_signal_full">Plný signál sítě WLAN.</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN vypnuta</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN zapnuta</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN: připojeno</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN vypnuto</string>
+    <string name="quick_settings_connected_via_wfa">Připojeno pomocí asistenta připojení WLAN</string>
+    <string name="status_bar_settings_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">Přístupový bod WLAN</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">Přístupový bod WLAN</string>
+    <string name="vzw_airplane_mode_is_on">Režim Letadlo je zapnutý. Pokud nepoužijete WLAN, nebudete moct používat Internet, e-mail ani jiné aplikace, které vyžadují datové připojení.</string>
+    <string name="vzw_airplane_mode_is_on_volte">Režim Letadlo je zapnutý. Jsou-li mobilní data vypnuta, nebude možné provádět video hovory. Pokud nepoužijete WLAN, nebudete moct používat Internet, e-mail ani jiné aplikace, které vyžadují datové připojení.</string>
+    <string name="vzw_airplane_mode_turn_on">Pokud nepoužijete WLAN, nebudete moct používat Internet, e-mail ani jiné aplikace, které vyžadují datové připojení.</string>
+    <string name="vzw_airplane_mode_turn_on_volte">Jsou-li mobilní data vypnuta, nebude možné provádět video hovory. Pokud nepoužijete WLAN, nebudete moct používat Internet, e-mail ani jiné aplikace, které vyžadují datové připojení.</string>
+</resources>

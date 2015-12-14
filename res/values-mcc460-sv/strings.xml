@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_wifi_scanning_label">WLAN: skannar</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: ansluter</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">WLAN-hotspot är inte tillgänglig i flygplansläge</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">WLAN är inaktiverat.</string>
+    <string name="accessibility_no_wifi">Ingen WLAN-anslutning.</string>
+    <string name="accessibility_wifi_one_bar">WLAN: en stapel.</string>
+    <string name="accessibility_wifi_two_bars">WLAN: två staplar.</string>
+    <string name="accessibility_wifi_three_bars">WLAN: tre staplar.</string>
+    <string name="accessibility_wifi_signal_full">Full signalstyrka för WLAN.</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN är avstängt</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN är på</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN-ansluten</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN är inaktiverat</string>
+    <string name="quick_settings_connected_via_wfa">Ansluten via WLAN-assistent</string>
+    <string name="status_bar_settings_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">WLAN-hotspot</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">WLAN-hotspot</string>
+    <string name="vzw_airplane_mode_is_on">Flygplansläget är på. Om du inte använder WLAN kommer du inte att kunna använda internet, e-post eller andra appar som kräver en dataanslutning.</string>
+    <string name="vzw_airplane_mode_is_on_volte">Flygplansläget är på. Videosamtal fungerar inte när mobildata är av. Du kan inte heller använda internet, e-post eller andra appar som behöver en dataanslutning om du inte ansluter till ett WLAN-nätverk.</string>
+    <string name="vzw_airplane_mode_turn_on">Om du inte använder WLAN kommer du inte att kunna använda internet, e-post eller andra appar som kräver en dataanslutning.</string>
+    <string name="vzw_airplane_mode_turn_on_volte">Videosamtal fungerar inte när mobildata är av. Du kan inte heller använda internet, e-post eller andra appar som behöver en dataanslutning om du inte ansluter till ett WLAN-nätverk.</string>
+</resources>

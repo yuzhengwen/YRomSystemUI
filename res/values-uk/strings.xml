@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usb_connected_txt">Підключено USB</string>
+    <string name="to_charge_use_charger_txt">Для заряджання свого пристрою використовуйте призначений для цього зарядний пристрій</string>
+    <string name="power_settings_instructions">Щоб оптимізувати тривалість роботи від акумулятора, можна ввімкнути режим STAMINA в меню керування живленням</string>
+    <string name="battery_low_power_settings">Інф. про акумулятор</string>
+    <string name="stamina_start_action">Увімкнути режим STAMINA</string>
+    <string name="enable_stamina_tip">Ви можете оптимізувати тривалість роботи від акумулятора, увімкнувши режим STAMINA.</string>
+    <string name="somc_qs_close">Закрити</string>
+    <string name="somc_qs_hint">Торкайтеся піктограм і утримуйте, щоб упорядкувати</string>
+    <string name="somc_qs_title">Активні швидкі установки</string>
+    <string name="somc_qs_max_exceeds">Вибрано максимальну кількість швидких установок</string>
+    <string name="quick_settings_autosync_label">Автосинхронізація даних</string>
+    <string name="quick_settings_data_traffic_label">Мобільні дані</string>
+    <string name="quick_settings_screen_mirroring_label">Віддзеркал. екрана</string>
+    <string name="quick_settings_wifi_scanning_label">Wi-Fi: пошук</string>
+    <string name="quick_settings_wifi_connecting_label">Wi-Fi: підключення</string>
+    <string name="status_bar_autosync_dialog_enable_title">Увімкнути автосинхронізацію даних?</string>
+    <string name="status_bar_autosync_dialog_enable_warning">"Будь-які зміни до облікових записів, внесені в Інтернеті, автоматично копіюватимуться на ваш телефон.
+
+Деякі облікові записи можуть також автоматично копіювати всі зміни, які ви вносите на телефоні, в Інтернет.
+
+Щоб вибрати типи інформації, які потрібно синхронізувати для кожного облікового запису, перейдіть у меню «Установки» > «Облікові записи»."</string>
+    <string name="status_bar_autosync_dialog_extended_enable_warning">"Усі зміни, які ви вносите до своїх облікових записів в Інтернеті, автоматично копіюватимуться на пристрій.
+
+Деякі облікові записи можуть також автоматично копіювати всі зміни, які ви вносите на пристрої, в Інтернет.
+
+Щоб вибрати, який тип інформації синхронізувати в кожному обліковому записі, перейдіть до меню «Установки» > «Облікові записи».
+
+Під час оновлення пристрою може стягуватися плата за передавання даних. Рекомендовано використовувати необмежений тарифний план передавання даних."</string>
+    <string name="status_bar_autosync_dialog_disable_title">Вимкнути автосинхронізацію даних?</string>
+    <string name="status_bar_autosync_dialog_disable_warning">Вимкнення автосинхронізації знизить споживання пакетних даних і заряду акумулятора. Проте вам доведеться вручну синхронізувати кожен обліковий запис.</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">Точка доступу Wi-Fi недоступна в режимі «У літаку»</string>
+    <string name="accessibility_desc_edit_quick_settings">Змінити швидкі установки</string>
+    <string name="somc_start_camera_hint">Проведіть, щоб запустити камеру</string>
+    <string name="somc_start_phone_hint">Проведіть, щоб запустити керування дзвінками</string>
+    <string name="silent_mode_panel_silent">Без звуку</string>
+    <string name="silent_mode_panel_exceptions">Винятки</string>
+    <string name="silent_mode_panel_allow_exceptions">Дозволити винятки</string>
+    <string name="silent_mode_panel_allow_alarm">Дозволити будильник</string>
+    <string name="volume_dialog_ringtone">Сигнал дзвінка</string>
+    <string name="volume_dialog_media">Гучність мультимедіа</string>
+    <string name="volume_dialog_notifications">Сповіщення</string>
+    <string name="volume_dialog_alarm">Сигнал</string>
+    <string name="app_label">Інтерфейс системи</string>
+    <string name="status_bar_clear_all_button">Очист.</string>
+    <string name="status_bar_recent_remove_item_title">Видалити зі списку</string>
+    <string name="status_bar_recent_inspect_item_title">Інформація про програму</string>
+    <string name="status_bar_no_recent_apps">Немає останніх програм</string>
+    <string name="status_bar_accessibility_dismiss_recents">Відхилити останні програми</string>
+    <string name="status_bar_no_notifications_title">Сповіщень немає</string>
+    <string name="status_bar_ongoing_events_title">Поточне</string>
+    <string name="status_bar_latest_events_title">Сповіщення</string>
+    <string name="battery_low_title">Низький рівень заряду акумулятора</string>
+    <string name="battery_low_percent_format">Залишилося %s або менше</string>
+    <string name="battery_low_percent_format_saver_started">Залишилося менше %s. Увімкнено режим заощадження заряду акумулятора.</string>
+    <string name="invalid_charger">"Заряджання USB не підтримується.
+Використовуйте лише наданий у комплекті зарядний пристрій."</string>
+    <string name="invalid_charger_title">Заряджання USB не підтримується.</string>
+    <string name="invalid_charger_text">Зарядж. лише пристроєм із комплекту.</string>
+    <string name="battery_low_why">Установки</string>
+    <string name="battery_saver_confirmation_title">Увімкнути заощадження заряду акумулятора?</string>
+    <string name="battery_saver_confirmation_ok">Увімкнути</string>
+    <string name="battery_saver_start_action">Увімкнути заощадження заряду</string>
+    <string name="status_bar_settings_settings_button">Установки</string>
+    <string name="status_bar_settings_wifi_button">Wi-Fi</string>
+    <string name="status_bar_settings_airplane">Режим польоту</string>
+    <string name="status_bar_settings_auto_rotation">Повертати екран автоматично</string>
+    <string name="status_bar_settings_mute_label">ІГНОР.</string>
+    <string name="status_bar_settings_auto_brightness_label">АВТО</string>
+    <string name="status_bar_settings_notifications">Сповіщення</string>
+    <string name="bluetooth_tethered">Увімкнуто режим модема Bluetooth</string>
+    <string name="status_bar_input_method_settings_configure_input_methods">Налаштувати методи введення</string>
+    <string name="status_bar_use_physical_keyboard">Фізична клавіатура</string>
+    <string name="usb_device_permission_prompt">Надати програмі %1$s доступ до пристрою USB?</string>
+    <string name="usb_accessory_permission_prompt">Надати програмі %1$s доступ до аксесуара USB?</string>
+    <string name="usb_device_confirm_prompt">Відкривати %1$s, коли підключено цей пристрій USB?</string>
+    <string name="usb_accessory_confirm_prompt">Відкривати %1$s, коли підключено цей аксесуар USB?</string>
+    <string name="usb_accessory_uri_prompt">З цим аксесуаром USB не працює жодна з установлених програм. Дізнайтеся більше про цей аксесуар на веб-сайті %1$s</string>
+    <string name="title_usb_accessory">Аксесуар USB</string>
+    <string name="label_view">Перегляд</string>
+    <string name="always_use_device">Використовувати стандартно для цього пристрою USB</string>
+    <string name="always_use_accessory">Стандартно використовувати для цього аксесуара USB</string>
+    <string name="usb_debugging_title">Дозволити налагодження USB?</string>
+    <string name="usb_debugging_message">"Цифровий відбиток ключа RSA комп’ютера:
+
+%1$s"</string>
+    <string name="usb_debugging_always">Завжди дозволяти з цього комп’ютера</string>
+    <string name="compat_mode_on">Масштаб на весь екран</string>
+    <string name="compat_mode_off">Розтягнути на весь екран</string>
+    <string name="screenshot_saving_ticker">Збереження знімка екрана...</string>
+    <string name="screenshot_saving_title">Збереження знімка екрана...</string>
+    <string name="screenshot_saving_text">Знімок екрана зберігається.</string>
+    <string name="screenshot_saved_title">Знімок екрана зроблено.</string>
+    <string name="screenshot_saved_text">Переглянути знімок екрана.</string>
+    <string name="screenshot_failed_title">Не вдалося зроб. знім. екр.</string>
+    <string name="screenshot_failed_text">Можливо, вміст захищено, або в пам’яті бракує вільного місця.</string>
+    <string name="usb_preference_title">Парам.передав.файлів через USB</string>
+    <string name="use_mtp_button_title">Підключити як медіаплеєр (MTP)</string>
+    <string name="use_ptp_button_title">Підключити як камеру (PTP)</string>
+    <string name="installer_cd_button_title">Установити програму Android File Transfer для Mac</string>
+    <string name="accessibility_back">Назад</string>
+    <string name="accessibility_home">Головний</string>
+    <string name="accessibility_menu">Меню</string>
+    <string name="accessibility_recent">Клавіша останніх програм</string>
+    <string name="accessibility_search_light">Пошук</string>
+    <string name="accessibility_camera_button">Камера</string>
+    <string name="accessibility_phone_button">Номер телефону</string>
+    <string name="accessibility_unlock_button">Розблокувати</string>
+    <string name="unlock_label">розблокувати</string>
+    <string name="phone_label">відкрити телефон</string>
+    <string name="camera_label">відкрити камеру</string>
+    <string name="accessibility_compatibility_zoom_button">Кнопка масштабування сумісності.</string>
+    <string name="accessibility_compatibility_zoom_example">Збільшення екрана.</string>
+    <string name="accessibility_bluetooth_connected">Bluetooth підключено.</string>
+    <string name="accessibility_bluetooth_disconnected">Bluetooth від’єднано.</string>
+    <string name="accessibility_no_battery">Немає акумулятора.</string>
+    <string name="accessibility_battery_one_bar">Одна смужка заряду акумулятора.</string>
+    <string name="accessibility_battery_two_bars">Дві смужки заряду акумулятора.</string>
+    <string name="accessibility_battery_three_bars">Три смужки заряду акумулятора.</string>
+    <string name="accessibility_battery_full">Повний заряд акумулятора.</string>
+    <string name="accessibility_no_phone">Немає сигналу телефону.</string>
+    <string name="accessibility_phone_one_bar">Одна смужка сигналу телефону.</string>
+    <string name="accessibility_phone_two_bars">Дві смужки сигналу телефону.</string>
+    <string name="accessibility_phone_three_bars">Три смужки сигналу телефону.</string>
+    <string name="accessibility_phone_signal_full">Максимальний сигнал телефону.</string>
+    <string name="accessibility_no_data">Немає сигналу даних.</string>
+    <string name="accessibility_data_one_bar">Одна смужка сигналу даних.</string>
+    <string name="accessibility_data_two_bars">Дві смужки сигналу даних.</string>
+    <string name="accessibility_data_three_bars">Три смужки сигналу даних.</string>
+    <string name="accessibility_data_signal_full">Максимальний сигнал даних.</string>
+    <string name="accessibility_wifi_off">Wi-Fi вимкнуто.</string>
+    <string name="accessibility_no_wifi">Wi-Fi від’єднано.</string>
+    <string name="accessibility_wifi_one_bar">Одна смужка сигналу WiFi.</string>
+    <string name="accessibility_wifi_two_bars">Дві смужки сигналу WiFi.</string>
+    <string name="accessibility_wifi_three_bars">Три смужки сигналу WiFi.</string>
+    <string name="accessibility_wifi_signal_full">Максимальний сигнал Wi-Fi.</string>
+    <string name="accessibility_wifi_name">Підключено до: %s</string>
+    <string name="accessibility_bluetooth_name">Підключено до: %s</string>
+    <string name="accessibility_no_wimax">Немає сигналу WiMAX.</string>
+    <string name="accessibility_wimax_one_bar">Одна смужка сигналу WiMAX.</string>
+    <string name="accessibility_wimax_two_bars">Дві смужки сигналу WiMAX.</string>
+    <string name="accessibility_wimax_three_bars">Три смужки сигналу WiMAX.</string>
+    <string name="accessibility_wimax_signal_full">Максимальний сигнал WiMAX.</string>
+    <string name="accessibility_no_signal">Немає сигналу.</string>
+    <string name="accessibility_not_connected">Не підключено.</string>
+    <string name="accessibility_zero_bars">Нуль смужок сигналу.</string>
+    <string name="accessibility_one_bar">Одна смужка сигналу.</string>
+    <string name="accessibility_two_bars">Дві смужки сигналу.</string>
+    <string name="accessibility_three_bars">Три смужки сигналу.</string>
+    <string name="accessibility_signal_full">Максимальний сигнал.</string>
+    <string name="accessibility_desc_on">Увімкнено.</string>
+    <string name="accessibility_desc_off">Вимкнено.</string>
+    <string name="accessibility_desc_connected">Під’єднано.</string>
+    <string name="accessibility_desc_connecting">З’єднання.</string>
+    <string name="accessibility_data_connection_gprs">GPRS</string>
+    <string name="accessibility_data_connection_1x">1 X</string>
+    <string name="accessibility_data_connection_hspa">HSPA</string>
+    <string name="accessibility_data_connection_3g">3G</string>
+    <string name="accessibility_data_connection_3.5g">3.5G</string>
+    <string name="accessibility_data_connection_4g">4G</string>
+    <string name="accessibility_data_connection_h_plus">HSPAP</string>
+    <string name="accessibility_data_connection_lte">LTE</string>
+    <string name="accessibility_data_connection_cdma">CDMA</string>
+    <string name="accessibility_data_connection_roaming">Роумінг</string>
+    <string name="accessibility_data_connection_edge">Edge</string>
+    <string name="accessibility_data_connection_wifi">Wi-Fi</string>
+    <string name="accessibility_no_sim">Немає SIM-картки.</string>
+    <string name="accessibility_bluetooth_tether">Модем Bluetooth.</string>
+    <string name="accessibility_airplane_mode">Режим польоту.</string>
+    <string name="accessibility_battery_level">Відсотків заряду акумулятора: %d.</string>
+    <string name="accessibility_settings_button">Установки системи.</string>
+    <string name="accessibility_notifications_button">Сповіщення.</string>
+    <string name="accessibility_remove_notification">Очистити сповіщення.</string>
+    <string name="accessibility_gps_enabled">GPS увімкнено.</string>
+    <string name="accessibility_gps_acquiring">Отримання сигналу GPS.</string>
+    <string name="accessibility_tty_enabled">Телетайп увімкнено.</string>
+    <string name="accessibility_ringer_vibrate">Дзвінок на вібросигналі.</string>
+    <string name="accessibility_ringer_silent">Дзвінок беззвучний.</string>
+    <string name="accessibility_recents_item_will_be_dismissed">Видалити додаток %s.</string>
+    <string name="accessibility_recents_item_dismissed">%s вилучено.</string>
+    <string name="accessibility_recents_item_launched">Запуск додатка %s.</string>
+    <string name="accessibility_notification_dismissed">Сповіщення відхилено.</string>
+    <string name="accessibility_desc_notification_shade">Панель сповіщень.</string>
+    <string name="accessibility_desc_quick_settings">Швидкі установки.</string>
+    <string name="accessibility_desc_lock_screen">Екран блокування</string>
+    <string name="accessibility_desc_settings">Налаштування</string>
+    <string name="accessibility_desc_recent_apps">Клавіша останніх програм</string>
+    <string name="accessibility_quick_settings_user">Користувач %s.</string>
+    <string name="accessibility_quick_settings_wifi">%1$s</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">Wi-Fi вимкнено</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">Wi-Fi увімкнено</string>
+    <string name="accessibility_quick_settings_mobile">Мобільне передавання даних: %1$s, %2$s, %3$s.</string>
+    <string name="accessibility_quick_settings_battery">Акумулятор: %s.</string>
+    <string name="accessibility_quick_settings_airplane_off">Режим «У літаку» вимкнено</string>
+    <string name="accessibility_quick_settings_airplane_on">Режим «У літаку» ввімкнено</string>
+    <string name="accessibility_quick_settings_airplane_changed_off">Режим «У літаку» вимкнено</string>
+    <string name="accessibility_quick_settings_airplane_changed_on">Режим «У літаку» ввімкнено</string>
+    <string name="accessibility_quick_settings_data_off">Передавання мобільних даних вимкнено.</string>
+    <string name="accessibility_quick_settings_data_on">Передавання мобільних даних увімкнено.</string>
+    <string name="accessibility_quick_settings_roaming_off">Роумінг вимкнено.</string>
+    <string name="accessibility_quick_settings_roaming_on">Роумінг увімкнено.</string>
+    <string name="accessibility_quick_settings_bluetooth_off">Bluetooth вимкнено</string>
+    <string name="accessibility_quick_settings_bluetooth_on">Bluetooth увімкнено</string>
+    <string name="accessibility_quick_settings_bluetooth_connecting">Підключення Bluetooth</string>
+    <string name="accessibility_quick_settings_bluetooth_connected">Bluetooth підключено</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_off">Bluetooth вимкнено</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_on">Bluetooth увімкнено</string>
+    <string name="accessibility_quick_settings_location_off">Повідомлення про розташування вимкнено</string>
+    <string name="accessibility_quick_settings_location_on">Повідомлення про розташування ввімкнено</string>
+    <string name="accessibility_quick_settings_location_changed_off">Повідомлення про розташування вимкнено</string>
+    <string name="accessibility_quick_settings_location_changed_on">Повідомлення про розташування ввімкнено</string>
+    <string name="accessibility_quick_settings_alarm">Сигнал установлено на: %s.</string>
+    <string name="accessibility_quick_settings_close">Закрити панель.</string>
+    <string name="accessibility_quick_settings_more_time">Більше часу.</string>
+    <string name="accessibility_quick_settings_less_time">Менше часу.</string>
+    <string name="accessibility_quick_settings_flashlight_off">Спалах вимкнено</string>
+    <string name="accessibility_quick_settings_flashlight_on">Спалах увімкнено</string>
+    <string name="accessibility_quick_settings_flashlight_changed_off">Спалах вимкнено</string>
+    <string name="accessibility_quick_settings_flashlight_changed_on">Спалах увімкнено</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_off">Інверсію кольорів вимкнено</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_on">Інверсію кольорів увімкнено</string>
+    <string name="accessibility_quick_settings_hotspot_changed_off">Мобільну точку доступу вимкнено</string>
+    <string name="accessibility_quick_settings_hotspot_changed_on">Мобільну точку доступу ввімкнено</string>
+    <string name="accessibility_casting_turned_off">Передавання вмісту екрана зупинено</string>
+    <string name="accessibility_brightness">Яскравість дисплея</string>
+    <string name="data_usage_disabled_dialog_3g_title">Передавання даних через мережі 2G й 3G вимкнено</string>
+    <string name="data_usage_disabled_dialog_4g_title">Передавання даних через мережу 4G вимкнено</string>
+    <string name="data_usage_disabled_dialog_mobile_title">Мобільне передавання даних вимкнено</string>
+    <string name="data_usage_disabled_dialog_title">Передавання мобільних даних вимкнено</string>
+    <string name="data_usage_disabled_dialog">"Пристрій вимкнув передавання мобільних даних, оскільки досягнуто встановленого ліміту.
+
+Якщо передавання даних знову ввімкнути, постачальник послуг може стягувати додаткову плату."</string>
+    <string name="data_usage_disabled_dialog_enable">Увімк. пакет. дані</string>
+    <string name="status_bar_settings_signal_meter_disconnected">Немає інтернет-з’єдн.</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi підключено</string>
+    <string name="gps_notification_searching_text">Виконується пошук GPS-сигналу</string>
+    <string name="gps_notification_found_text">Місцезнаходження встановлено за допомогою GPS</string>
+    <string name="accessibility_location_active">Запити на визначення розташування активні</string>
+    <string name="accessibility_clear_all">Очистити всі сповіщення.</string>
+    <string name="status_bar_notification_inspect_item_title">Установки сповіщень</string>
+    <string name="status_bar_notification_app_settings_title">Налаштування додатка %s</string>
+    <string name="accessibility_rotation_lock_off">Екран повертатиметься автоматично.</string>
+    <string name="accessibility_rotation_lock_on_landscape">Екран заблоковано в альбомній орієнтації.</string>
+    <string name="accessibility_rotation_lock_on_portrait">Екран заблоковано в портретній орієнтації.</string>
+    <string name="accessibility_rotation_lock_off_changed">Екран повертатиметься автоматично</string>
+    <string name="accessibility_rotation_lock_on_landscape_changed">Екран заблоковано в альбомній орієнтації</string>
+    <string name="accessibility_rotation_lock_on_portrait_changed">Екран заблоковано в портретній орієнтації</string>
+    <string name="dessert_case">Вітрина десертів</string>
+    <string name="start_dreams">Заставка</string>
+    <string name="ethernet_label">Ethernet</string>
+    <string name="quick_settings_airplane_mode_label">Режим «У літаку»</string>
+    <string name="quick_settings_mobile_data_label">Передавання мобільних даних</string>
+    <string name="quick_settings_roaming_label">Роумінг</string>
+    <string name="quick_settings_battery_charging_label">Заряджається, %d%%</string>
+    <string name="quick_settings_battery_charged_label">Заряджено</string>
+    <string name="quick_settings_bluetooth_label">Bluetooth</string>
+    <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (пристроїв: %d)</string>
+    <string name="quick_settings_bluetooth_off_label">Bluetooth вимкнуто</string>
+    <string name="quick_settings_bluetooth_detail_empty_text">Немає спарених пристроїв</string>
+    <string name="quick_settings_brightness_label">Яскравість</string>
+    <string name="quick_settings_rotation_unlocked_label">Автоматичне обертання</string>
+    <string name="quick_settings_rotation_locked_label">Обертання заблоковано</string>
+    <string name="quick_settings_rotation_locked_portrait_label">Книжкова орієнтація</string>
+    <string name="quick_settings_rotation_locked_landscape_label">Альбомна орієнтація</string>
+    <string name="quick_settings_ime_label">Метод введення</string>
+    <string name="quick_settings_location_label">Розташування</string>
+    <string name="quick_settings_location_off_label">Надсилання даних про розташування вимкнено</string>
+    <string name="quick_settings_media_device_label">Носій</string>
+    <string name="quick_settings_rssi_label">RSSI</string>
+    <string name="quick_settings_rssi_emergency_only">Лише екстрені дзвінки</string>
+    <string name="quick_settings_settings_label">Установки</string>
+    <string name="quick_settings_time_label">Час</string>
+    <string name="quick_settings_user_label">Я</string>
+    <string name="quick_settings_user_title">Користувач</string>
+    <string name="quick_settings_user_new_user">Новий користувач</string>
+    <string name="quick_settings_wifi_label">Wi-Fi</string>
+    <string name="quick_settings_wifi_not_connected">Не підключено</string>
+    <string name="quick_settings_wifi_no_network">Немає мережі</string>
+    <string name="quick_settings_wifi_off_label">Wi-Fi вимкнуто</string>
+    <string name="quick_settings_wifi_detail_empty_text">Немає збережених мереж</string>
+    <string name="quick_settings_cast_title">Транслювати екран</string>
+    <string name="quick_settings_casting">Трансляція</string>
+    <string name="quick_settings_cast_device_default_name">Пристрій без назви</string>
+    <string name="quick_settings_cast_device_default_description">Можна транслювати</string>
+    <string name="quick_settings_cast_detail_empty_text">Немає пристроїв</string>
+    <string name="quick_settings_brightness_dialog_title">Яскравість</string>
+    <string name="quick_settings_brightness_dialog_auto_brightness_label">АВТО</string>
+    <string name="quick_settings_apn_switch_label">Перемикач APN</string>
+    <string name="quick_settings_inversion_label">Інвертувати кольори</string>
+    <string name="quick_settings_color_space_label">Режим коригування кольору</string>
+    <string name="quick_settings_more_settings">ІНШІ УСТАНОВКИ</string>
+    <string name="quick_settings_done">ГОТОВО</string>
+    <string name="quick_settings_connected">Під’єднано</string>
+    <string name="quick_settings_connected_via_wfa">Під’єднано через Диспетчер Wi-Fi-з’єднання</string>
+    <string name="quick_settings_connecting">З’єднання…</string>
+    <string name="quick_settings_tethering_label">Режим модема</string>
+    <string name="quick_settings_hotspot_label">Точка доступу</string>
+    <string name="quick_settings_notifications_label">Сповіщення</string>
+    <string name="quick_settings_flashlight_label">Світловий сигнал</string>
+    <string name="quick_settings_cellular_detail_title">Пакетні дані</string>
+    <string name="quick_settings_cellular_detail_data_usage">Використання даних</string>
+    <string name="quick_settings_cellular_detail_remaining_data">Залишилося даних</string>
+    <string name="quick_settings_cellular_detail_over_limit">Досягнуто обмеження — використання пакетних даних призупинено</string>
+    <string name="quick_settings_cellular_detail_data_used">Використовується: %s</string>
+    <string name="quick_settings_cellular_detail_data_limit">Обмеження: %s</string>
+    <string name="quick_settings_cellular_detail_data_warning">Застереження: %s</string>
+    <string name="quick_settings_dds_sub">Дані картки %d</string>
+    <string name="quick_settings_data_off">Дані вимкнено</string>
+    <string name="recents_empty_message">Немає останніх програм</string>
+    <string name="recents_app_info_button_label">Інформація про додаток</string>
+    <string name="recents_lock_to_app_button_label">блокування в додатку</string>
+    <string name="recents_search_bar_label">пошук</string>
+    <string name="recents_launch_error_message">Не вдалося запустити %s.</string>
+    <string name="expanded_header_battery_charged">Заряджено</string>
+    <string name="expanded_header_battery_charging">Заряджається</string>
+    <string name="expanded_header_battery_charging_with_time">До повного зарядження %s</string>
+    <string name="expanded_header_battery_not_charging">Не заряджається</string>
+    <string name="ssl_ca_cert_warning">"Мережа може
+відстежуватися"</string>
+    <string name="description_target_search">Пошук</string>
+    <string name="description_direction_up">Проведіть пальцем угору, щоб %s.</string>
+    <string name="description_direction_left">Проведіть пальцем ліворуч, щоб %s.</string>
+    <string name="zen_no_interruptions_with_warning">Без сповіщень, зокрема сигналів будильника</string>
+    <string name="zen_no_interruptions">Без сповіщень. Сигнали будильника лунатимуть.</string>
+    <string name="zen_important_interruptions">Лише пріоритетні сповіщення</string>
+    <string name="zen_alarm_information_time">Наступний сигнал: %s</string>
+    <string name="zen_alarm_information_day_time">Наступний сигнал: %s</string>
+    <string name="zen_alarm_warning">Сигнал не лунатиме о %s</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
+    <string name="speed_bump_explanation">Менше термінових сповіщень нижче</string>
+    <string name="notification_tap_again">Доторкніться знову, щоб відкрити</string>
+    <string name="keyguard_unlock">Проведіть угору, щоб розблокувати</string>
+    <string name="phone_hint">Проведіть пальцем праворуч, щоб скористатися телефоном</string>
+    <string name="camera_hint">Проведіть пальцем ліворуч, щоб скористатися камерою</string>
+    <string name="interruption_level_none">Без звуку</string>
+    <string name="interruption_level_priority">Пріоритетні</string>
+    <string name="interruption_level_all">Звук</string>
+    <string name="keyguard_indication_charging_time">Заряджання (%s до повного зарядження)</string>
+    <string name="accessibility_multi_user_switch_switcher">Змінити користувача</string>
+    <string name="accessibility_multi_user_switch_switcher_with_current">Змінити користувача, поточний користувач – %s</string>
+    <string name="accessibility_multi_user_switch_quick_contact">Показати профіль</string>
+    <string name="user_add_user">Додати користувача</string>
+    <string name="user_new_user_name">Новий користувач</string>
+    <string name="guest_nickname">Гість</string>
+    <string name="guest_new_guest">Додати гостя</string>
+    <string name="guest_exit_guest">Видалити гостя</string>
+    <string name="guest_exit_guest_dialog_title">Видалити гостя?</string>
+    <string name="guest_exit_guest_dialog_message">Усі програми та дані цього сеансу буде видалено</string>
+    <string name="guest_exit_guest_dialog_remove">Видалити</string>
+    <string name="guest_wipe_session_title">З поверненням, госте!</string>
+    <string name="guest_wipe_session_message">Продовжити сеанс?</string>
+    <string name="guest_wipe_session_wipe">Почати знову</string>
+    <string name="guest_wipe_session_dontwipe">Так, продовжити</string>
+    <string name="user_add_user_title">Додати нового користувача?</string>
+    <string name="user_add_user_message_short">"Користувач має налаштувати свій профіль після створення.
+
+Будь-який користувач пристрою може оновлювати додатки для решти користувачів."</string>
+    <string name="battery_saver_notification_title">Режим заощадження заряду акумулятора ввімкнено</string>
+    <string name="battery_saver_notification_text">Знижує продуктивність і обмежує фонові дані</string>
+    <string name="battery_saver_notification_action_text">Вимкнути заощадження заряду акумулятора</string>
+    <string name="battery_level_template">%d%%</string>
+    <string name="notification_hidden_text">Вміст сховано</string>
+    <string name="media_projection_dialog_text">%s отримає доступ до всіх даних, які відображаються на вашому екрані.</string>
+    <string name="media_projection_remember_text">Більше не показувати</string>
+    <string name="clear_all_notifications_text">Очистити все</string>
+    <string name="media_projection_action_text">Почати зараз</string>
+    <string name="empty_shade_text">Сповіщень немає</string>
+    <string name="tasklistview_title">Менеджер завдань</string>
+    <string name="message_switch_fail">Не вдається переключитися на це завдання через відсутність інтерфейсу.</string>
+    <string name="tasklist_killall">Видалити все</string>
+    <string name="tasklist_memory_usage" formatted="false">Вільно пам’яті/усього: [%s] / [%s]</string>
+    <string name="message_keep_one_launcher">Потрібно залишити принаймні одну дію на головному екрані!</string>
+    <string name="device_owned_footer">Дії на пристрої можуть відстежуватися</string>
+    <string name="profile_owned_footer">Профіль може відстежуватись</string>
+    <string name="vpn_footer">Дії в мережі можуть відстежуватися</string>
+    <string name="monitoring_title_device_owned">Відстеження дій на пристрої</string>
+    <string name="monitoring_title_profile_owned">Відстеження профілю</string>
+    <string name="monitoring_title">Відстеження дій у мережі</string>
+    <string name="disable_vpn">Вимкнути VPN</string>
+    <string name="disconnect_vpn">Від’єднатися від мережі VPN</string>
+    <string name="monitoring_description_device_owned">"Цим пристроєм керує 
+%1$s
+
+Адміністратор може відстежувати пристрій та дії в мережі, зокрема листування, роботу в додатках і на захищених веб-сайтах.
+
+Щоб дізнатися більше, зверніться до адміністратора."</string>
+    <string name="monitoring_description_vpn">"Ви дозволили додатку %1$s під’єднуватися до мережі VPN.
+
+Додаток може відстежувати ваш пристрій та дії в мережі, зокрема листування, роботу в додатках і на захищених веб-сайтах."</string>
+    <string name="monitoring_description_legacy_vpn">"Ви під’єднані до мережі VPN (%1$s).
+
+Постачальник послуг VPN може відстежувати пристрій та дії в мережі, зокрема листування, роботу в додатках і на захищених веб-сайтах."</string>
+    <string name="monitoring_description_vpn_device_owned">"Цим пристроєм керує 
+%1$s
+
+Адміністратор може відстежувати ваші дії в мережі, зокрема листування, роботу в додатках і на захищених веб-сайтах. Щоб дізнатися більше, зверніться до адміністратора.
+
+Ви також дозволили додатку %2$sпід’єднатися до мережі VPN. Цей додаток теж може відстежувати ваші дії в мережі."</string>
+    <string name="monitoring_description_legacy_vpn_device_owned">"Цим пристроєм керує 
+%1$s
+
+Адміністратор може відстежувати ваші дії в мережі, зокрема листування, роботу в додатках і на захищених веб-сайтах. Щоб дізнатися більше, зверніться до адміністратора.
+
+Ваш пристрій також під’єднаний до мережі VPN (%2$s). Постачальник послуг VPN може відстежувати ваші дії в мережі."</string>
+    <string name="monitoring_description_profile_owned">"Цим профілем керує
+%1$s
+
+Адміністратор може відстежувати ваші дії на пристрої та в мережі, зокрема листування, роботу в додатках і на захищених сайтах.
+
+Зв’яжіться з адміністратором, щоб дізнатися більше."</string>
+    <string name="monitoring_description_device_and_profile_owned">"Цим пристроєм керує
+%1$s
+Вашим профілем керує
+%2$s
+
+Адміністратор може відстежувати ваші дії на пристрої та в мережі, зокрема листування, роботу в додатках і на захищених сайтах.
+
+Зв’яжіться з адміністратором, щоб дізнатися більше."</string>
+    <string name="monitoring_description_vpn_profile_owned">"Цим профілем керує
+%1$s
+
+Адміністратор може відстежувати ваші дії в мережі, зокрема листування, роботу в додатках і на захищених сайтах. Зв’яжіться з адміністратором, щоб дізнатися більше.
+
+Ви дозволили додатку %2$sпід’єднатися до мережі VPN. Цей додаток може відстежувати ваші дії в мережі."</string>
+    <string name="monitoring_description_legacy_vpn_profile_owned">"Цим профілем керує
+%1$s
+
+Адміністратор може відстежувати ваші дії в мережі, зокрема листування, роботу в додатках і на захищених сайтах. Зв’яжіться з адміністратором, щоб дізнатися більше.
+
+Пристрій під’єднано до мережі VPN (%2$s). Постачальник послуг VPN може відстежувати ваші дії в мережі."</string>
+    <string name="monitoring_description_vpn_device_and_profile_owned">"Цим пристроєм керує
+%1$s
+Вашим профілем керує
+%2$s
+
+Адміністратор може відстежувати ваші дії в мережі, зокрема листування, роботу в додатках і на захищених сайтах. Зв’яжіться з адміністратором, щоб дізнатися більше.
+
+Ви дозволили додатку %3$sпід’єднатися до мережі VPN. Цей додаток може відстежувати ваші дії в мережі."</string>
+    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"Цим пристроєм керує
+%1$s
+Вашим профілем керує
+%2$s
+
+Адміністратор може відстежувати ваші дії в мережі, зокрема листування, роботу в додатках і на захищених сайтах. Зв’яжіться з адміністратором, щоб дізнатися більше.
+
+Пристрій під’єднано до мережі VPN (%3$s). Постачальник послуг VPN може відстежувати ваші дії в мережі."</string>
+    <string name="keyguard_indication_trust_disabled">Пристрій буде заблоковано, поки ви вручну не розблокуєте його</string>
+    <string name="hidden_notifications_title">Швидше отримуйте сповіщення</string>
+    <string name="hidden_notifications_text">Переглядайте сповіщення, перш ніж розблокувати екран</string>
+    <string name="hidden_notifications_cancel">Ні, дякую</string>
+    <string name="hidden_notifications_setup">Налаштув.</string>
+    <string name="zen_mode_and_condition">%1$s. %2$s</string>
+    <string name="screen_pinning_title">Екран закріплено</string>
+    <string name="screen_pinning_description">Закріпить екран, щоб ви могли постійно його бачити, доки не відкріпите. Щоб відкріпити, одночасно натисніть і втримуйте кнопки \"Назад\" і \"Огляд\".</string>
+    <string name="screen_pinning_description_accessible">Закріпить екран, щоб ви могли постійно його бачити, доки не відкріпите. Щоб відкріпити, натисніть і втримуйте кнопку \"Огляд\".</string>
+    <string name="screen_pinning_positive">Готово</string>
+    <string name="screen_pinning_negative">Ні, дякую</string>
+    <string name="quick_settings_reset_confirmation_title">Сховати %1$s?</string>
+    <string name="quick_settings_reset_confirmation_message">З’явиться знову, коли ви ввімкнете його в налаштуваннях.</string>
+    <string name="quick_settings_reset_confirmation_button">Приховати</string>
+    <string name="accessibility_ime_switch_button">Кнопка перемикання методу введення.</string>
+    <string name="somc_kg_ice_button_label_0">ICE – In Case of Emergency</string>
+    <string name="somc_kg_ice_button_label_1">ICE</string>
+    <string name="somc_keyguard_analog_clock_name">Годинник зі стрілками</string>
+    <string name="digital_clock_name">Цифровий годинник</string>
+    <string name="kg_somc_note">Примітка</string>
+    <string name="kg_somc_continue">Продовжити</string>
+    <string name="sony_clock_name">Годинник Sony</string>
+    <string name="lockscreen_voice_unlock_or_short_unlock_hint">Вимовте пароль або проведіть, щоб розблокувати</string>
+    <string name="lockscreen_voice_unlock_error_hint">Пароль не розпізнано</string>
+    <string name="lockscreen_microphone_image_hint">Зображення мікрофона</string>
+    <string name="app_name">Keyguard</string>
+    <string name="keyguard_password_enter_pin_code">Введіть PIN-код</string>
+    <string name="keyguard_password_enter_puk_code">Введіть PUK-код і новий PIN-код SIM-карти</string>
+    <string name="keyguard_password_enter_puk_prompt">PUK-код SIM-карти</string>
+    <string name="keyguard_password_enter_pin_prompt">Новий PIN-код SIM-карти</string>
+    <string name="keyguard_password_entry_touch_hint"><font size="17">Доторкніться, щоб ввести пароль</font></string>
+    <string name="keyguard_password_enter_password_code">Введіть пароль, щоб розблокувати</string>
+    <string name="keyguard_password_enter_pin_password_code">Введіть PIN, щоб розблокувати</string>
+    <string name="keyguard_password_wrong_pin_code">Неправильний PIN-код.</string>
+    <string name="lockscreen_sim_error_message_short">Недійсна картка.</string>
+    <string name="keyguard_label_text">Щоб розблокувати, натисніть «Меню» та 0.</string>
+    <string name="faceunlock_multiple_failures">Перевищено максимальну кількість спроб розблокування за допомогою функції «Фейсконтроль»</string>
+    <string name="keyguard_charged">Заряджено</string>
+    <string name="keyguard_plugged_in">Заряджається</string>
+    <string name="keyguard_low_battery">Підключіть зарядний пристрій.</string>
+    <string name="keyguard_instructions_when_pattern_disabled">Натисніть «Меню», щоб розблокувати.</string>
+    <string name="keyguard_network_locked_message">Мережу заблоковано</string>
+    <string name="keyguard_perso_locked_message">SIM має персональне блокування</string>
+    <string name="keyguard_missing_sim_message_short">Відсутня SIM-картка</string>
+    <string name="keyguard_missing_sim_message">У телефоні немає SIM-картки.</string>
+    <string name="keyguard_missing_sim_instructions">Вставте SIM-картку.</string>
+    <string name="keyguard_missing_sim_instructions_long">SIM-картка відсутня або недоступна для читання. Вставте SIM-картку.</string>
+    <string name="keyguard_permanent_disabled_sim_message_short">SIM-картка вимкнена.</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"Вашу SIM-картку вимкнено назавжди.
+ Зверніться до свого постачальника послуг бездротового зв’язку, щоб отримати іншу SIM-картку."</string>
+    <string name="keyguard_sim_locked_message">SIM-картку заблоковано.</string>
+    <string name="keyguard_sim_puk_locked_message">SIM-картку заблоковано за допомогою PUK-коду.</string>
+    <string name="keyguard_sim_unlock_progress_dialog_message">Розблокування SIM-картки…</string>
+    <string name="keyguard_accessibility_widget_changed">%1$s. Міні-програма %2$d з %3$d.</string>
+    <string name="keyguard_accessibility_add_widget">Додавання міні-програми.</string>
+    <string name="keyguard_accessibility_widget_empty_slot">Пусто</string>
+    <string name="keyguard_accessibility_unlock_area_expanded">Область розблокування розгорнуто.</string>
+    <string name="keyguard_accessibility_unlock_area_collapsed">Область розблокування згорнуто.</string>
+    <string name="keyguard_accessibility_widget">Міні-програма %1$s.</string>
+    <string name="keyguard_accessibility_user_selector">Вибір користувача</string>
+    <string name="keyguard_accessibility_camera">Камера</string>
+    <string name="keygaurd_accessibility_media_controls">Елементи керування носієм</string>
+    <string name="keyguard_accessibility_widget_reorder_start">Змінення порядку міні-програм розпочато.</string>
+    <string name="keyguard_accessibility_widget_reorder_end">Змінення порядку міні-програм завершено.</string>
+    <string name="keyguard_accessibility_widget_deleted">Міні-програму %1$s видалено.</string>
+    <string name="keyguard_accessibility_expand_lock_area">Розгортання області розблокування.</string>
+    <string name="keyguard_accessibility_slide_unlock">Розблокування за допомогою проведення.</string>
+    <string name="keyguard_accessibility_pattern_unlock">Розблокування за допомогою шаблону.</string>
+    <string name="keyguard_accessibility_face_unlock">Розблокування за допомогою функції «Фейсконтроль».</string>
+    <string name="keyguard_accessibility_pin_unlock">Розблокування за допомогою PIN-коду.</string>
+    <string name="keyguard_accessibility_password_unlock">Розблокування за допомогою пароля.</string>
+    <string name="keyguard_accessibility_pattern_area">Область шаблону.</string>
+    <string name="keyguard_accessibility_slide_area">Область проведення.</string>
+    <string name="keyguard_accessibility_pin_area">PIN-код</string>
+    <string name="keyguard_accessibility_sim_pin_area">PIN-код SIM-карти</string>
+    <string name="keyguard_accessibility_sim_puk_area">PUK-код SIM-карти</string>
+    <string name="keyguard_accessibility_transport_prev_description">Кнопка «Попередній запис»</string>
+    <string name="keyguard_accessibility_transport_next_description">Кнопка «Наступний запис»</string>
+    <string name="keyguard_accessibility_transport_pause_description">Кнопка «Призупинити»</string>
+    <string name="keyguard_accessibility_transport_play_description">Кнопка «Відтворити»</string>
+    <string name="keyguard_accessibility_transport_stop_description">Кнопка «Зупинити»</string>
+    <string name="keyguard_accessibility_transport_thumbs_up_description">Подобається</string>
+    <string name="keyguard_accessibility_transport_thumbs_down_description">Не подобається</string>
+    <string name="keyguard_accessibility_transport_heart_description">Рейтинг</string>
+    <string name="keyguard_accessibility_show_bouncer">Розблокуйте, щоб продовжити</string>
+    <string name="keyguard_accessibility_hide_bouncer">Запуск скасовано</string>
+    <string name="keyguard_accessibility_delete_widget_start">Відпустіть %1$s, щоб видалити.</string>
+    <string name="keyguard_accessibility_delete_widget_end">%1$s не буде видалено.</string>
+    <string name="keyguard_accessibility_next_alarm">Наступний сигнал: %1$s</string>
+    <string name="password_keyboard_label_symbol_key">\?123</string>
+    <string name="password_keyboard_label_alpha_key">АБВ</string>
+    <string name="password_keyboard_label_alt_key">ALT</string>
+    <string name="keyboardview_keycode_alt">Alt</string>
+    <string name="keyboardview_keycode_cancel">Скасувати</string>
+    <string name="keyboardview_keycode_delete">Delete</string>
+    <string name="keyboardview_keycode_done">Готово</string>
+    <string name="keyboardview_keycode_mode_change">Змінення режиму</string>
+    <string name="keyboardview_keycode_shift">Shift</string>
+    <string name="keyboardview_keycode_enter">Enter</string>
+    <string name="description_target_unlock">Розблокувати</string>
+    <string name="description_target_camera">Камера</string>
+    <string name="description_target_silent">Вимкнути звук</string>
+    <string name="description_target_soundon">Увімкнути звук</string>
+    <string name="description_direction_down">Проведіть пальцем униз, щоб %s.</string>
+    <string name="description_direction_right">Проведіть пальцем праворуч, щоб %s.</string>
+    <string name="user_switched">Поточний користувач: %1$s.</string>
+    <string name="kg_emergency_call_label">Екстрений дзвінок</string>
+    <string name="kg_forgot_pattern_button_text">Не пам’ятаю шаблон</string>
+    <string name="kg_wrong_pattern">Неправильний шаблон</string>
+    <string name="kg_wrong_password">Неправильний пароль</string>
+    <string name="kg_wrong_pin">Неправильний PIN</string>
+    <string name="kg_too_many_failed_attempts_countdown">Повторіть спробу через %d с.</string>
+    <string name="kg_pattern_instructions">Намалюйте шаблон розблокування</string>
+    <string name="kg_sim_pin_instructions">Введіть PIN SIM-картки</string>
+    <string name="kg_sim_pin_instructions_multi">Введіть PIN-код SIM-карти для оператора \"%1$s\"</string>
+    <string name="kg_pin_instructions">Введіть PIN</string>
+    <string name="kg_password_instructions">Введіть пароль</string>
+    <string name="kg_puk_enter_puk_hint">Зараз SIM-картку заблоковано. Введіть PUK-код або зв’яжіться зі своїм постачальником послуг, щоб отримати докладніші відомості.</string>
+    <string name="kg_puk_enter_puk_hint_multi">SIM-карту \"%1$s\" вимкнено. Щоб продовжити, введіть PUK-код. Щоб дізнатися більше, зв’яжіться з оператором.</string>
+    <string name="kg_puk_enter_pin_hint">Введіть новий PIN-код</string>
+    <string name="kg_enter_confirm_pin_hint">Підтвердьте новий PIN-код</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Розблокування SIM-картки…</string>
+    <string name="kg_invalid_sim_pin_hint">Введіть PIN, який містить від 4 до 8 цифр.</string>
+    <string name="kg_invalid_sim_puk_hint">PUK-код має складатись із 8 цифр.</string>
+    <string name="kg_invalid_puk">Повторно введіть правильний PUK-код. Численні спроби назавжди вимкнуть SIM-картку.</string>
+    <string name="kg_invalid_confirm_pin_hint">PIN-коди не збігаються</string>
+    <string name="kg_login_too_many_attempts">Забагато спроб намалювати шаблон</string>
+    <string name="kg_login_instructions">Щоб розблокувати, увійдіть, використовуючи дані облікового запису Google.</string>
+    <string name="kg_login_username_hint">"Ім'я користувача (ел. пошта)"</string>
+    <string name="kg_login_password_hint">Пароль</string>
+    <string name="kg_login_submit_button">Увійти</string>
+    <string name="kg_login_invalid_input">Недійсне ім’я користувача чи пароль.</string>
+    <string name="kg_login_account_recovery_hint">"Не пам’ятаєте ім’я користувача чи пароль?
+Відвідайте сторінку "<b>google.com/accounts/recovery</b>.</string>
+    <string name="kg_login_checking_password">Перевірка облікового запису…</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Ви ввели неправильний PIN таку кількість разів: %d. 
+
+Повторіть спробу через %d с."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Ви ввели неправильний пароль таку кількість разів: %d. 
+
+Повторіть спробу через %d с."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Ви намалювали неправильний шаблон розблокування таку кількість разів: %d. 
+
+Повторіть спробу через %d с."</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Кількість невдалих спроб розблокування телефону: %d. У вас залишилася така кількість спроб: %d. У разі невдачі установки телефону буде скинуто до стандартних заводських, а всі дані користувача – утрачено.</string>
+    <string name="kg_failed_attempts_now_wiping">Ви ввели неправильний код таку кількість разів: %d. Установки телефону буде скинуто до стандартних заводських.</string>
+    <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">Кількість невдалих спроб розблокувати телефон: %d. Залишилося спроб: %d. У разі невдачі буде видалено цього користувача й усі його дані.</string>
+    <string name="kg_failed_attempts_now_erasing_user">Кількість невдалих спроб розблокувати телефон: %d. Буде видалено цього користувача й усі його дані.</string>
+    <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">Кількість невдалих спроб розблокувати телефон: %d. Залишилося спроб: %d. У разі невдачі буде видалено робочий профіль і всі його дані.</string>
+    <string name="kg_failed_attempts_now_erasing_profile">Кількість невдалих спроб розблокувати телефон: %d. Буде видалено робочий профіль і всі його дані.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Ви намалювали неправильний шаблон розблокування таку кількість разів: %d. У вас залишилася така кількість спроб: %d. У разі невдачі з’явиться запит на розблокування телефону за допомогою облікового запису електронної пошти.
+
+Повторіть спробу через %d с."</string>
+    <string name="kg_reordering_delete_drop_target_text">Видалити</string>
+    <string name="kg_password_wrong_pin_code_pukked">Неправильний PIN-код SIM-картки. Введіть PUK-код або зв’яжіться зі своїм постачальником послуг, щоб отримати докладніші відомості.</string>
+    <string name="kg_password_wrong_puk_code_dead">SIM-картку заблоковано. Зв’яжіться з постачальником послуг.</string>
+    <string name="kg_password_pin_failed">PIN-код SIM-картки не спрацював.</string>
+    <string name="kg_password_puk_failed">PUK-код SIM-картки не спрацював.</string>
+    <string name="kg_pin_accepted">Код прийнято.</string>
+    <string name="keyguard_transport_prev_description">Кнопка «Попередній запис»</string>
+    <string name="keyguard_transport_next_description">Кнопка «Наступний запис»</string>
+    <string name="keyguard_transport_pause_description">Кнопка «Призупинити»</string>
+    <string name="keyguard_transport_play_description">Кнопка «Відтворити»</string>
+    <string name="keyguard_transport_stop_description">Кнопка «Зупинити»</string>
+    <string name="keyguard_carrier_default">Зв’язку немає</string>
+    <string name="kg_dismiss">Закрити</string>
+    <string name="kg_slot_name">"Гніздо %d: нова SIM-картка  "</string>
+    <string name="unmount_strings_dialog_content_txt">Не виймайте картку SD, поки триває процес від’єднання</string>
+    <string name="accessibility_desc_tab_quick_settings_edit">Змінити швидкі установки</string>
+    <string name="accessibility_phone_four_bars">Чотири смуги телефону.</string>
+    <string name="accessibility_state_vibrate">Вібрування</string>
+    <string name="accessibility_tool_dragging">Перетягування</string>
+    <string name="accessibility_tool_drop_to_add">Відпустіть, щоб додати</string>
+    <string name="accessibility_tool_drop_to_remove">Відпустіть, щоб вилучити</string>
+    <string name="accessibility_tool_edit_mode_done">Вимкнено режим редагування</string>
+    <string name="accessibility_tool_edit_mode_enabled">Увімкнено режим редагування</string>
+    <string name="brightness_adapt_checkbox_information">Пристосування до умов освітлення</string>
+    <string name="brightness_help_information_automatic">Яскравість екрана можна налаштовувати автоматично. Установіть стандартну яскравість за допомогою повзунка.</string>
+    <string name="brightness_help_information_manual">Установлювати яскравість вручну незалежно від умов освітлення</string>
+    <string name="carrier_invalid_sim_card">Недійсна SIM-картка</string>
+    <string name="carrier_text_perso_locked_message">SIM/RUIM заблоковано за допомогою персоналізації</string>
+    <string name="close_all_apps_button_text">Закрити все</string>
+    <string name="close_all_apps_toast_text">Усі програми закрито</string>
+    <string name="data_traffic_cost_warning_dialog_message">Дозволити мобільне передавання даних? Залежно від умов підключення до мережі може стягуватися додаткова плата. Щоб уникнути додаткових витрат, після завершення вимкніть функцію мобільного передавання даних.</string>
+    <string name="description_direction_left_down">Проведіть по діагоналі вниз уліво, щоб %s.</string>
+    <string name="description_direction_left_up">Проведіть по діагоналі вгору вліво, щоб %s.</string>
+    <string name="description_direction_up_left">Проведіть по діагоналі вгору вліво, щоб %s.</string>
+    <string name="description_direction_up_right">Проведіть по діагоналі вгору вправо, щоб %s.</string>
+    <string name="emergencymode_strings_could_not_use_quick_settings">Недоступно в екстреному режимі</string>
+    <string name="lockscreen_perso_locked_message">SIM/RUIM має персон. блок.</string>
+    <string name="new_note">Нова примітка</string>
+    <string name="new_sketch">Новий ескіз</string>
+    <string name="no_button_txt">Ні</string>
+    <string name="priority_mode_notification_text">Торкніться, щоб змінити установки спов.</string>
+    <string name="priority_mode_notification_title">Лише пріоритетні сповіщення</string>
+    <string name="quick_Settings">Швидкі установки</string>
+    <string name="quick_settings_description">Виберіть кількість швидких установок на панелі сповіщень і відредагуйте їх порядок</string>
+    <string name="quick_settings_detect_usb_device_label">Виявити пристрій USB</string>
+    <string name="quicksettings_hint_bubble">"Редагування швидких установок
+Доторк. до піктограм і утримуйте їх, а потім
+перетягуйте, щоб дод. або видалення швидкі уст."</string>
+    <string name="quicksettings_toast_bubble">"Вибрано максимальну
+кількість швидких установок"</string>
+    <string name="quicksettings_toast_torch">"Поки використовується камера,
+ліхтарик увімкнути не можна"</string>
+    <string name="quicksettings_toast_volte_not_supported">"Ваш постачальник послуг
+зараз не підтримує VoLTE"</string>
+    <string name="silent_mode_notification_text">Для звуку натисніть клавішу гучн. вгору</string>
+    <string name="silent_mode_notification_title">Без звуку, не сповіщати</string>
+    <string name="smallapp_systemui_recentapp_menu_show_smallapp_txt">Показ. малу прогр.</string>
+    <string name="start_note_app">Запустити програму приміток</string>
+    <string name="start_sketch_app">Запустити програму ескізів</string>
+    <string name="status_bar_airplanemode">"Режим
+«У літаку»"</string>
+    <string name="status_bar_autorotate">Авто-повертання</string>
+    <string name="status_bar_autosync">Автосинхроніз. даних</string>
+    <string name="status_bar_bluetooth">Bluetooth</string>
+    <string name="status_bar_brightness">Яскравість</string>
+    <string name="status_bar_glove_mode">Режим рукавичок</string>
+    <string name="status_bar_gps">GPS</string>
+    <string name="status_bar_location">Розташування</string>
+    <string name="status_bar_mirroring">Віддзеркал. екрана</string>
+    <string name="status_bar_mobile_data">Мобільні дані</string>
+    <string name="status_bar_nfc">NFC</string>
+    <string name="status_bar_recent_failed_to_launch_app">Не вдалося запустити програму</string>
+    <string name="status_bar_roaming">Роумінг</string>
+    <string name="status_bar_settings">Установки</string>
+    <string name="status_bar_settings_airplanemode">Режим «У літаку»</string>
+    <string name="status_bar_settings_autorotate">Автоповерт. екрана</string>
+    <string name="status_bar_settings_autosync">Автосинхроніз. даних</string>
+    <string name="status_bar_settings_bluetooth">Bluetooth</string>
+    <string name="status_bar_settings_brightness">Яскравість</string>
+    <string name="status_bar_settings_glove_mode">Режим рукавичок</string>
+    <string name="status_bar_settings_gps">GPS</string>
+    <string name="status_bar_settings_location">Розташування</string>
+    <string name="status_bar_settings_mirroring">Віддзеркал. екрана</string>
+    <string name="status_bar_settings_mobile_data">Трафік мобіл. даних</string>
+    <string name="status_bar_settings_nfc">NFC</string>
+    <string name="status_bar_settings_roaming">Роумінг</string>
+    <string name="status_bar_settings_settings">Ярлик до Установки</string>
+    <string name="status_bar_settings_sound">Звук</string>
+    <string name="status_bar_settings_wifi">Wi-Fi</string>
+    <string name="status_bar_settings_wifi_hotspot">Точка доступу Wi-Fi</string>
+    <string name="status_bar_sound">Звук</string>
+    <string name="status_bar_tab_notifications_title">Сповіщення</string>
+    <string name="status_bar_tab_quick_settings_done">Готово</string>
+    <string name="status_bar_tab_quick_settings_edit">Редагувати</string>
+    <string name="status_bar_tab_quick_settings_title">Швидкі установки</string>
+    <string name="status_bar_toolsbar_settings_title">Вибрати швидкі установки</string>
+    <string name="status_bar_torch">Спалах</string>
+    <string name="status_bar_wifi">Wi-Fi</string>
+    <string name="status_bar_wifi_hotspot">Точка доступу Wi-Fi</string>
+    <string name="toast_message_maximum_number_of_tools_reached">Вибрано максимальну кількість швидких установок</string>
+    <string name="usbux_strings_charger_do_not_show_agin_txt">Більше не показувати це</string>
+    <string name="usbux_strings_charger_incompatible_dialog_msg_txt">Підключений зарядний пристрій не сумісний із цим пристроєм. Щоб уберегти ваш пристрій від пошкодження, заряджання зупинено. Щоб продовжити заряджання, використовуйте зарядний пристрій і кабель, які постачаються в комплекті.</string>
+    <string name="usbux_strings_charger_incompatible_dialog_title_txt">Не заряджається</string>
+    <string name="usbux_strings_charger_incompatible_notification_summary_txt">Заряджання неможливе. Скористайтесь оригінальним зарядним пристроєм.</string>
+    <string name="usbux_strings_charger_under_current_dialog_msg_txt">Заряджання за допомогою підключеного зарядного пристрою триватиме довше. Щоб пришвидшити заряджання, скористайтеся зарядним пристроєм і кабелем, які постачаються в комплекті.</string>
+    <string name="usbux_strings_charger_under_current_dialog_title_txt">Повільне заряджання</string>
+    <string name="usbux_strings_charger_under_current_toast_txt">Щоб пришвидшити заряджання, використовуйте оригінальний зарядний пристрій.</string>
+    <string name="vzw_airplane_mode_dont_show_again">Більше не показувати це</string>
+    <string name="vzw_airplane_mode_is_on">Увімкнено режим «У літаку». Інтернет, електронна пошта та інші програми, що потребують з’єднання для передавання даних, доступні лише через мережу Wi-Fi.</string>
+    <string name="vzw_airplane_mode_is_on_volte">Увімкнено режим «У літаку». Відеодзвінки не працюють, коли вимкнено передавання мобільних даних. Також Інтернет, електронна пошта та інші програми, що потребують з’єднання для передавання даних, доступні лише через мережу Wi-Fi.</string>
+    <string name="vzw_airplane_mode_turn_on">Інтернет, електронна пошта та інші програми, що потребують з’єднання для передавання даних, доступні лише через мережу Wi-Fi.</string>
+    <string name="vzw_airplane_mode_turn_on_volte">Відеодзвінки не працюють, коли вимкнено передавання мобільних даних. Також Інтернет, електронна пошта та інші програми, що потребують з’єднання для передавання даних, доступні лише через мережу Wi-Fi.</string>
+    <string name="vzw_airplane_turn_on_airplane_mode">Увімкнути режим «У літаку»?</string>
+    <string name="vzw_status_bar_roam_status_data_roaming_txt">Роумінг даних</string>
+    <string name="vzw_status_bar_roam_status_roaming_txt">Роумінг</string>
+    <string name="vzw_status_bar_roam_status_voice_and_data_roaming_txt">Голосовий роумінг і роумінг даних</string>
+    <string name="vzw_status_bar_roam_status_voice_roaming_txt">Голосовий роумінг</string>
+    <string name="vzw_title_airplane_mode">Режим «У літаку»</string>
+    <string name="vzw_title_airplane_mode_is_on">Режим «У літаку»</string>
+    <string name="yes_button_txt">Так</string>
+    <string name="dsds_keyguard_enter_sim_pin_txt">Введіть PIN %s</string>
+    <string name="dsds_keyguard_enter_sim_puk_txt">Введіть PUK %s</string>
+    <string name="dsds_sim_disable_notification_tray_first_line_txt">Картку %1$s вимкнено</string>
+    <string name="dsds_sim_disable_notification_tray_second_line_txt">Торкніться, щоб увімкнути картку %1$s</string>
+    <string name="keyguard_carrier_default_when_not_softbank_sim">Вставлена SIM-картка недоступна на цьому телефоні. Вставте дійсну SIM-картку.</string>
+    <string name="kg_somc_verizon_enter_confirm_pin_hint">Підтвердьте PIN-код, ввівши його повторно.</string>
+    <string name="kg_somc_verizon_invalid_confirm_pin_hint">На жаль, ваші записи для нового PIN-коду SIM-картки не співпадають. Введіть новий PIN-код SIM-картки розміром від 4 до 8 цифр.</string>
+    <string name="kg_somc_verizon_password_wrong_pin_code_pukked">Після останньої спроби ввести PIN-код SIM-картку було заблоковано. Зверніться до свого постачальника послуг бездротового зв’язку, щоб він надав вам PUK-код, за допомогою якого можна розблокувати SIM-картку. Натисніть «Продовжити», щоб ввести PUK-код і розблокувати SIM-картку.</string>
+    <string name="kg_somc_verizon_password_wrong_puk_code_dead">Після 10 введення неправильного PUK-коду SIM-картку назавжди заблоковано. Зверніться до свого постачальника послуг бездротового зв’язку, щоб отримати іншу SIM-картку.</string>
+    <string name="kg_somc_verizon_puk_enter_pin_hint">Введіть новий PIN-код SIM-картки розміром від 4 до 8 цифр.</string>
+    <string name="kg_somc_verizon_puk_enter_puk_hint">Введіть 8-значний PUK-код SIM-картки</string>
+    <string name="kg_somc_verizon_sim_pin_instructions">Введіть PIN-код SIM-картки розміром від 4 до 8 цифр</string>
+    <string name="lockscreen_accessibility_unlock_hint">Проведіть угору або вниз, щоб розблокувати</string>
+    <string name="lockscreen_app_name">Екран блокування</string>
+    <string name="lockscreen_short_unlock_hint">Проведіть, щоб розблокувати</string>
+    <string name="lockscreen_unlock_hint">Проведіть угору або вниз, щоб розблокувати</string>
+</resources>

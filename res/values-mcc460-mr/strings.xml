@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_wifi_scanning_label">WLAN: स्कॅनिंग</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: जोडणी करत आहे</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">WLAN hotspot एअरप्लेन मोडमध्ये उपलब्ध नाही</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">WLAN बंद.</string>
+    <string name="accessibility_no_wifi">WLAN डिसकनेक्ट केले.</string>
+    <string name="accessibility_wifi_one_bar">WLAN एक बार.</string>
+    <string name="accessibility_wifi_two_bars">WLAN दोन बार.</string>
+    <string name="accessibility_wifi_three_bars">WLAN तीन बार.</string>
+    <string name="accessibility_wifi_signal_full">WLAN संकेत पूर्ण भरला.</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN बंद आहे</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN चालू आहे</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN जोडले</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN बंद</string>
+    <string name="quick_settings_connected_via_wfa">WLAN सहाय्यक द्वारे कनेक्ट केले</string>
+    <string name="status_bar_settings_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">WLAN हॉटस्पॉट</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">WLAN हॉटस्पॉट</string>
+    <string name="vzw_airplane_mode_is_on">विमान मोड चालू आहे. आपण WLAN वापरत नसल्यास, डेटा जोडणीची आवश्यकता असलेल्या इंटरनेट, ई-मेल, किंवा इतर अनुप्रयोगांना आपल्याला वापरता येणार नाही.</string>
+    <string name="vzw_airplane_mode_is_on_volte">विमान मोड चालू आहे. मोबाईल डेटा बंद असतांना व्हिडिओ कॉल काम करणार नाही. तसेच, आपण WLAN नेटवर्कला जोडणी केलेली नसल्यास डेटा जोडणीची आवश्यकता असलेल्या इंटरनेट, ई-मेल, किंवा इतर अनुप्रयोगांना आपल्याला वापरता येणार नाही.</string>
+    <string name="vzw_airplane_mode_turn_on">आपण WLAN नेटवर्क वापरत नसल्यास, डेटा जोडणीची आवश्यकता असलेल्या इंटरनेट, ई-मेल, किंवा इतर अनुप्रयोगांना आपल्याला आता वापरता येणार नाही.</string>
+    <string name="vzw_airplane_mode_turn_on_volte">मोबाईल डेटा बंद असतांना व्हिडिओ कॉल काम करणार नाही. तसेच, आपण WLAN नेटवर्कला जोडणी केलेली नसल्यास डेटा जोडणीची आवश्यकता असलेल्या इंटरनेट, ई-मेल, किंवा इतर अनुप्रयोगांना आपल्याला वापरता येणार नाही.</string>
+</resources>

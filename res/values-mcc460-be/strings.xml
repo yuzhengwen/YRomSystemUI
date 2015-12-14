@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_wifi_scanning_label">WLAN: пошук</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: падключэнне</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">Кропка доступу WLAN недаступна ў рэжыме «У самалёце»</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">WLAN выключаны.</string>
+    <string name="accessibility_no_wifi">WLAN адключаны.</string>
+    <string name="accessibility_wifi_one_bar">1 слупок WLAN</string>
+    <string name="accessibility_wifi_two_bars">2 слупкi WLAN</string>
+    <string name="accessibility_wifi_three_bars">3 слупкi WLAN</string>
+    <string name="accessibility_wifi_signal_full">Поўны сігнал WLAN</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN выключаны</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN уключаны</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN далучаны</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN адключаны</string>
+    <string name="quick_settings_connected_via_wfa">Падключаны праз памочніка WLAN</string>
+    <string name="status_bar_settings_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">Кропка доступу WLAN</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">Кропка доступу WLAN</string>
+    <string name="vzw_airplane_mode_is_on">Рэжым «У самалёце» уключаны. Пакуль не падлучыцеся да WLAN, вы не зможаце карыстацца Інтэрнэтам, электроннай поштай і іншымі праграмамі, якія патрабуюць падключэння для перадачы дадзеных.</string>
+    <string name="vzw_airplane_mode_is_on_volte">Рэжым «У самалёце» уключаны. Выідэавыклікі не будуць працаваць, пакуль выключана перадача мабільных дадзеных. Таксама вы не зможаце карыстацца Інтэрнэтам, электроннай поштай і іншымі праграмамі, якія патрабуюць падключэння для перадачы дадзеных, пакуль не падлучыцеся да сеткі WLAN.</string>
+    <string name="vzw_airplane_mode_turn_on">Пакуль не падключыцеся да WLAN, вы не зможаце карыстацца Інтэрнэтам, электроннай поштай і іншымі праграмамі, якія патрабуюць падключэння для перадачы дадзеных.</string>
+    <string name="vzw_airplane_mode_turn_on_volte">Выідэавыклікі не будуць працаваць, пакуль выключана перадача мабільных дадзеных. Таксама вы не зможаце карыстацца Інтэрнэтам, электроннай поштай і іншымі праграмамі, якія патрабуюць падключэння для перадачы дадзеных, пакуль не падключыцеся да сеткі WLAN.</string>
+</resources>

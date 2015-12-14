@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">विहंगावलोकन मधील %d पडदे</item>
+        <item quantity="one">विहंगावलोकन मधील 1 पडदा</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">चुकीचा SIM PIN कोड, आपल्याकडे %d प्रयत्न शिल्लक आहेत, तत्पूर्वी आपण आता आपले उपकरण अनलॉक करण्यासाठी PUK कोड (PIN अनलॉक कोड) प्रविष्ट करणे किंवा आपल्या सेवा प्रदात्याशी संपर्क साधणे आवश्यक आहे.</item>
+        <item quantity="one">चुकीचा SIM PIN कोड, आपल्याकडे %d प्रयत्न शिल्लक आहेत, तत्पूर्वी आपण आता आपले उपकरण अनलॉक करण्यासाठी PUK कोड (PIN अनलॉक कोड) प्रविष्ट करणे किंवा आपल्या सेवा प्रदात्याशी संपर्क साधणे आवश्यक आहे.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">चुकीचा SIM PUK कोड, SIM कायमचे निरुपयोगी होणापुर्वी आपल्याकडे %d प्रयत्न शिल्लक आहेत.</item>
+        <item quantity="one">चुकीचा SIM PUK कोड, SIM कायमचे निरुपयोगी होणापुर्वी आपल्याकडे %d प्रयत्न शिल्लक आहेत.</item>
+    </plurals>
+</resources>

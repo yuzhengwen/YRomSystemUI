@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_wifi_scanning_label">WLAN：正在掃描</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN：正在連接</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">飛航模式中無法使用WLAN無線基地台</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">已關閉WLAN。</string>
+    <string name="accessibility_no_wifi">WLAN已中斷連接。</string>
+    <string name="accessibility_wifi_one_bar">WLAN信號強度一格。</string>
+    <string name="accessibility_wifi_two_bars">WLAN信號強度兩格。</string>
+    <string name="accessibility_wifi_three_bars">WLAN信號強度三格。</string>
+    <string name="accessibility_wifi_signal_full">WLAN信號滿格。</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN已關閉</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN已開啟</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN已連接</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">已關閉WLAN</string>
+    <string name="quick_settings_connected_via_wfa">已透過 WLAN 小幫手連線</string>
+    <string name="status_bar_settings_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">WLAN無線基地台</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">"WLAN
+無線基地台"</string>
+    <string name="vzw_airplane_mode_is_on">飛航模式已開啟。除非使用WLAN，否則您將無法使用互聯網、電子郵件或需要數據連接的其他應用程式。</string>
+    <string name="vzw_airplane_mode_is_on_volte">飛航模式已開啟。當流動數據關閉時，視像電話將無法使用。除非您連接至WLAN網絡，否則您也將無法使用互聯網、電子郵件或需要數據連接的其他應用程式。</string>
+    <string name="vzw_airplane_mode_turn_on">除非使用WLAN，否則您將無法再使用互聯網、電子郵件或需要數據連接的其他應用程式。</string>
+    <string name="vzw_airplane_mode_turn_on_volte">當流動數據關閉時，視像電話將無法使用。除非您連接至WLAN網絡，否則您也將無法使用互聯網、電子郵件或需要數據連接的其他應用程式。</string>
+</resources>

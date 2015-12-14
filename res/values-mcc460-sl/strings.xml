@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_wifi_scanning_label">WLAN: iskanje</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: povezovanje</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">Vroča točka za WLAN ni na voljo v načinu za letenje</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">WLAN je izklopljen.</string>
+    <string name="accessibility_no_wifi">Povezava WLAN je prekinjena.</string>
+    <string name="accessibility_wifi_one_bar">WLAN z eno črtico.</string>
+    <string name="accessibility_wifi_two_bars">WLAN z dvema črticama.</string>
+    <string name="accessibility_wifi_three_bars">WLAN s tremi črticami.</string>
+    <string name="accessibility_wifi_signal_full">Poln signal WLAN.</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">Povezava z omrežjem WLAN je izklopljena</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">Povezava z omrežjem WLAN je vklopljena</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">Vzpostavljena povezava z omrežjem WLAN</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN je izklopljen</string>
+    <string name="quick_settings_connected_via_wfa">Povezava vzpostavljena prek pomočnika za WLAN</string>
+    <string name="status_bar_settings_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">Vroča točka za WLAN</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">Vroča točka za WLAN</string>
+    <string name="vzw_airplane_mode_is_on">Vklopljen je način za letenje. Interneta, e-pošte in ostalih programov, ki zahtevajo podatkovno povezavo, ne boste mogli uporabljati, razen če ne vzpostavite povezave z omrežjem WLAN.</string>
+    <string name="vzw_airplane_mode_is_on_volte">Vklopljen je način za letenje. Videoklici niso na voljo, če je izklopljen prenos podatkov prek mobilnega omrežja. Prav tako ne boste mogli uporabljati interneta, e-pošte in ostalih programov, ki zahtevajo podatkovno povezavo, razen če ne vzpostavite povezave z omrežjem WLAN.</string>
+    <string name="vzw_airplane_mode_turn_on">Interneta, e-pošte ali drugih programov, ki zahtevajo podatkovno povezavo, ne boste mogli več uporabljati, razen če ne vzpostavite povezave z omrežjem WLAN.</string>
+    <string name="vzw_airplane_mode_turn_on_volte">Videoklici niso na voljo, če je izklopljen prenos podatkov prek mobilnega omrežja. Prav tako ne boste mogli uporabljati interneta, e-pošte in ostalih programov, ki zahtevajo podatkovno povezavo, razen če ne vzpostavite povezave z omrežjem WLAN.</string>
+</resources>

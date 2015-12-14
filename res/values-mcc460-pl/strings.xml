@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_wifi_scanning_label">WLAN: Wyszukiwanie</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: Łączenie</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">Hotspot WLAN nie jest dostępny w trybie samolotowym</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">WLAN wyłączone.</string>
+    <string name="accessibility_no_wifi">WLAN rozłączone.</string>
+    <string name="accessibility_wifi_one_bar">WLAN: jeden pasek.</string>
+    <string name="accessibility_wifi_two_bars">WLAN: dwa paski.</string>
+    <string name="accessibility_wifi_three_bars">WLAN: trzy paski.</string>
+    <string name="accessibility_wifi_signal_full">WLAN: pełna moc sygnału.</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">Funkcja WLAN wyłączona</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">Funkcja WLAN włączona</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN: połączono</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">Wyłącz WLAN</string>
+    <string name="quick_settings_connected_via_wfa">Połączono przez Asystenta WLAN</string>
+    <string name="status_bar_settings_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">Punkt dostępu WLAN</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">Punkt dostępu WLAN</string>
+    <string name="vzw_airplane_mode_is_on">Tryb samolotowy jest włączony. Jeżeli nie używasz sieci WLAN, nie będzie można korzystać z Internetu, poczty e-mail ani innych aplikacji, które wymagają połączenia transmisji danych.</string>
+    <string name="vzw_airplane_mode_is_on_volte">Tryb samolotowy jest włączony. Połączenia wideo nie działają po wyłączeniu transmisji danych w sieci komórkowej. Jeżeli nie połączysz się z siecią WLAN, nie będzie można korzystać z Internetu, poczty e-mail ani innych aplikacji, które wymagają połączenia transmisji danych.</string>
+    <string name="vzw_airplane_mode_turn_on">Jeżeli nie połączysz się z siecią WLAN, nie będzie można korzystać z Internetu, poczty e-mail ani innych aplikacji, które wymagają połączenia transmisji danych.</string>
+    <string name="vzw_airplane_mode_turn_on_volte">Połączenia wideo nie działają po wyłączeniu transmisji danych w sieci komórkowej. Jeżeli nie połączysz się z siecią WLAN, nie będzie można korzystać z Internetu, poczty e-mail ani innych aplikacji, które wymagają połączenia transmisji danych.</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">WLAN বন্ধ৷</string>
+    <string name="accessibility_no_wifi">WLAN এর সংযোগ বিচ্ছিন্ন হয়েছে৷</string>
+    <string name="accessibility_wifi_one_bar">WLAN এ একটি দণ্ড৷</string>
+    <string name="accessibility_wifi_two_bars">WLAN এ দুইটি দণ্ড৷</string>
+    <string name="accessibility_wifi_three_bars">WLAN এ তিনটি দণ্ড৷</string>
+    <string name="accessibility_wifi_signal_full">WLAN এ সম্পূর্ণ সিগন্যাল৷</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN বন্ধ হয়েছে।</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN চালু হয়েছে।</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN সংযুক্ত হয়েছে</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN বন্ধ</string>
+    <string name="quick_settings_connected_via_wfa">WLAN সহায়ক-এর মাধ্যমে সংযুক্ত হয়েছে</string>
+</resources>

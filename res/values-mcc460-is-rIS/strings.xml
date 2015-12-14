@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">Slökkt á WLAN.</string>
+    <string name="accessibility_no_wifi">WLAN ótengt.</string>
+    <string name="accessibility_wifi_one_bar">WLAN: Eitt strik.</string>
+    <string name="accessibility_wifi_two_bars">WLAN: Tvö strik.</string>
+    <string name="accessibility_wifi_three_bars">WLAN: Þrjú strik.</string>
+    <string name="accessibility_wifi_signal_full">Fullur WLAN sendistyrkur.</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">Slökkt á WLAN.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">Kveikt á WLAN.</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN tengt</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">Slökkt á WLAN</string>
+    <string name="quick_settings_connected_via_wfa">Tengt í gegnum WLAN aðstoð</string>
+</resources>

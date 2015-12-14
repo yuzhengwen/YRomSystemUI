@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_wifi_scanning_label">WLAN: ஸ்கேன் செய்கிறது</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: இணைக்கிற.</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">விமான பயன்முறையில் WLAN hotspot கிடைக்காது</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">WLAN ஆஃப்.</string>
+    <string name="accessibility_no_wifi">WLAN துண்டிக்கப்பட்டது.</string>
+    <string name="accessibility_wifi_one_bar">WLAN ஒரு பட்டி.</string>
+    <string name="accessibility_wifi_two_bars">WLAN இரண்டு பட்டிகள்.</string>
+    <string name="accessibility_wifi_three_bars">WLAN மூன்று பட்டிகள்.</string>
+    <string name="accessibility_wifi_signal_full">WLAN சிக்னல் முழுமையாகவுள்ளது</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN அணைக்கப்பட்டது</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN இயக்கப்பட்டது</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN இணைக்கப்பட்டது</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN ஆஃப்</string>
+    <string name="status_bar_settings_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">WLAN hotspot</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">WLAN hotspot</string>
+    <string name="vzw_airplane_mode_is_on">விமான பயன்முறை ஆனில் உள்ளது. நீங்கள் WLAN பயன்படுத்தாத வரை, இணையம், மின்னஞ்சல் அல்லது தரவு இணைப்பு தேவைப்படும் பிற பயன்பாடுகளை உங்களால் பயன்படுத்த முடியாது.</string>
+    <string name="vzw_airplane_mode_is_on_volte">விமான பயன்முறை ஆனில் உள்ளது. மொபைல் தரவு அணைத்திருக்கும்போது வீடியோ அழைப்புகள் வேலை செய்யாது. மேலும், நீங்கள் ஒரு WLAN பிணையத்திற்கு இணைக்காத வரை, இணையம், மின்னஞ்சல் அல்லது தரவு இணைப்பு தேவைப்படும் பிற பயன்பாடுகளை உங்களால் பயன்படுத்த முடியாது.</string>
+    <string name="vzw_airplane_mode_turn_on">நீங்கள் WLAN பயன்படுத்தாத வரை, இணையம், மின்னஞ்சல் அல்லது தரவு இணைப்பு தேவைப்படும் பிற பயன்பாடுகளை உங்களால் இனி பயன்படுத்த முடியாது.</string>
+    <string name="vzw_airplane_mode_turn_on_volte">மொபைல் தரவு அணைத்திருக்கும்போது வீடியோ அழைப்புகள் வேலை செய்யாது. மேலும், நீங்கள் ஒரு WLAN பிணையத்திற்கு இணைக்காத வரை, இணையம், மின்னஞ்சல் அல்லது தரவு இணைப்பு தேவைப்படும் பிற பயன்பாடுகளை உங்களால் பயன்படுத்த முடியாது.</string>
+</resources>

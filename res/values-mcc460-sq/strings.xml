@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_wifi_scanning_label">WLAN: duke skanuar</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: duke u lidhur</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">Zona e internetit me valë WLAN e padisponueshme në regjimin në aeroplan</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">WLAN joaktiv.</string>
+    <string name="accessibility_no_wifi">WLAN i shkëputur.</string>
+    <string name="accessibility_wifi_one_bar">WLAN një vizë.</string>
+    <string name="accessibility_wifi_two_bars">WLAN dy viza.</string>
+    <string name="accessibility_wifi_three_bars">WLAN tre viza.</string>
+    <string name="accessibility_wifi_signal_full">Sinjali i WLAN plot.</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN u çaktivizua</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN u aktivizua</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN u lidh</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN joaktiv</string>
+    <string name="quick_settings_connected_via_wfa">Lidhur nëpërmjet ndihmësit të WLAN</string>
+    <string name="status_bar_settings_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">Zon. internet. val. WLAN</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">Zona e internet. me valë WLAN</string>
+    <string name="vzw_airplane_mode_is_on">Regjimi në aeroplan është i aktivizuar. Nëse nuk përdorni WLAN, nuk do të jeni në gjendje të përdorni internetin, Postën elektronike ose aplikacione të tjera që kërkojnë një lidhje të dhënash.</string>
+    <string name="vzw_airplane_mode_is_on_volte">Regjimi në aeroplan është i aktivizuar. Videotelefonatat nuk funksionojnë kur të dhënat celulare janë joaktive. Gjithashtu, nuk do të jeni në gjendje të përdorni internetin, Postën elektronike ose aplikacione të tjera që kanë nevojë për një lidhje të dhënash, nëse nuk lidheni me një rrjet WLAN.</string>
+    <string name="vzw_airplane_mode_turn_on">Nëse nuk përdorni WLAN, nuk do të jeni më në gjendje të përdorni internetin, Postën elektronike ose aplikacione të tjera që kërkojnë një lidhje të dhënash.</string>
+    <string name="vzw_airplane_mode_turn_on_volte">Videotelefonatat nuk funksionojnë kur të dhënat celulare janë joaktive. Gjithashtu, nuk do të jeni në gjendje të përdorni internetin, Postën elektronike ose aplikacione të tjera që kanë nevojë për një lidhje të dhënash, nëse nuk lidheni me një rrjet WLAN.</string>
+</resources>

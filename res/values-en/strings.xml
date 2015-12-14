@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="power_settings_instructions">Enabling STAMINA mode in Power management will optimise battery lifetime</string>
+    <string name="enable_stamina_tip">You can optimise the battery lifetime by enabling STAMINA mode.</string>
+    <string name="somc_qs_hint">Touch and hold icons to rearrange quick settings</string>
+    <string name="status_bar_autosync_dialog_enable_title">Turn on auto-sync data?</string>
+    <string name="status_bar_autosync_dialog_enable_warning">"Any changes you make to your accounts on the web will be automatically copied to your phone.
+
+Some accounts may also automatically copy any changes you make on your phone to the web.
+
+To choose what kinds of data you sync for each account, go to Settings > Accounts."</string>
+    <string name="status_bar_autosync_dialog_extended_enable_warning">"Any changes you make to your accounts on the web will be automatically copied to your device.
+
+Some accounts may also automatically copy any changes you make on your device to the web.
+
+To choose what kinds of data you sync for each account, go to Settings > Accounts.
+
+Data charges may apply when updating your device. An unlimited data plan is recommended."</string>
+    <string name="status_bar_autosync_dialog_disable_title">Turn auto-sync data off?</string>
+    <string name="usb_device_permission_prompt">Allow the application %1$s to access the USB device?</string>
+    <string name="usb_accessory_permission_prompt">Allow the application %1$s to access the USB accessory?</string>
+    <string name="usb_accessory_uri_prompt">No installed applications work with this USB accessory. Learn more about this accessory at %1$s</string>
+    <string name="usb_debugging_message">"The computer's RSA key fingerprint is:
+
+%1$s"</string>
+    <string name="screenshot_saving_ticker">Saving screenshot…</string>
+    <string name="screenshot_saving_title">Saving screenshot…</string>
+    <string name="screenshot_failed_title">"Couldn't capture screenshot."</string>
+    <string name="installer_cd_button_title">Install Android File Transfer application for Mac</string>
+    <string name="accessibility_recents_item_will_be_dismissed">Dismiss %s.</string>
+    <string name="accessibility_recents_item_launched">Starting %s.</string>
+    <string name="accessibility_quick_settings_airplane_off">Aeroplane mode off</string>
+    <string name="accessibility_quick_settings_airplane_on">Aeroplane mode on</string>
+    <string name="accessibility_quick_settings_airplane_changed_off">Aeroplane mode turned off</string>
+    <string name="accessibility_quick_settings_airplane_changed_on">Aeroplane mode turned on</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_off">Colour inversion turned off</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_on">Colour inversion turned on</string>
+    <string name="status_bar_settings_signal_meter_disconnected">No Internet connection</string>
+    <string name="status_bar_notification_app_settings_title">%s settings</string>
+    <string name="quick_settings_inversion_label">Invert colours</string>
+    <string name="quick_settings_color_space_label">Colour correction mode</string>
+    <string name="quick_settings_connected_via_wfa">Connected via Wi‑Fi assistant</string>
+    <string name="quick_settings_cellular_detail_over_limit">Limit reached – data usage paused</string>
+    <string name="quick_settings_cellular_detail_data_used">%s used</string>
+    <string name="quick_settings_cellular_detail_data_limit">%s limit</string>
+    <string name="quick_settings_cellular_detail_data_warning">%s warning</string>
+    <string name="recents_lock_to_app_button_label">lock to app</string>
+    <string name="recents_launch_error_message">Could not start %s.</string>
+    <string name="expanded_header_battery_charging_with_time">%s until full</string>
+    <string name="description_direction_up">Slide up for %s.</string>
+    <string name="description_direction_left">Slide left for %s.</string>
+    <string name="zen_alarm_information_time">Your next alarm is at %s</string>
+    <string name="zen_alarm_information_day_time">Your next alarm is %s</string>
+    <string name="zen_alarm_warning">"You won't hear your alarm at %s"</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
+    <string name="keyguard_indication_charging_time">Charging (%s until full)</string>
+    <string name="accessibility_multi_user_switch_switcher_with_current">Switch user, current user %s</string>
+    <string name="guest_wipe_session_wipe">Start again</string>
+    <string name="user_add_user_message_short">"When you add a new user, that person needs to set up their space.
+
+Any user can update apps for all other users."</string>
+    <string name="battery_level_template">%d%%</string>
+    <string name="media_projection_dialog_text">"%s will start capturing everything that's displayed on your screen."</string>
+    <string name="message_switch_fail">Cannot switch to this task because it has no interface.</string>
+    <string name="tasklist_memory_usage" formatted="false">Free/Total Memory: [%s]/[%s]</string>
+    <string name="monitoring_description_device_owned">"This device is managed by:
+%1$s
+
+Your administrator can monitor your device and network activity, including emails, apps and secure websites.
+
+For more information, contact your administrator."</string>
+    <string name="monitoring_description_vpn">"You gave \"%1$s\" permission to set up a VPN connection.
+
+This app can monitor your device and network activity, including emails, apps and secure websites."</string>
+    <string name="monitoring_description_legacy_vpn">"You're connected to a VPN (\"%1$s\").
+
+Your VPN service provider can monitor your device and network activity including emails, apps and secure websites."</string>
+    <string name="monitoring_description_vpn_device_owned">"This device is managed by:
+%1$s
+
+Your administrator is capable of monitoring your network activity including emails, apps and secure websites. For more information, contact your administrator.
+
+Also, you gave \"%2$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
+    <string name="monitoring_description_legacy_vpn_device_owned">"This device is managed by:
+%1$s
+
+Your administrator is capable of monitoring your network activity including emails, apps and secure websites. For more information, contact your administrator.
+
+Also, you're connected to a VPN (\"%2$s\"). Your VPN service provider can monitor network activity too."</string>
+    <string name="monitoring_description_profile_owned">"This profile is managed by:
+%1$s
+
+Your administrator can monitor your device and network activity, including emails, apps and secure websites.
+
+For more information, contact your administrator."</string>
+    <string name="monitoring_description_device_and_profile_owned">"This device is managed by:
+%1$s
+Your profile is managed by:
+%2$s
+
+Your administrator can monitor your device and network activity, including emails, apps and secure websites.
+
+For more information, contact your administrator."</string>
+    <string name="monitoring_description_vpn_profile_owned">"This profile is managed by:
+%1$s
+
+Your administrator is capable of monitoring your network activity including emails, apps and secure websites. For more information, contact your administrator.
+
+Also, you gave \"%2$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
+    <string name="monitoring_description_legacy_vpn_profile_owned">"This profile is managed by:
+%1$s
+
+Your administrator is capable of monitoring your network activity including emails, apps and secure websites. For more information, contact your administrator.
+
+Also, you're connected to a VPN (\"%2$s\"). Your VPN service provider can monitor network activity too."</string>
+    <string name="monitoring_description_vpn_device_and_profile_owned">"This device is managed by:
+%1$s
+Your profile is managed by:
+%2$s
+
+Your administrator is capable of monitoring your network activity including emails, apps and secure websites. For more information, contact your administrator.
+
+Also, you gave \"%3$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
+    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"This device is managed by:
+%1$s
+Your profile is managed by:
+%2$s
+
+Your administrator is capable of monitoring your network activity including emails, apps and secure websites. For more information, contact your administrator.
+
+Also, you're connected to a VPN (\"%3$s\"). Your VPN service provider can monitor network activity too."</string>
+    <string name="keyguard_indication_trust_disabled">Device will stay locked until you manually unlock it</string>
+    <string name="hidden_notifications_cancel">No, thanks</string>
+    <string name="hidden_notifications_setup">Setup</string>
+    <string name="zen_mode_and_condition">%1$s. %2$s</string>
+    <string name="screen_pinning_negative">No, thanks</string>
+    <string name="quick_settings_reset_confirmation_title">Hide %1$s?</string>
+    <string name="somc_keyguard_analog_clock_name">Analogue clock</string>
+    <string name="lockscreen_voice_unlock_error_hint">Did not recognise passphrase</string>
+    <string name="lockscreen_sim_error_message_short">Invalid card.</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"Your SIM card has been permanently disabled.
+ Contact your wireless service provider for another SIM card."</string>
+    <string name="keyguard_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
+    <string name="keyguard_accessibility_widget_reorder_start">Widget re-ordering started.</string>
+    <string name="keyguard_accessibility_widget_reorder_end">Re-ordering of widgets finished.</string>
+    <string name="keyguard_accessibility_hide_bouncer">Launch cancelled</string>
+    <string name="keyguard_accessibility_next_alarm">Next alarm set for %1$s</string>
+    <string name="kg_forgot_pattern_button_text">Forgotten pattern</string>
+    <string name="kg_sim_pin_instructions_multi">Enter SIM PIN for \"%1$s\"</string>
+    <string name="kg_puk_enter_puk_hint">SIM is now disabled. Enter PUK code or contact your mobile network operator for more information.</string>
+    <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" is now disabled. Enter PUK code to continue. Contact operator for details.</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
+    <string name="kg_invalid_sim_pin_hint">Type a PIN that is 4 to 8 numbers long.</string>
+    <string name="kg_invalid_sim_puk_hint">PUK code should be 8 digits long.</string>
+    <string name="kg_login_account_recovery_hint">"Forgotten your username or password?
+Visit "<b>google.com/accounts/recovery</b>.</string>
+    <string name="kg_login_checking_password">Checking account…</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">You have attempted to unlock the phone %d times. After %d more unsuccessful attempts, the phone will be reset to factory default and all user data will be lost.</string>
+    <string name="kg_failed_attempts_now_wiping">You have entered an incorrect code %d times. The phone will now be reset to factory default.</string>
+    <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">You have incorrectly attempted to unlock the phone %d times. After %d more unsuccessful attempts, this user will be removed, which will delete all user data.</string>
+    <string name="kg_failed_attempts_now_erasing_user">You have incorrectly attempted to unlock the phone %d times. This user will be removed, which will delete all user data.</string>
+    <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">You have incorrectly attempted to unlock the phone %d times. After %d more unsuccessful attempts, the work profile will be removed, which will delete all profile data.</string>
+    <string name="kg_failed_attempts_now_erasing_profile">You have incorrectly attempted to unlock the phone %d times. The work profile will be removed, which will delete all profile data.</string>
+    <string name="kg_password_wrong_pin_code_pukked">Incorrect SIM PIN code. Enter PUK code or contact your mobile network operator for more information.</string>
+    <string name="kg_password_wrong_puk_code_dead">SIM is disabled. Please contact your mobile network operator.</string>
+    <string name="kg_slot_name">"Slot %d: New SIM Card "</string>
+    <string name="unmount_strings_dialog_content_txt">Do not remove the SD card while it is disconnecting</string>
+    <string name="accessibility_state_vibrate">Vibrate</string>
+    <string name="description_direction_left_down">Swipe diagonally down and left for %s.</string>
+    <string name="description_direction_left_up">Swipe diagonally up and left for %s.</string>
+    <string name="description_direction_up_left">Swipe diagonally up and left for %s.</string>
+    <string name="description_direction_up_right">Swipe diagonally up and right for %s.</string>
+    <string name="quicksettings_toast_torch">"Torch cannot be turned on
+while the camera is in use"</string>
+    <string name="quicksettings_toast_volte_not_supported">"VoLTE is not currently supported
+by your service provider"</string>
+    <string name="status_bar_autorotate">Auto-rotate</string>
+    <string name="status_bar_settings_autorotate">Auto-rotate screen</string>
+    <string name="vzw_airplane_mode_is_on">Aeroplane mode is turned on. Unless you use Wi-Fi, you will not be able to use the Internet, Email or other apps that require a data connection.</string>
+    <string name="vzw_airplane_mode_is_on_volte">"Aeroplane mode is turned on. Video calls won't work when mobile data is off. Also, you won't be able to use the Internet, Email or other apps that need a data connection unless you connect to a Wi-Fi network."</string>
+    <string name="vzw_airplane_turn_on_airplane_mode">Turn on Airplane mode?</string>
+    <string name="kg_somc_verizon_password_wrong_pin_code_pukked">Your last attempt to enter a PIN has locked this SIM card. Please contact your wireless service provider to get your PUK code to unlock your SIM card. Press Continue to enter the PUK to unlock your SIM card.</string>
+</resources>

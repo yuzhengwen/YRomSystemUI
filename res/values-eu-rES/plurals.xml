@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d pantaila daude ikuspegi orokorrean</item>
+        <item quantity="one">Pantaila 1 dago ikuspegi orokorrean</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">SIMaren PIN kodea okerra da. Gailua desblokeatzeko, %d saiakera gelditzen zaizu PUK kodea (PINa desblokeatzeko kodea) sartu edo zerbitzu hornitzailearekin harremanetan jarri baino lehen.</item>
+        <item quantity="one">SIM txartelaren PIN kodea okerra da. Gailua desblokeatzeko, %d saiakera geratzen zaizkizu PUK kodea (PINa desblokeatzeko kodea) sartu edo zerbitzu hornitzailearekin harremanetan jarri baino lehen.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">SIMaren PUK kodea okerra da. %d saiakera geratzen zaizkizu SIMa betirako erabilezin bihurtu arte.</item>
+        <item quantity="one">SIMaren PUK kodea okerra da. %d saiakera geratzen zaizkizu SIMa betirako erabilezin bihurtu arte.</item>
+    </plurals>
+</resources>

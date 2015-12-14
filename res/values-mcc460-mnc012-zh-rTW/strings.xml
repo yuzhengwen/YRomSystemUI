@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_no_sim">沒有UIM卡。</string>
+    <item type="string" name="APKTOOL_DUMMY_0199">false</item>
+    <item type="string" name="APKTOOL_DUMMY_019a">false</item>
+</resources>

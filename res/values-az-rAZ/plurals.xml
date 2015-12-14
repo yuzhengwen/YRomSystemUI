@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">İcmalda %d ekran</item>
+        <item quantity="one">İcmalda 1 ekran</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Yanlış SIM PIN kod, cihazınızı kiliddən açmaq üçün PUK kod (PIN kiliddən açma kodu) daxil etməzdən və ya xidmət provayderinizlə əlaqə saxlamazdan əvvəl %d cəhdiniz qalır.</item>
+        <item quantity="one">Yanlış SIM PIN kod, cihazınızı kiliddən açmaq üçün PUK kod (PIN kiliddən açma kodu) daxil etməzdən və ya xidmət provayderinizlə əlaqə saxlamazdan əvvəl %d cəhdiniz qalır.</item>
+    </plurals>
+</resources>

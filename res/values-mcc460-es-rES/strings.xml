@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_wifi_scanning_label">WLAN: buscando</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: conectando</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">El área de conexión WLAN no está disponible en modo avión.</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">WLAN desconectado.</string>
+    <string name="accessibility_no_wifi">WLAN desconectado.</string>
+    <string name="accessibility_wifi_one_bar">Una barra de WLAN</string>
+    <string name="accessibility_wifi_two_bars">Dos barras de WLAN</string>
+    <string name="accessibility_wifi_three_bars">Tres barras de WLAN</string>
+    <string name="accessibility_wifi_signal_full">Señal completa de WLAN</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">El WLAN se ha desactivado.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">El WLAN se ha activado.</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN conectado</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN desconectado</string>
+    <string name="quick_settings_connected_via_wfa">Conectado a través de asistente WLAN</string>
+    <string name="quick_settings_hotspot_label">Zona WLAN</string>
+    <string name="status_bar_settings_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">Área conexión WLAN</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">Área de conexión WLAN</string>
+    <string name="vzw_airplane_mode_is_on">El modo avión está activado. Salvo que utilice WLAN, no podrá usar Internet, el correo electrónico u otras aplicaciones que requieran una conexión de datos.</string>
+    <string name="vzw_airplane_mode_is_on_volte">El modo avión está activado. Las videollamadas no funcionarán cuando los datos móviles están desactivados. Además, no podrá utilizar Internet, el correo electrónico u otras aplicaciones que necesitan una conexión de datos salvo que se conecte a una red WLAN.</string>
+    <string name="vzw_airplane_mode_turn_on">A no ser que utilice WLAN, no podrá usar Internet, el correo electrónico u otras aplicaciones que requieran una conexión de datos.</string>
+    <string name="vzw_airplane_mode_turn_on_volte">Las videollamadas no funcionarán cuando los datos móviles están desactivados. Además, no podrá utilizar Internet, el correo electrónico u otras aplicaciones que necesitan una conexión de datos salvo que se conecte a una red WLAN.</string>
+</resources>

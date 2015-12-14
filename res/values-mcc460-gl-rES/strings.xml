@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">WLAN desactivada</string>
+    <string name="accessibility_no_wifi">WLAN desconectada</string>
+    <string name="accessibility_wifi_one_bar">Unha barra de wifi</string>
+    <string name="accessibility_wifi_two_bars">Dúas barras de wifi</string>
+    <string name="accessibility_wifi_three_bars">Tres barras de wifi</string>
+    <string name="accessibility_wifi_signal_full">Sinal completo de wifi</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN desactivada.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN activada.</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN conectada</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN desactivada</string>
+</resources>

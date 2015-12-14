@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_bar_settings_wifi_button">वाय-फाय</string>
+    <string name="accessibility_wifi_off">वायफाय बंद.</string>
+    <string name="accessibility_no_wifi">WIFI डिस्कनेक्ट झाले.</string>
+    <string name="accessibility_wifi_one_bar">वायफाय एक बार.</string>
+    <string name="accessibility_wifi_two_bars">वायफाय दोन बार.</string>
+    <string name="accessibility_wifi_three_bars">वायफाय तीन बार.</string>
+    <string name="accessibility_wifi_signal_full">वायफाय सिग्नल पूर्ण.</string>
+    <string name="accessibility_data_connection_wifi">वाय-फाय</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN बंद झाले.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN चालू झाले.</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">वाय-फाय कनेक्ट केले</string>
+    <string name="quick_settings_wifi_label">वाय-फाय</string>
+    <string name="quick_settings_wifi_off_label">वाय-फाय बंद</string>
+    <string name="quick_settings_connected_via_wfa">WLAN सहाय्यक द्वारे कनेक्ट केले</string>
+</resources>

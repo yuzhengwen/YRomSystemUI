@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_wifi_scanning_label">WLAN: Taranıyor</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: Bağlanıyor</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">WLAN genel alanı uçak modunda kullanılamaz</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">WLAN kapalı.</string>
+    <string name="accessibility_no_wifi">WLAN kesildi.</string>
+    <string name="accessibility_wifi_one_bar">Kablosuz sinyali bir çubuk.</string>
+    <string name="accessibility_wifi_two_bars">Kablosuz sinyali iki çubuk.</string>
+    <string name="accessibility_wifi_three_bars">Kablosuz sinyali üç çubuk.</string>
+    <string name="accessibility_wifi_signal_full">Kablosuz sinyali tam.</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN kapalı</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN açık</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN bağlandı</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN Kapalı</string>
+    <string name="status_bar_settings_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">WLAN genel alanı</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">WLAN genel alanı</string>
+    <string name="vzw_airplane_mode_is_on">Uçak modu açıldı. WLAN kullanmıyorsanız İnternet, E-posta veya veri bağlantısı gerektiren diğer uygulamaları kullanamazsınız.</string>
+    <string name="vzw_airplane_mode_is_on_volte">Uçak modu açıldı. Mobil veri kapalıyken video çağrı özelliği çalışmaz. Ayrıca bir WLAN ağına bağlanmadığınız takdirde İnternet, E-posta veya veri bağlantısı gerektiren diğer uygulamaları kullanamazsınız.</string>
+    <string name="vzw_airplane_mode_turn_on">WLAN kullanmıyorsanız bundan sonra İnternet, E-posta veya veri bağlantısı gerektiren diğer uygulamaları kullanamazsınız.</string>
+    <string name="vzw_airplane_mode_turn_on_volte">Mobil veri kapalıyken video çağrı özelliği çalışmaz. Ayrıca bir WLAN ağına bağlanmadığınız takdirde İnternet, E-posta veya veri bağlantısı gerektiren diğer uygulamaları da kullanamazsınız.</string>
+</resources>

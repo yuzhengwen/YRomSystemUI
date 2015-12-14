@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_wifi_scanning_label">WLAN: กำลังสแกน</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: กำลังเชื่อมต่อ</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">ฮอตสปอต WLAN ใช้ไม่ได้ในโหมดใช้งาน บนเครื่องบิน</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">WLAN ปิดอยู่</string>
+    <string name="accessibility_no_wifi">เลิกเชื่อมต่อ WLAN แล้ว</string>
+    <string name="accessibility_wifi_one_bar">สัญญาณ WLAN หนึ่งขีด</string>
+    <string name="accessibility_wifi_two_bars">สัญญาณ WLAN สองขีด</string>
+    <string name="accessibility_wifi_three_bars">สัญญาณ WLAN สามขีด</string>
+    <string name="accessibility_wifi_signal_full">สัญญาณ WLAN เต็ม</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">ปิด WLAN แล้ว</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">เปิด WLAN แล้ว</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">เชื่อมต่อ WLAN แล้ว</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">ปิด WLAN</string>
+    <string name="quick_settings_connected_via_wfa">เชื่อมต่อผ่านตัวช่วย WLAN อยู่</string>
+    <string name="status_bar_settings_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">ฮอตสปอต WLAN</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">ฮอตสปอต WLAN</string>
+    <string name="vzw_airplane_mode_is_on">โหมดเครื่องบินเปิดอยู่ หากคุณไม่ใช้ WLAN คุณจะไม่สามารถใช้อินเทอร์เน็ต อีเมล หรือแอปอื่นที่ต้องใช้การเชื่อมต่อข้อมูลได้</string>
+    <string name="vzw_airplane_mode_is_on_volte">โหมดเครื่องบินเปิดอยู่ การโทรด้วยวิดีโอจะไม่สามารถใช้งานได้หากข้อมูลเครือข่ายโทรศัพท์เคลื่อนที่ปิดอยู่ และคุณจะไม่สามารถใช้อินเทอร์เน็ต อีเมล หรือแอปอื่นที่ต้องใช้การเชื่อมต่อข้อมูลได้หากคุณไม่เชื่อมต่อกับเครือข่าย WLAN</string>
+    <string name="vzw_airplane_mode_turn_on">หากคุณไม่ใช้ WLAN คุณจะไม่สามารถใช้อินเทอร์เน็ต อีเมล หรือแอปอื่นที่ต้องใช้การเชื่อมต่อข้อมูลได้อีกต่อไป</string>
+    <string name="vzw_airplane_mode_turn_on_volte">การโทรด้วยวิดีโอจะไม่สามารถใช้งานได้หากข้อมูลเครือข่ายโทรศัพท์เคลื่อนที่ปิดอยู่ และคุณจะไม่สามารถใช้อินเทอร์เน็ต อีเมล หรือแอปอื่นที่ต้องใช้การเชื่อมต่อข้อมูลได้หากคุณไม่เชื่อมต่อกับเครือข่าย WLAN</string>
+</resources>

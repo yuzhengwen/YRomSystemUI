@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_wifi_scanning_label">WLAN: ಸ್ಕ್ಯಾನ್ ಮಾಡಲಾಗುತ್ತಿದೆ</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: ಸಂಪರ್ಕಗೊಳ್ಳು.</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">ವಿಮಾನ ಮೋಡ್‌ನಲ್ಲಿ WLAN hotspot ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">WLAN ಆಫ್ ಆಗಿದೆ.</string>
+    <string name="accessibility_no_wifi">WLAN ಸಂಪರ್ಕ ತೆಗೆದಿದೆ.</string>
+    <string name="accessibility_wifi_one_bar">WLAN ಒಂದು ಪಟ್ಟಿ.</string>
+    <string name="accessibility_wifi_two_bars">WLAN ಎರಡು ಪಟ್ಟಿಗಳು.</string>
+    <string name="accessibility_wifi_three_bars">WLAN ಮೂರು ಪಟ್ಟಿಗಳು.</string>
+    <string name="accessibility_wifi_signal_full">WLAN ಸಂಕೇತ ಪೂರ್ಣ.</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN ಆಫ್ ಮಾಡಲಾಗಿದೆ</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN ಆನ್ ಮಾಡಲಾಗಿದೆ</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN ಸಂಪರ್ಕಿಸಿದೆ</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN ಆಫ್</string>
+    <string name="quick_settings_connected_via_wfa">WLAN ಸಹಾಯಕದ ಮೂಲಕ ಸಂಪರ್ಕಿತಗೊಳಿಸಲಾಗಿದೆ</string>
+    <string name="status_bar_settings_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">WLAN hotspot</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">WLAN hotspot</string>
+    <string name="vzw_airplane_mode_is_on">ವಿಮಾನ್ ಮೋಡ್ ಆನ್ ಆಗಿದೆ. WLAN ಬಳಸದ ಹೊರತು ನಿಮಗೆ ಇಂಟರ್‌ನೆಟ್‌, ಇಮೇಲ್ ಅಥವಾ ಡೇಟಾ ಸಂಪರ್ಕ ಅಗತ್ಯವಾಗುವ ಇತರ ಆಪ್‌ಗಳನ್ನು ಬಳಸಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ.</string>
+    <string name="vzw_airplane_mode_is_on_volte">ವಿಮಾನ್ ಮೋಡ್ ಆನ್ ಆಗಿದೆ. ಮೊಬೈಲ್ ಡೇಟಾ ಆಫ್ ಆಗಿದ್ದಾಗ ವೀಡಿಯೋ ಕರೆಗಳನ್ನು ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ. WLAN ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸಂಪರ್ಕಗೊಳ್ಳದ ಹೊರತು ನಿಮಗೆ ಇಂಟರ್‌ನೆಟ್‌, ಇಮೇಲ್ ಅಥವಾ ಡೇಟಾ ಸಂಪರ್ಕ ಅಗತ್ಯವಾಗುವ ಇತರ ಆಪ್‌ಗಳನ್ನು ಬಳಸಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ.</string>
+    <string name="vzw_airplane_mode_turn_on">WLAN ಬಳಸದ ಹೊರತು ನಿಮಗೆ ಇಂಟರ್‌ನೆಟ್‌, ಇಮೇಲ್ ಅಥವಾ ಇನ್ನಿತರ ಡೇಟಾ ಸಂಪರ್ಕವನ್ನು ಬಯಸುವ ಆಪ್‌ಗಳನ್ನು ಬಳಸಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ</string>
+    <string name="vzw_airplane_mode_turn_on_volte">ಮೊಬೈಲ್ ಡೇಟಾ ಆಫ್ ಆಗಿದ್ದಾಗ ವೀಡಿಯೋ ಕರೆಗಳನ್ನು ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ. ಜೊತೆಗೆ ನೀವು ಇಂಟರ್‌ನೆಟ್‌ ಸಹ ಬಳಸಲು ಸಾಧ್ಯವಿಲ್ಲ, WLAN ಬಳಸದ ಹೊರತು, ಇಮೇಲ್ ಅಥವಾ ಇನ್ನಿತರ ಡೇಟಾ ಸಂಪರ್ಕವನ್ನು ಬಯಸುವ ಆಪ್‌ಗಳನ್ನು ಬಳಸಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ.</string>
+</resources>

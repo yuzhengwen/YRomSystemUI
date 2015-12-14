@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usb_connected_txt">USB csatlakoztatva</string>
+    <string name="to_charge_use_charger_txt">Az eszköz töltéséhez hozzá tartozó töltőt használjon</string>
+    <string name="power_settings_instructions">Az akkumulátor üzemideje optimalizálható, ha engedélyezi a STAMINA üzemmódot az Energiagazdálkodás pontban</string>
+    <string name="battery_low_power_settings">Akku adatai</string>
+    <string name="stamina_start_action">STAMINA mód engedélyezése</string>
+    <string name="enable_stamina_tip">A STAMINA üzemmód engedélyezésével optimalizálhatja az akkumulátor üzemidejét.</string>
+    <string name="somc_qs_close">Bezárás</string>
+    <string name="somc_qs_hint">Ikonok megérintése a gyors beállítások átrendezéséhez</string>
+    <string name="somc_qs_title">Aktív gyorsbeállítások</string>
+    <string name="somc_qs_max_exceeds">Maximális számú gyorsbeállítás van kiválasztva</string>
+    <string name="quick_settings_autosync_label">Aut. adatszinkron.</string>
+    <string name="quick_settings_data_traffic_label">Mobilhálózati adatok</string>
+    <string name="quick_settings_screen_mirroring_label">"Képernyő-
+tükrözés"</string>
+    <string name="quick_settings_wifi_scanning_label">Wi-Fi: Keresés</string>
+    <string name="quick_settings_wifi_connecting_label">Wi-Fi: Kapcsolódás</string>
+    <string name="status_bar_autosync_dialog_enable_title">Bekapcsolja az automatikus szinkronizálást?</string>
+    <string name="status_bar_autosync_dialog_enable_warning">"Az interneten végrehajtott fiókmódosítások automatikusan megjelennek a telefonján is.
+
+Egyes fiókok szintén automatikusan az internetre másolhatják a telefonon végzett módosításokat.
+
+Az egyes fiókokhoz szinkronizálandó adattípusok kiválasztásához lépjen a Beállítások > Fiókok lehetőségre."</string>
+    <string name="status_bar_autosync_dialog_extended_enable_warning">"Az interneten végrehajtott fiókmódosítások automatikusan megjelennek a készülékén is.
+
+Egyes fiókok szintén automatikusan az internetre másolhatják a készüléken végzett módosításokat.
+
+Az egyes fiókokban szinkronizálandó adattípusok kiválasztásához lépjen a Beállítások > Fiókok pontra.
+
+Adatátviteli költségek merülhetnek fel, amikor készülékén frissítések történnek. Korlátlan adatátvitelt lehetővé tevő díjcsomag ajánlott."</string>
+    <string name="status_bar_autosync_dialog_disable_title">Kikapcsolja az automatikus szinkronizálást?</string>
+    <string name="status_bar_autosync_dialog_disable_warning">Az automatikus szinkronizálás kikapcsolása mérsékelni fogja a mobilhálózati adatok és az akkumulátor használatát, de minden fiókot manuálisan kell majd szinkronizálnia.</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">Repülőgépes módban nem érhető el Wi-Fi csatlakozási pont</string>
+    <string name="accessibility_desc_edit_quick_settings">Gyorsbeállítások módosítása</string>
+    <string name="somc_start_camera_hint">Kamera indítása csúsztatással</string>
+    <string name="somc_start_phone_hint">Híváskezelés indítása csúsztatással</string>
+    <string name="silent_mode_panel_silent">Néma</string>
+    <string name="silent_mode_panel_exceptions">Kivételek</string>
+    <string name="silent_mode_panel_allow_exceptions">Kivételek engedélyezése</string>
+    <string name="silent_mode_panel_allow_alarm">Riasztás engedélyezése</string>
+    <string name="volume_dialog_ringtone">Csengőhang</string>
+    <string name="volume_dialog_media">Média hangereje</string>
+    <string name="volume_dialog_notifications">Értesítések</string>
+    <string name="volume_dialog_alarm">Riasztás</string>
+    <string name="app_label">Rendszer UI</string>
+    <string name="status_bar_clear_all_button">Törlés</string>
+    <string name="status_bar_recent_remove_item_title">Eltávolítás a listából</string>
+    <string name="status_bar_recent_inspect_item_title">Alkalmazásinformáció</string>
+    <string name="status_bar_no_recent_apps">Nincsenek legutóbbi alkalmazások</string>
+    <string name="status_bar_accessibility_dismiss_recents">Újabb alkalmazások elvetése</string>
+    <string name="status_bar_no_notifications_title">Nincs értesítés</string>
+    <string name="status_bar_ongoing_events_title">Folyamatban</string>
+    <string name="status_bar_latest_events_title">Értesítések</string>
+    <string name="battery_low_title">Alacsony az energiaszint</string>
+    <string name="battery_low_percent_format">Kevesebb mint %s maradt</string>
+    <string name="battery_low_percent_format_saver_started">Kevesebb mint %s maradt. Az akkumulátorkímélő mód be van kapcsolva.</string>
+    <string name="invalid_charger">"Az USB-n keresztüli töltés nincs támogatva.
+Használja a kapott töltőt."</string>
+    <string name="invalid_charger_title">Az USB-s töltés nem támogatott.</string>
+    <string name="invalid_charger_text">Csak a kapott töltőt használja.</string>
+    <string name="battery_low_why">Beállítások</string>
+    <string name="battery_saver_confirmation_title">Bekapcsolja az akkumulátorkímélő módot?</string>
+    <string name="battery_saver_confirmation_ok">Bekapcsolás</string>
+    <string name="battery_saver_start_action">Akkukímélő mód bekapcsolása</string>
+    <string name="status_bar_settings_settings_button">Beállítások</string>
+    <string name="status_bar_settings_wifi_button">WiFi</string>
+    <string name="status_bar_settings_airplane">Repülőgépes mód</string>
+    <string name="status_bar_settings_auto_rotation">Képernyő automatikus forgatása</string>
+    <string name="status_bar_settings_mute_label">NÉMÍT</string>
+    <string name="status_bar_settings_auto_brightness_label">AUTO</string>
+    <string name="status_bar_settings_notifications">Értesítések</string>
+    <string name="bluetooth_tethered">Bluetooth megosztva</string>
+    <string name="status_bar_input_method_settings_configure_input_methods">Beviteli módok beállítása</string>
+    <string name="status_bar_use_physical_keyboard">Fizikai billentyűzet</string>
+    <string name="usb_device_permission_prompt">Hozzáférhet a(z) %1$s alkalmazás az USB-eszközhöz?</string>
+    <string name="usb_accessory_permission_prompt">Hozzáférhet a(z) %1$s alkalmazás az USB-kiegészítőhöz?</string>
+    <string name="usb_device_confirm_prompt">Megnyitja a(z) %1$s tevékenységet, ha csatlakoztatva van USB-eszköz?</string>
+    <string name="usb_accessory_confirm_prompt">Megnyitja a(z) %1$s tevékenységet, ha ez az USB-kiegészítő csatlakoztatva van?</string>
+    <string name="usb_accessory_uri_prompt">Egyetlen telepített alkalmazás sem működik ezzel az USB-tartozékkal. További információt talál a tartozékról ezen a címen: %1$s</string>
+    <string name="title_usb_accessory">USB-tartozék</string>
+    <string name="label_view">Megnéz</string>
+    <string name="always_use_device">Alapértelmezett használat ehhez az USB-eszközhöz</string>
+    <string name="always_use_accessory">Alapértelmezés szerint használandó ehhez az USB-tartozékhoz</string>
+    <string name="usb_debugging_title">Engedélyezi az USB hibakeresést?</string>
+    <string name="usb_debugging_message">"A számítógép RSA kulcs ujjlenyomata:
+
+%1$s"</string>
+    <string name="usb_debugging_always">Mindig engedélyezze erről a számítógépről</string>
+    <string name="compat_mode_on">Nagyítás kitöltéshez</string>
+    <string name="compat_mode_off">Nyújtás kitöltéshez</string>
+    <string name="screenshot_saving_ticker">Képernyőfelvétel mentése...</string>
+    <string name="screenshot_saving_title">Képernyőfelvétel mentése...</string>
+    <string name="screenshot_saving_text">Képernyőfelvétel mentése.</string>
+    <string name="screenshot_saved_title">Képernyőfelvétel rögzítve.</string>
+    <string name="screenshot_saved_text">Érintse meg a képernyőkép megnézéséhez.</string>
+    <string name="screenshot_failed_title">Sikertelen képernyőfelvétel</string>
+    <string name="screenshot_failed_text">Lehet, hogy a tartalom védett, vagy a memória megtelt.</string>
+    <string name="usb_preference_title">USB-fájlátvitel beállításai</string>
+    <string name="use_mtp_button_title">Csatlakoztatás médialejátszóként (MTP)</string>
+    <string name="use_ptp_button_title">Csatlakoztatás kameraként (PTP)</string>
+    <string name="installer_cd_button_title">Android-fájlátviteli alkalmazás telepítése Mac rendszerhez</string>
+    <string name="accessibility_back">Vissza</string>
+    <string name="accessibility_home">Főoldal</string>
+    <string name="accessibility_menu">Menü</string>
+    <string name="accessibility_recent">Legutóbbi alkalmazások gomb</string>
+    <string name="accessibility_search_light">Keresés</string>
+    <string name="accessibility_camera_button">Kamera</string>
+    <string name="accessibility_phone_button">Telefon</string>
+    <string name="accessibility_unlock_button">Feloldás</string>
+    <string name="unlock_label">feloldás</string>
+    <string name="phone_label">telefon megnyitása</string>
+    <string name="camera_label">kamera megnyitása</string>
+    <string name="accessibility_compatibility_zoom_button">Kompatibilitási nagyítás gomb.</string>
+    <string name="accessibility_compatibility_zoom_example">Kicsinyítés a nagyobb képernyőhöz.</string>
+    <string name="accessibility_bluetooth_connected">Bluetooth csatlakoztatva.</string>
+    <string name="accessibility_bluetooth_disconnected">Bluetooth leválasztva.</string>
+    <string name="accessibility_no_battery">Nincs akkumulátor.</string>
+    <string name="accessibility_battery_one_bar">Akkumulátor: egy sáv.</string>
+    <string name="accessibility_battery_two_bars">Akkumulátor: két sáv.</string>
+    <string name="accessibility_battery_three_bars">Akkumulátor: három sáv.</string>
+    <string name="accessibility_battery_full">Akkumulátor feltöltve.</string>
+    <string name="accessibility_no_phone">Nincs telefon.</string>
+    <string name="accessibility_phone_one_bar">Telefon: egy sáv.</string>
+    <string name="accessibility_phone_two_bars">Telefon: két sáv.</string>
+    <string name="accessibility_phone_three_bars">Telefon: három sáv.</string>
+    <string name="accessibility_phone_signal_full">Telefon jel: teljes.</string>
+    <string name="accessibility_no_data">Nincsenek adatok.</string>
+    <string name="accessibility_data_one_bar">Adat: egy sáv.</string>
+    <string name="accessibility_data_two_bars">Adat: két sáv.</string>
+    <string name="accessibility_data_three_bars">Adat: három sáv.</string>
+    <string name="accessibility_data_signal_full">Adat jel: teljes.</string>
+    <string name="accessibility_wifi_off">Wi-Fi kikapcsolva.</string>
+    <string name="accessibility_no_wifi">Nincs Wi-Fi kapcsolat.</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi jel: egy sáv.</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi jel: két sáv.</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi jel: három sáv.</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi jel teljes.</string>
+    <string name="accessibility_wifi_name">Csatlakoztatva ehhez: %s</string>
+    <string name="accessibility_bluetooth_name">Csatlakoztatva ehhez: %s</string>
+    <string name="accessibility_no_wimax">Nincs WiMAX-jel.</string>
+    <string name="accessibility_wimax_one_bar">WiMAX-jel: egy sáv.</string>
+    <string name="accessibility_wimax_two_bars">WiMAX-jel: két sáv.</string>
+    <string name="accessibility_wimax_three_bars">WiMAX-jel: három sáv.</string>
+    <string name="accessibility_wimax_signal_full">WiMAX-jel: teljes.</string>
+    <string name="accessibility_no_signal">Nincs jel.</string>
+    <string name="accessibility_not_connected">Nincs csatlakozva.</string>
+    <string name="accessibility_zero_bars">Nincs sáv.</string>
+    <string name="accessibility_one_bar">Egy sáv.</string>
+    <string name="accessibility_two_bars">Két sáv.</string>
+    <string name="accessibility_three_bars">Három sáv.</string>
+    <string name="accessibility_signal_full">Teljes jelerősség.</string>
+    <string name="accessibility_desc_on">Bekapcsolva.</string>
+    <string name="accessibility_desc_off">Kikapcsolva.</string>
+    <string name="accessibility_desc_connected">Csatlakoztatva.</string>
+    <string name="accessibility_desc_connecting">Csatlakozás.</string>
+    <string name="accessibility_data_connection_gprs">GPRS</string>
+    <string name="accessibility_data_connection_1x">1 X</string>
+    <string name="accessibility_data_connection_hspa">HSPA</string>
+    <string name="accessibility_data_connection_3g">3G</string>
+    <string name="accessibility_data_connection_3.5g">3.5G</string>
+    <string name="accessibility_data_connection_4g">4G</string>
+    <string name="accessibility_data_connection_h_plus">HSPAP</string>
+    <string name="accessibility_data_connection_lte">LTE</string>
+    <string name="accessibility_data_connection_cdma">CDMA</string>
+    <string name="accessibility_data_connection_roaming">Barangolás</string>
+    <string name="accessibility_data_connection_edge">Edge</string>
+    <string name="accessibility_data_connection_wifi">WiFi</string>
+    <string name="accessibility_no_sim">Nincs SIM.</string>
+    <string name="accessibility_bluetooth_tether">Internetmegosztás Bluetooth használatával.</string>
+    <string name="accessibility_airplane_mode">Repülőgépes üzemmód.</string>
+    <string name="accessibility_battery_level">Az akkumulátor töltöttsége %d százalék.</string>
+    <string name="accessibility_settings_button">Rendszerbeállítások.</string>
+    <string name="accessibility_notifications_button">Értesítések.</string>
+    <string name="accessibility_remove_notification">Értesítés törlése.</string>
+    <string name="accessibility_gps_enabled">GPS engedélyezve.</string>
+    <string name="accessibility_gps_acquiring">GPS lekérése.</string>
+    <string name="accessibility_tty_enabled">Távgépíró (TTY) engedélyezve.</string>
+    <string name="accessibility_ringer_vibrate">Csengő rezeg.</string>
+    <string name="accessibility_ringer_silent">Csengő néma.</string>
+    <string name="accessibility_recents_item_will_be_dismissed">A(z) %s elvetése.</string>
+    <string name="accessibility_recents_item_dismissed">%s bezárva.</string>
+    <string name="accessibility_recents_item_launched">A(z) %s indítása.</string>
+    <string name="accessibility_notification_dismissed">Értesítés elvetve.</string>
+    <string name="accessibility_desc_notification_shade">Értesítési felület.</string>
+    <string name="accessibility_desc_quick_settings">Gyorsbeállítások.</string>
+    <string name="accessibility_desc_lock_screen">Lezárt képernyő</string>
+    <string name="accessibility_desc_settings">Beállítások</string>
+    <string name="accessibility_desc_recent_apps">Legutóbbi alkalmazások gomb</string>
+    <string name="accessibility_quick_settings_user">Felhasználó: %s.</string>
+    <string name="accessibility_quick_settings_wifi">%1$s</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">Wi-Fi kikapcsolva</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">Wi-Fi bekapcsolva</string>
+    <string name="accessibility_quick_settings_mobile">Mobil %1$s. %2$s. %3$s.</string>
+    <string name="accessibility_quick_settings_battery">Akkumulátor %s.</string>
+    <string name="accessibility_quick_settings_airplane_off">Repülőgépes üzemmód kikapcsolása</string>
+    <string name="accessibility_quick_settings_airplane_on">Repülőgépes üzemmód bekapcsolása</string>
+    <string name="accessibility_quick_settings_airplane_changed_off">A repülőgépes üzemmód ki van kapcsolva</string>
+    <string name="accessibility_quick_settings_airplane_changed_on">A repülőgépes üzemmód be van kapcsolva</string>
+    <string name="accessibility_quick_settings_data_off">Mobilhálózati adatok kikapcsolva.</string>
+    <string name="accessibility_quick_settings_data_on">Mobilhálózati adatok bekapcsolva.</string>
+    <string name="accessibility_quick_settings_roaming_off">Barangolás kikapcsolva.</string>
+    <string name="accessibility_quick_settings_roaming_on">Barangolás bekapcsolva.</string>
+    <string name="accessibility_quick_settings_bluetooth_off">Bluetooth kikapcsolása</string>
+    <string name="accessibility_quick_settings_bluetooth_on">Bluetooth bekapcsolása</string>
+    <string name="accessibility_quick_settings_bluetooth_connecting">Bluetooth csatlakoztatása folyamatban</string>
+    <string name="accessibility_quick_settings_bluetooth_connected">Bluetooth csatlakoztatva</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_off">Bluetooth kikapcsolva</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_on">Bluetooth bekapcsolva</string>
+    <string name="accessibility_quick_settings_location_off">Helyszín jelentésének bekapcsolása</string>
+    <string name="accessibility_quick_settings_location_on">Helyszín jelentésének kikapcsolása</string>
+    <string name="accessibility_quick_settings_location_changed_off">Helyszín jelentése kikapcsolva</string>
+    <string name="accessibility_quick_settings_location_changed_on">Helyszín jelentése bekapcsolva</string>
+    <string name="accessibility_quick_settings_alarm">Ébresztés időpontja: %s.</string>
+    <string name="accessibility_quick_settings_close">Panel bezárása.</string>
+    <string name="accessibility_quick_settings_more_time">Több idő.</string>
+    <string name="accessibility_quick_settings_less_time">Kevesebb idő.</string>
+    <string name="accessibility_quick_settings_flashlight_off">Zseblámpa kikapcsolása</string>
+    <string name="accessibility_quick_settings_flashlight_on">Zseblámpa bekapcsolása</string>
+    <string name="accessibility_quick_settings_flashlight_changed_off">Zseblámpa kikapcsolva</string>
+    <string name="accessibility_quick_settings_flashlight_changed_on">Zseblámpa bekapcsolva</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_off">Színek invertálása kikapcsolva</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_on">Színek invertálása bekapcsolva</string>
+    <string name="accessibility_quick_settings_hotspot_changed_off">A mobil csatlakozási pont kikapcsolva</string>
+    <string name="accessibility_quick_settings_hotspot_changed_on">A mobil csatlakozási pont bekapcsolva</string>
+    <string name="accessibility_casting_turned_off">Képernyőátküldés leállítva</string>
+    <string name="accessibility_brightness">Fényerő megjelenítése</string>
+    <string name="data_usage_disabled_dialog_3g_title">A 2G-s és 3G-s adatkapcsolat ki van kapcsolva</string>
+    <string name="data_usage_disabled_dialog_4g_title">A 4G-s adatkapcsolat ki van kapcsolva</string>
+    <string name="data_usage_disabled_dialog_mobile_title">Mobil adatforgalom letiltva</string>
+    <string name="data_usage_disabled_dialog_title">A mobil adatkapcsolat ki van kapcsolva</string>
+    <string name="data_usage_disabled_dialog">"Készüléke kikapcsolta a mobil adatkapcsolatot, mert elérte a beállított adatkorlátot.
+
+Az adatkapcsolat újbóli bekapcsolása után szolgáltatója többletköltséget számíthat fel."</string>
+    <string name="data_usage_disabled_dialog_enable">Mobiladatok eng.</string>
+    <string name="status_bar_settings_signal_meter_disconnected">Nincs internetkapcsolat</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WiFi csatlakoztatva</string>
+    <string name="gps_notification_searching_text">GPS keresése</string>
+    <string name="gps_notification_found_text">A GPS beállította a helyet</string>
+    <string name="accessibility_location_active">Aktív helylekérések</string>
+    <string name="accessibility_clear_all">Minden értesítés törlése</string>
+    <string name="status_bar_notification_inspect_item_title">Értesítési beállítások</string>
+    <string name="status_bar_notification_app_settings_title">%s beállításai</string>
+    <string name="accessibility_rotation_lock_off">A képernyő forgatása automatikusan történik.</string>
+    <string name="accessibility_rotation_lock_on_landscape">A képernyő zárolva van fekvő tájolásban.</string>
+    <string name="accessibility_rotation_lock_on_portrait">A képernyő zárolva van álló tájolásban.</string>
+    <string name="accessibility_rotation_lock_off_changed">A képernyő forgatása automatikusan megtörténik</string>
+    <string name="accessibility_rotation_lock_on_landscape_changed">Fekvő tájolásban a képernyő le van zárva</string>
+    <string name="accessibility_rotation_lock_on_portrait_changed">Álló tájolásban a képernyő le van zárva</string>
+    <string name="dessert_case">Dessert Case</string>
+    <string name="start_dreams">Álmodozás</string>
+    <string name="ethernet_label">Ethernet</string>
+    <string name="quick_settings_airplane_mode_label">Repülőgépes üzemmód</string>
+    <string name="quick_settings_mobile_data_label">Mobilhálózati adatok</string>
+    <string name="quick_settings_roaming_label">Barangolás</string>
+    <string name="quick_settings_battery_charging_label">Töltés (%d%%)</string>
+    <string name="quick_settings_battery_charged_label">Feltöltve</string>
+    <string name="quick_settings_bluetooth_label">Bluetooth</string>
+    <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d eszköz)</string>
+    <string name="quick_settings_bluetooth_off_label">Bluetooth kikapcsolva</string>
+    <string name="quick_settings_bluetooth_detail_empty_text">Nem áll rendelkezésre párosított eszköz</string>
+    <string name="quick_settings_brightness_label">Fényerő</string>
+    <string name="quick_settings_rotation_unlocked_label">Automatikus elforgatás</string>
+    <string name="quick_settings_rotation_locked_label">Elforgatás zárolva</string>
+    <string name="quick_settings_rotation_locked_portrait_label">Álló</string>
+    <string name="quick_settings_rotation_locked_landscape_label">Fekvő</string>
+    <string name="quick_settings_ime_label">Beviteli módszer</string>
+    <string name="quick_settings_location_label">Tartózkodási hely</string>
+    <string name="quick_settings_location_off_label">Hely kikapcsolva</string>
+    <string name="quick_settings_media_device_label">Médiaeszköz</string>
+    <string name="quick_settings_rssi_label">RSSI</string>
+    <string name="quick_settings_rssi_emergency_only">Csak segélyhívások</string>
+    <string name="quick_settings_settings_label">Beállítások</string>
+    <string name="quick_settings_time_label">Idő</string>
+    <string name="quick_settings_user_label">Én</string>
+    <string name="quick_settings_user_title">Felhasználó</string>
+    <string name="quick_settings_user_new_user">Új felhasználó</string>
+    <string name="quick_settings_wifi_label">Wi-Fi</string>
+    <string name="quick_settings_wifi_not_connected">Nincs kapcsolat</string>
+    <string name="quick_settings_wifi_no_network">Nincs hálózat</string>
+    <string name="quick_settings_wifi_off_label">Wi-Fi kikapcsolva</string>
+    <string name="quick_settings_wifi_detail_empty_text">Nem áll rendelkezésre mentett hálózat</string>
+    <string name="quick_settings_cast_title">Képernyőtartalom átküldése</string>
+    <string name="quick_settings_casting">Átküldés</string>
+    <string name="quick_settings_cast_device_default_name">Név nélküli eszköz</string>
+    <string name="quick_settings_cast_device_default_description">Küldésre kész</string>
+    <string name="quick_settings_cast_detail_empty_text">Nem áll rendelkezésre eszköz</string>
+    <string name="quick_settings_brightness_dialog_title">Fényerő</string>
+    <string name="quick_settings_brightness_dialog_auto_brightness_label">AUTOMATIKUS</string>
+    <string name="quick_settings_apn_switch_label">Hozzáférésipont-név váltása</string>
+    <string name="quick_settings_inversion_label">Színek invertálása</string>
+    <string name="quick_settings_color_space_label">Színjavítás mód</string>
+    <string name="quick_settings_more_settings">TOVÁBBI BEÁLLÍTÁSOK</string>
+    <string name="quick_settings_done">KÉSZ</string>
+    <string name="quick_settings_connected">Csatlakoztatva</string>
+    <string name="quick_settings_connected_via_wfa">Csatlakozva Wi‑Fi-segéddel</string>
+    <string name="quick_settings_connecting">Csatlakozás…</string>
+    <string name="quick_settings_tethering_label">Megosztás</string>
+    <string name="quick_settings_hotspot_label">Hotspot</string>
+    <string name="quick_settings_notifications_label">Értesítések</string>
+    <string name="quick_settings_flashlight_label">Zseblámpa</string>
+    <string name="quick_settings_cellular_detail_title">Mobil adatkapcsolat</string>
+    <string name="quick_settings_cellular_detail_data_usage">Adathasználat</string>
+    <string name="quick_settings_cellular_detail_remaining_data">Fennmaradó adatmennyiség</string>
+    <string name="quick_settings_cellular_detail_over_limit">Elérte a korlátot – az adathasználat fel van függesztve</string>
+    <string name="quick_settings_cellular_detail_data_used">%s felhasználva</string>
+    <string name="quick_settings_cellular_detail_data_limit">%s korlát</string>
+    <string name="quick_settings_cellular_detail_data_warning">Figyelem! %s</string>
+    <string name="quick_settings_dds_sub">Kártya (%d) adatai</string>
+    <string name="quick_settings_data_off">Adatok kikapcsolva</string>
+    <string name="recents_empty_message">Nincsenek legutóbbi alkalmazások</string>
+    <string name="recents_app_info_button_label">Az alkalmazás adatai</string>
+    <string name="recents_lock_to_app_button_label">alkalmazászárolás</string>
+    <string name="recents_search_bar_label">keresés</string>
+    <string name="recents_launch_error_message">Nem lehet elindítani a következőt: %s.</string>
+    <string name="expanded_header_battery_charged">Feltöltve</string>
+    <string name="expanded_header_battery_charging">Töltés</string>
+    <string name="expanded_header_battery_charging_with_time">%s a teljes töltöttségig</string>
+    <string name="expanded_header_battery_not_charging">Nem töltődik</string>
+    <string name="ssl_ca_cert_warning">"Lehet, hogy a
+hálózat felügyelt"</string>
+    <string name="description_target_search">Keresés</string>
+    <string name="description_direction_up">A(z) %s művelethez csúsztassa felfelé.</string>
+    <string name="description_direction_left">A(z) %s művelethez csúsztassa balra.</string>
+    <string name="zen_no_interruptions_with_warning">Nincs megszakítás, még ébresztés sem</string>
+    <string name="zen_no_interruptions">Nincs megszakítás. A riasztások továbbra is megszólalnak.</string>
+    <string name="zen_important_interruptions">Csak prioritást élvező zavaró üzenetek</string>
+    <string name="zen_alarm_information_time">A következő ébresztés ideje: %s</string>
+    <string name="zen_alarm_information_day_time">A következő ébresztés napja és ideje: %s</string>
+    <string name="zen_alarm_warning">Nem fogja hallani az ébresztést ekkor: %s</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
+    <string name="speed_bump_explanation">A kevésbé sürgős értesítések lentebb vannak</string>
+    <string name="notification_tap_again">Koppintson rá ismét a megnyitáshoz</string>
+    <string name="keyguard_unlock">Csúsztasson felfelé a feloldáshoz</string>
+    <string name="phone_hint">A telefon eléréséhez csúsztassa ujját jobbra</string>
+    <string name="camera_hint">A fényképezőgép eléréséhez csúsztassa ujját balra</string>
+    <string name="interruption_level_none">Néma</string>
+    <string name="interruption_level_priority">Prioritás</string>
+    <string name="interruption_level_all">Hang</string>
+    <string name="keyguard_indication_charging_time">Töltés (%s a teljes töltöttségig)</string>
+    <string name="accessibility_multi_user_switch_switcher">Felhasználó váltása</string>
+    <string name="accessibility_multi_user_switch_switcher_with_current">Felhasználóváltás (a jelenlegi felhasználó: %s)</string>
+    <string name="accessibility_multi_user_switch_quick_contact">Profil megjelenítése</string>
+    <string name="user_add_user">Felhasználó hozzáadása</string>
+    <string name="user_new_user_name">Új felhasználó</string>
+    <string name="guest_nickname">Vendég</string>
+    <string name="guest_new_guest">Vendég hozzáadása</string>
+    <string name="guest_exit_guest">Vendég kiléptetése</string>
+    <string name="guest_exit_guest_dialog_title">Kilépteti a vendéget?</string>
+    <string name="guest_exit_guest_dialog_message">A munkamenetben lévő összes alkalmazás és adat törlődik</string>
+    <string name="guest_exit_guest_dialog_remove">Eltávolítás</string>
+    <string name="guest_wipe_session_title">Üdvözöljük ismét vendégként!</string>
+    <string name="guest_wipe_session_message">Szeretné folytatni a munkamenetét?</string>
+    <string name="guest_wipe_session_wipe">Újrakezdés</string>
+    <string name="guest_wipe_session_dontwipe">Igen, folytatom</string>
+    <string name="user_add_user_title">Új felhasználó hozzáadása?</string>
+    <string name="user_add_user_message_short">"Ha új felhasználót ad hozzá, az illetőnek be kell állítania saját tárterületét.
+
+Bármely felhasználó frissítheti az alkalmazásokat valamennyi felhasználó számára."</string>
+    <string name="battery_saver_notification_title">Akkumulátorkímélő mód bekapcsolva</string>
+    <string name="battery_saver_notification_text">Csökkenti a teljesítményt és a háttéradatokat</string>
+    <string name="battery_saver_notification_action_text">Akkumulátorkímélő mód kikapcsolása</string>
+    <string name="battery_level_template">%d%%</string>
+    <string name="notification_hidden_text">Tartalomjegyzék elrejtve</string>
+    <string name="media_projection_dialog_text">A(z) %s alkalmazás rögzíteni fog mindent, ami megjelenik a képernyőn.</string>
+    <string name="media_projection_remember_text">Ne jelenjen meg többé</string>
+    <string name="clear_all_notifications_text">Az összes törlése</string>
+    <string name="media_projection_action_text">Indítás most</string>
+    <string name="empty_shade_text">Nincs értesítés</string>
+    <string name="tasklistview_title">Feladatkezelő</string>
+    <string name="message_switch_fail">Nem válthat erre a feladatra, mert nincs felülete.</string>
+    <string name="tasklist_killall">Összes leállítása</string>
+    <string name="tasklist_memory_usage" formatted="false">Szabad/összes memória: [%s] / [%s]</string>
+    <string name="message_keep_one_launcher">Legalább egy kezdő tevékenységet meg kell tartani.</string>
+    <string name="device_owned_footer">Lehet, hogy az eszközt figyelik</string>
+    <string name="profile_owned_footer">Profilját felügyelhetik</string>
+    <string name="vpn_footer">Lehet, hogy a hálózatot figyelik</string>
+    <string name="monitoring_title_device_owned">Eszközfigyelés</string>
+    <string name="monitoring_title_profile_owned">Profilfelügyelet</string>
+    <string name="monitoring_title">Hálózatfigyelés</string>
+    <string name="disable_vpn">VPN letiltása</string>
+    <string name="disconnect_vpn">VPN-kapcsolat bontása</string>
+    <string name="monitoring_description_device_owned">"Az eszköz kezelője:
+%1$s
+
+Rendszergazdája figyelheti az Ön eszköz- és hálózati tevékenységét, beleértve az e-maileket, az alkalmazásokat és a biztonságos webhelyeket.
+
+További információért forduljon rendszergazdájához."</string>
+    <string name="monitoring_description_vpn">"Ön engedélyt adott a(z) „%1$s” alkalmazásnak VPN-kapcsolat létesítésére.
+
+Az alkalmazás figyelheti az Ön eszköz- és hálózati tevékenységét, beleértve az e-maileket, az alkalmazásokat és a biztonságos webhelyeket."</string>
+    <string name="monitoring_description_legacy_vpn">"Ön egy VPN-hez kapcsolódott („%1$s”).
+
+VPN-szolgáltatója figyelheti az Ön eszköz- és hálózati tevékenységét, beleértve az e-maileket, az alkalmazásokat és a biztonságos webhelyeket."</string>
+    <string name="monitoring_description_vpn_device_owned">"Ezt az eszközt a következő felügyeli:
+%1$s
+
+A rendszergazda figyelheti a hálózati tevékenységet, beleértve az e-mailt, az alkalmazásokat és a biztonságos webhelyeket. További információért forduljon a rendszergazdához.
+
+Ezenfelül engedélyt adott „%2$s” számára VPN-kapcsolat beállítására. Ez az alkalmazás is figyelheti a hálózati tevékenységet."</string>
+    <string name="monitoring_description_legacy_vpn_device_owned">"Ezt az eszközt a következő felügyeli:
+%1$s
+
+A rendszergazda figyelheti a hálózati tevékenységet, beleértve az e-mailt, az alkalmazásokat és a biztonságos webhelyeket. További információért forduljon a rendszergazdához.
+
+Ezenfelül VPN-hez is csatlakozik („%2$s”). VPN-szolgáltatója is figyelheti hálózati tevékenységét."</string>
+    <string name="monitoring_description_profile_owned">"Profilját felügyeli:
+%1$s
+
+Rendszergazdája felügyelheti tevékenységét eszközén és a hálózaton (pl. e-mailek, alkalmazások és biztonságos webhelyek).
+
+További információért forduljon rendszergazdájához."</string>
+    <string name="monitoring_description_device_and_profile_owned">"Az eszközt felügyeli:
+%1$s
+Profilját felügyeli:
+%2$s
+
+Rendszergazdája felügyelheti tevékenységét eszközén és a hálózaton (pl. e-mailek, alkalmazások és biztonságos webhelyek).
+
+További információért forduljon rendszergazdájához."</string>
+    <string name="monitoring_description_vpn_profile_owned">"Profilját felügyeli:
+%1$s
+
+Rendszergazdája felügyelheti tevékenységét a hálózaton (pl. e-mailek, alkalmazások és biztonságos webhelyek). További információért forduljon rendszergazdájához.
+
+Ezenfelül engedélyt adott „%2$s” alkalmazásnak, hogy VPN-kapcsolatot létesítsen. Ez az alkalmazás is megfigyelheti hálózati tevékenységét."</string>
+    <string name="monitoring_description_legacy_vpn_profile_owned">"Profilját felügyeli:
+%1$s
+
+Rendszergazdája felügyelheti tevékenységét a hálózaton (pl. e-mailek, alkalmazások és biztonságos webhelyek). További információért forduljon rendszergazdájához.
+
+Ezenfelül VPN-hez („%2$s”) is kapcsolódik. VPN-szolgáltatója is megfigyelheti hálózati tevékenységét."</string>
+    <string name="monitoring_description_vpn_device_and_profile_owned">"Az eszközt felügyeli:
+%1$s
+Profilját felügyeli:
+%2$s
+
+Rendszergazdája felügyelheti tevékenységét a hálózaton (pl. e-mailek, alkalmazások és biztonságos webhelyek). További információért forduljon rendszergazdájához.
+
+Ezenfelül engedélyt adott „%3$s” alkalmazásnak, hogy VPN-kapcsolatot létesítsen. Ez az alkalmazás is megfigyelheti hálózati tevékenységét."</string>
+    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"Az eszközt felügyeli:
+%1$s
+Profilját felügyeli:
+%2$s
+
+Rendszergazdája felügyelheti tevékenységét a hálózaton (pl. e-mailek, alkalmazások és biztonságos webhelyek). További információért forduljon rendszergazdájához.
+
+Ezenfelül VPN-hez („%3$s”) is kapcsolódik. VPN-szolgáltatója is megfigyelheti hálózati tevékenységét."</string>
+    <string name="keyguard_indication_trust_disabled">A készülék addig zárolt marad, amíg kézzel fel nem oldja</string>
+    <string name="hidden_notifications_title">Gyorsabban megkaphatja az értesítéseket</string>
+    <string name="hidden_notifications_text">Már a képernyőzár feloldása előtt megtekintheti őket</string>
+    <string name="hidden_notifications_cancel">Nem, köszönöm</string>
+    <string name="hidden_notifications_setup">Beállítás</string>
+    <string name="zen_mode_and_condition">%1$s. %2$s</string>
+    <string name="screen_pinning_title">A képernyő rögzítve van</string>
+    <string name="screen_pinning_description">Megjelenítve tartja addig, amíg Ön fel nem oldja fel a rögzítést. A rögzítés feloldásához tartsa egyszerre lenyomva a Vissza és az Áttekintés lehetőséget.</string>
+    <string name="screen_pinning_description_accessible">Megjelenítve tartja addig, amíg Ön fel nem oldja a rögzítést. A feloldáshoz tartsa lenyomva az Áttekintés lehetőséget.</string>
+    <string name="screen_pinning_positive">Értem</string>
+    <string name="screen_pinning_negative">Nem, köszönöm</string>
+    <string name="quick_settings_reset_confirmation_title">Elrejti ezt: %1$s?</string>
+    <string name="quick_settings_reset_confirmation_message">Újból megjelenik majd, amikor ismét engedélyezi a beállítások között.</string>
+    <string name="quick_settings_reset_confirmation_button">Elrejtés</string>
+    <string name="accessibility_ime_switch_button">Beviteli mód váltása gomb.</string>
+    <string name="somc_kg_ice_button_label_0">ICE – In Case of Emergency</string>
+    <string name="somc_kg_ice_button_label_1">ICE</string>
+    <string name="somc_keyguard_analog_clock_name">Analóg óra</string>
+    <string name="digital_clock_name">Digitális óra</string>
+    <string name="kg_somc_note">Figyelem</string>
+    <string name="kg_somc_continue">Tovább</string>
+    <string name="sony_clock_name">Sony-óra</string>
+    <string name="lockscreen_voice_unlock_or_short_unlock_hint">Mondja ki a jelszót vagy csúsztasson a feloldáshoz</string>
+    <string name="lockscreen_voice_unlock_error_hint">A jelszó nem ismerhető fel</string>
+    <string name="lockscreen_microphone_image_hint">Mikrofon képe</string>
+    <string name="app_name">Billentyűzár</string>
+    <string name="keyguard_password_enter_pin_code">Írja be a PIN kódot</string>
+    <string name="keyguard_password_enter_puk_code">Írja be a SIM kártya PUK kódját, majd az új PIN kódot</string>
+    <string name="keyguard_password_enter_puk_prompt">SIM kártya PUK kódja</string>
+    <string name="keyguard_password_enter_pin_prompt">Új PIN kód a SIM kártyához</string>
+    <string name="keyguard_password_entry_touch_hint"><font size="17">Érintsen jelszó megadásához</font></string>
+    <string name="keyguard_password_enter_password_code">A feloldáshoz írja be a jelszót</string>
+    <string name="keyguard_password_enter_pin_password_code">A feloldáshoz írja be a PIN kódot</string>
+    <string name="keyguard_password_wrong_pin_code">Helytelen PIN kód.</string>
+    <string name="lockscreen_sim_error_message_short">Érvénytelen kártya.</string>
+    <string name="keyguard_label_text">A feloldáshoz nyomja meg a Menü, majd a 0 gombot.</string>
+    <string name="faceunlock_multiple_failures">Elérte az arcalapú feloldási kísérletek maximális számát</string>
+    <string name="keyguard_charged">Feltöltve</string>
+    <string name="keyguard_plugged_in">Töltés</string>
+    <string name="keyguard_low_battery">Csatlakoztassa a töltőt.</string>
+    <string name="keyguard_instructions_when_pattern_disabled">A feloldáshoz nyomja meg a Menü gombot.</string>
+    <string name="keyguard_network_locked_message">A hálózat lezárva</string>
+    <string name="keyguard_perso_locked_message">A SIM személyesen zárolt</string>
+    <string name="keyguard_missing_sim_message_short">Nincs SIM kártya</string>
+    <string name="keyguard_missing_sim_message">Nincs SIM kártya a telefonban</string>
+    <string name="keyguard_missing_sim_instructions">Helyezzen be egy SIM kártyát.</string>
+    <string name="keyguard_missing_sim_instructions_long">A SIM kártya hiányzik vagy nem olvasható. Helyezzen be egy SIM kártyát.</string>
+    <string name="keyguard_permanent_disabled_sim_message_short">A SIM kártya le van tiltva</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"SIM kártyája véglegesen le van tiltva.
+ Forduljon a vezeték nélküli szolgáltatójához másik SIM kártya beszerzése érdekében."</string>
+    <string name="keyguard_sim_locked_message">A SIM kártya le van zárva.</string>
+    <string name="keyguard_sim_puk_locked_message">A SIM kártya le van zárva PUK kóddal.</string>
+    <string name="keyguard_sim_unlock_progress_dialog_message">SIM kártya feloldása...</string>
+    <string name="keyguard_accessibility_widget_changed">%1$s. Alkalmazásfelület %3$d/%2$d.</string>
+    <string name="keyguard_accessibility_add_widget">Alkalmazásfelület hozzáadása.</string>
+    <string name="keyguard_accessibility_widget_empty_slot">Üres</string>
+    <string name="keyguard_accessibility_unlock_area_expanded">Feloldási terület kiterjesztve.</string>
+    <string name="keyguard_accessibility_unlock_area_collapsed">Feloldási terület összecsukva.</string>
+    <string name="keyguard_accessibility_widget">%1$s alkalmazásfelület.</string>
+    <string name="keyguard_accessibility_user_selector">Felhasználóválasztó</string>
+    <string name="keyguard_accessibility_camera">Kamera</string>
+    <string name="keygaurd_accessibility_media_controls">Médiaelemek vezérlője</string>
+    <string name="keyguard_accessibility_widget_reorder_start">Az alkalmazásfelület átrendezése elkezdődött.</string>
+    <string name="keyguard_accessibility_widget_reorder_end">Az alkalmazásfelület átrendezése befejeződött.</string>
+    <string name="keyguard_accessibility_widget_deleted">%1$s alkalmazásfelület törölve.</string>
+    <string name="keyguard_accessibility_expand_lock_area">A feloldási terület kiterjesztése.</string>
+    <string name="keyguard_accessibility_slide_unlock">Feloldás csúsztatással.</string>
+    <string name="keyguard_accessibility_pattern_unlock">Feloldás mintával.</string>
+    <string name="keyguard_accessibility_face_unlock">Arcalapú feloldás.</string>
+    <string name="keyguard_accessibility_pin_unlock">Feloldás PIN kóddal.</string>
+    <string name="keyguard_accessibility_password_unlock">Feloldás jelszóval.</string>
+    <string name="keyguard_accessibility_pattern_area">Mintaterület.</string>
+    <string name="keyguard_accessibility_slide_area">Csúsztatási terület.</string>
+    <string name="keyguard_accessibility_pin_area">PIN kód területe</string>
+    <string name="keyguard_accessibility_sim_pin_area">SIM PIN kód területe</string>
+    <string name="keyguard_accessibility_sim_puk_area">SIM PUK kód területe</string>
+    <string name="keyguard_accessibility_transport_prev_description">Előző szám gomb</string>
+    <string name="keyguard_accessibility_transport_next_description">Következő szám gomb</string>
+    <string name="keyguard_accessibility_transport_pause_description">Szünet gomb</string>
+    <string name="keyguard_accessibility_transport_play_description">Lejátszás gomb</string>
+    <string name="keyguard_accessibility_transport_stop_description">Leállítás gomb</string>
+    <string name="keyguard_accessibility_transport_thumbs_up_description">Tetszik</string>
+    <string name="keyguard_accessibility_transport_thumbs_down_description">Nem tetszik</string>
+    <string name="keyguard_accessibility_transport_heart_description">Szív</string>
+    <string name="keyguard_accessibility_show_bouncer">A folytatáshoz oldja fel a zárat</string>
+    <string name="keyguard_accessibility_hide_bouncer">Indítás törölve</string>
+    <string name="keyguard_accessibility_delete_widget_start">Engedje el a(z) %1$s törléséhez.</string>
+    <string name="keyguard_accessibility_delete_widget_end">A(z) %1$s nem lesz törölve.</string>
+    <string name="keyguard_accessibility_next_alarm">A következő riasztás beállított ideje: %1$s</string>
+    <string name="password_keyboard_label_symbol_key">\?123</string>
+    <string name="password_keyboard_label_alpha_key">ABC</string>
+    <string name="password_keyboard_label_alt_key">ALT</string>
+    <string name="keyboardview_keycode_alt">Alt billentyű</string>
+    <string name="keyboardview_keycode_cancel">Mégse</string>
+    <string name="keyboardview_keycode_delete">Delete</string>
+    <string name="keyboardview_keycode_done">Kész</string>
+    <string name="keyboardview_keycode_mode_change">Mód váltása</string>
+    <string name="keyboardview_keycode_shift">Shift</string>
+    <string name="keyboardview_keycode_enter">Enter</string>
+    <string name="description_target_unlock">Feloldás</string>
+    <string name="description_target_camera">Kamera</string>
+    <string name="description_target_silent">Némítás</string>
+    <string name="description_target_soundon">Hang bekapcsolása</string>
+    <string name="description_direction_down">A(z) %s művelethez csúsztassa lefelé.</string>
+    <string name="description_direction_right">A(z) %s művelethez csúsztassa jobbra.</string>
+    <string name="user_switched">%1$s az aktuális felhasználó.</string>
+    <string name="kg_emergency_call_label">Segélyhívás</string>
+    <string name="kg_forgot_pattern_button_text">Elfelejtett minta</string>
+    <string name="kg_wrong_pattern">Helytelen minta</string>
+    <string name="kg_wrong_password">Helytelen jelszó</string>
+    <string name="kg_wrong_pin">Helytelen PIN kód</string>
+    <string name="kg_too_many_failed_attempts_countdown">Próbálkozzon újra %d másodperc múlva.</string>
+    <string name="kg_pattern_instructions">Rajzolja le a feloldási mintát</string>
+    <string name="kg_sim_pin_instructions">Adja meg a SIM kártya PIN kódját</string>
+    <string name="kg_sim_pin_instructions_multi">Adja meg a(z) „%1$s” SIM kártya PIN kódját.</string>
+    <string name="kg_pin_instructions">Adja meg a PIN kódot</string>
+    <string name="kg_password_instructions">Írja be a jelszót</string>
+    <string name="kg_puk_enter_puk_hint">A SIM kártya le van tiltva. Adja meg a PUK kódot, vagy a részletekért vegye fel a kapcsolatot szolgáltatójával.</string>
+    <string name="kg_puk_enter_puk_hint_multi">A(z) „%1$s” SIM kártyát a rendszer letiltotta. A folytatáshoz adja meg a PUK kódot. A részletekért vegye a fel a kapcsolatot szolgáltatójával.</string>
+    <string name="kg_puk_enter_pin_hint">Új PIN kód megadása</string>
+    <string name="kg_enter_confirm_pin_hint">Új PIN kód megerősítése</string>
+    <string name="kg_sim_unlock_progress_dialog_message">SIM kártya feloldása...</string>
+    <string name="kg_invalid_sim_pin_hint">4–8 számjegyű PIN kódot írjon be.</string>
+    <string name="kg_invalid_sim_puk_hint">A PUK kódnak 8 számjegyből kell állnia.</string>
+    <string name="kg_invalid_puk">Adja meg újra a helyes PUK kódot. Az ismételt próbálkozással véglegesen letiltja a SIM kártyát.</string>
+    <string name="kg_invalid_confirm_pin_hint">A PIN kódok nem egyeznek</string>
+    <string name="kg_login_too_many_attempts">Túl sok mintarajzolási próbálkozás</string>
+    <string name="kg_login_instructions">A feloldáshoz jelentkezzen be Google Fiókjával.</string>
+    <string name="kg_login_username_hint">Felhasználónév (e-mail cím)</string>
+    <string name="kg_login_password_hint">Jelszó</string>
+    <string name="kg_login_submit_button">Bejelentkezés</string>
+    <string name="kg_login_invalid_input">Érvénytelen felhasználónév vagy jelszó.</string>
+    <string name="kg_login_account_recovery_hint">"Elfelejtette a felhasználónevét vagy a jelszavát?
+Keresse fel a "<b>google.com/accounts/recovery</b> webhelyet.</string>
+    <string name="kg_login_checking_password">Fiók ellenőrzése...</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"%d alkalommal helytelenül adta meg a PIN kódot. 
+
+Próbálja meg újra %d másodperc múlva."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"%d alkalommal helytelenül adta meg a jelszót. 
+
+Próbálja meg újra %d másodperc múlva."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"%d alkalommal helytelenül rajzolta le a feloldási mintát. 
+
+Próbálja meg újra %d másodperc múlva."</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">%d alkalommal alkalommal sikertelenül próbálta meg feloldani a telefont. %d további sikertelen próbálkozás után a rendszer visszaállítja a telefon gyári alapértelmezett beállításait, és minden felhasználói adat elvész.</string>
+    <string name="kg_failed_attempts_now_wiping">%d alkalommal helytelen kódot adott meg. A rendszer visszaállítja a telefon gyári alapértelmezett beállításait.</string>
+    <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">%d alkalommal próbálkozott sikertelenül a telefon zárolásának feloldásával. %d további sikertelen kísérlet után a rendszer eltávolítja ezt a felhasználót; ekkor összes felhasználói adata törlődni fog.</string>
+    <string name="kg_failed_attempts_now_erasing_user">%d alkalommal próbálkozott sikertelenül a telefon zárolásának feloldásával. A rendszer eltávolítja a felhasználót, és annak összes felhasználói adata törlődik.</string>
+    <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">%d alkalommal próbálkozott sikertelenül a telefon zárolásának feloldásával. %d további sikertelen kísérlet után a rendszer eltávolítja munkahelyi profilját; ekkor összes profiladata törlődni fog.</string>
+    <string name="kg_failed_attempts_now_erasing_profile">%d alkalommal próbálkozott sikertelenül a telefon zárolásának feloldásával. A rendszer eltávolítja munkahelyi profilját, és összes profiladata törlődik.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"%d alkalommal helytelenül rajzolta le a feloldási mintát. További %d sikertelen kísérlet után egy e-mail fiók használatával kell feloldania a telefonját.
+
+Próbálja meg újra %d másodperc múlva."</string>
+    <string name="kg_reordering_delete_drop_target_text">Törlés</string>
+    <string name="kg_password_wrong_pin_code_pukked">Helytelen PIN kód a SIM kártyához. Adja meg a PUK kódot, vagy a részletekért vegye fel a kapcsolatot szolgáltatójával.</string>
+    <string name="kg_password_wrong_puk_code_dead">A SIM kártya le van tiltva. Vegye fel a kapcsolatot szolgáltatójával.</string>
+    <string name="kg_password_pin_failed">A SIM kártya PIN-művelete sikertelen!</string>
+    <string name="kg_password_puk_failed">A SIM kártya PUK-művelete sikertelen!</string>
+    <string name="kg_pin_accepted">Kód elfogadva.</string>
+    <string name="keyguard_transport_prev_description">Előző szám gomb</string>
+    <string name="keyguard_transport_next_description">Következő szám gomb</string>
+    <string name="keyguard_transport_pause_description">Szünet gomb</string>
+    <string name="keyguard_transport_play_description">Lejátszás gomb</string>
+    <string name="keyguard_transport_stop_description">Leállítás gomb</string>
+    <string name="keyguard_carrier_default">Nincs szolgáltatás</string>
+    <string name="kg_dismiss">Bezárás</string>
+    <string name="kg_slot_name">"%d foglalat: új SIM kártya "</string>
+    <string name="unmount_strings_dialog_content_txt">Ne távolítsa el az SD kártyát a leválasztás során</string>
+    <string name="accessibility_desc_tab_quick_settings_edit">Gyorsbeállítások módosítása</string>
+    <string name="accessibility_phone_four_bars">A telefon négy sáv ikonja.</string>
+    <string name="accessibility_state_vibrate">Rezgő</string>
+    <string name="accessibility_tool_dragging">Húzás</string>
+    <string name="accessibility_tool_drop_to_add">Hozzáadás húzással</string>
+    <string name="accessibility_tool_drop_to_remove">Eltávolítás húzással</string>
+    <string name="accessibility_tool_edit_mode_done">Szerkesztés mód letiltva</string>
+    <string name="accessibility_tool_edit_mode_enabled">Szerkesztés mód engedélyezve</string>
+    <string name="brightness_adapt_checkbox_information">Automatikus fényerősség</string>
+    <string name="brightness_help_information_automatic">A képernyő fényereje automatikusan módosítható. A normál fényerő a csúszkával állítható be.</string>
+    <string name="brightness_help_information_manual">A fényerő beállítása kézzel a fényviszonyoktól függetlenül</string>
+    <string name="carrier_invalid_sim_card">Érvénytelen SIM kártya</string>
+    <string name="carrier_text_perso_locked_message">A SIM/RUIM személyes beállítással zárolt</string>
+    <string name="close_all_apps_button_text">Mind bezárása</string>
+    <string name="close_all_apps_toast_text">Az összes alkalmazás bezárva</string>
+    <string name="data_traffic_cost_warning_dialog_message">Engedélyezi a mobilhálózati adatokat? Hálózati díjcsomagjától függően további költségek merülhetnek fel. A további költségek elkerülése érdekében a befejezéskor tiltsa le a mobilhálózati adatokat.</string>
+    <string name="description_direction_left_down">Csúsztatás balra átlósan lefelé a(z) %s eléréséhez.</string>
+    <string name="description_direction_left_up">Csúsztatás balra átlósan felfelé a(z) %s eléréséhez.</string>
+    <string name="description_direction_up_left">Csúsztatás balra átlósan felfelé a(z) %s eléréséhez.</string>
+    <string name="description_direction_up_right">Csúsztatás jobbra átlósan felfelé a(z) %s eléréséhez.</string>
+    <string name="emergencymode_strings_could_not_use_quick_settings">Nem érhető el segélyhívó módban</string>
+    <string name="lockscreen_perso_locked_message">A SIM/RUIM személyesen zárolt</string>
+    <string name="new_note">Új megjegyzés</string>
+    <string name="new_sketch">Új rajz</string>
+    <string name="no_button_txt">Nem</string>
+    <string name="priority_mode_notification_text">Kopp.: megszakít. beállítások módosítása</string>
+    <string name="priority_mode_notification_title">Csak fontos zavaró üzenetek</string>
+    <string name="quick_Settings">Gyors beállítások</string>
+    <string name="quick_settings_description">Gyorsbeállítások számának kiválasztása az értesítési panelen és a sorrendjük módosítása</string>
+    <string name="quick_settings_detect_usb_device_label">USB-eszköz észlelése</string>
+    <string name="quicksettings_hint_bubble">"Gyorsbeállítások szerkesztése
+Gyorsbeállítások hozzáadása/eltávolítása:
+érintse meg, húzza és engedje el az ikonokat."</string>
+    <string name="quicksettings_toast_bubble">Maximális számú gyorsbeállítás van kiválasztva</string>
+    <string name="quicksettings_toast_torch">"A zseblámpa nem kapcsolható be,
+amíg a kamera használatban van"</string>
+    <string name="quicksettings_toast_volte_not_supported">"A VoLTE-t jelenleg nem támogatja
+a szolgáltatója"</string>
+    <string name="silent_mode_notification_text">Hang bekapcs.: hangerőbillentyű felfelé</string>
+    <string name="silent_mode_notification_title">Néma, nincs megszakítás</string>
+    <string name="smallapp_systemui_recentapp_menu_show_smallapp_txt">Kisalkalmazásként</string>
+    <string name="start_note_app">A Megjegyzés alkalmazás indítása</string>
+    <string name="start_sketch_app">A Rajz alkalmazás indítása</string>
+    <string name="status_bar_airplanemode">Repülőgépes mód</string>
+    <string name="status_bar_autorotate">Automatikus forgatás</string>
+    <string name="status_bar_autosync">Automatikus adatszinkroniz.</string>
+    <string name="status_bar_bluetooth">Bluetooth</string>
+    <string name="status_bar_brightness">Fényerősség</string>
+    <string name="status_bar_glove_mode">Kesztyűs mód</string>
+    <string name="status_bar_gps">GPS</string>
+    <string name="status_bar_location">Helyszín</string>
+    <string name="status_bar_mirroring">"Képernyő-
+tükrözés"</string>
+    <string name="status_bar_mobile_data">Mobilhálózati adatok</string>
+    <string name="status_bar_nfc">NFC</string>
+    <string name="status_bar_recent_failed_to_launch_app">Nem sikerült az alkalmazás indítása</string>
+    <string name="status_bar_roaming">Barangolás</string>
+    <string name="status_bar_settings">Beállítások</string>
+    <string name="status_bar_settings_airplanemode">Repülőgépes mód</string>
+    <string name="status_bar_settings_autorotate">Képernyő aut. forgat.</string>
+    <string name="status_bar_settings_autosync">Aut. adatszinkroniz.</string>
+    <string name="status_bar_settings_bluetooth">Bluetooth</string>
+    <string name="status_bar_settings_brightness">Fényerősség</string>
+    <string name="status_bar_settings_glove_mode">Kesztyűs mód</string>
+    <string name="status_bar_settings_gps">GPS</string>
+    <string name="status_bar_settings_location">Helyszín</string>
+    <string name="status_bar_settings_mirroring">Képernyőtükrözés</string>
+    <string name="status_bar_settings_mobile_data">Mobil adatforgalom</string>
+    <string name="status_bar_settings_nfc">NFC</string>
+    <string name="status_bar_settings_roaming">Barangolás</string>
+    <string name="status_bar_settings_settings">Beállítások par.ikonja</string>
+    <string name="status_bar_settings_sound">Hang</string>
+    <string name="status_bar_settings_wifi">Wi-Fi</string>
+    <string name="status_bar_settings_wifi_hotspot">Wi-Fi csatl. pont</string>
+    <string name="status_bar_sound">Hang</string>
+    <string name="status_bar_tab_notifications_title">Értesítések</string>
+    <string name="status_bar_tab_quick_settings_done">Kész</string>
+    <string name="status_bar_tab_quick_settings_edit">Módosítás</string>
+    <string name="status_bar_tab_quick_settings_title">Gyors beállítások</string>
+    <string name="status_bar_toolsbar_settings_title">Gyors beállítások kiválasztása</string>
+    <string name="status_bar_torch">Vakufény</string>
+    <string name="status_bar_wifi">Wi-Fi</string>
+    <string name="status_bar_wifi_hotspot">Csatlakozási pont Wi-Fi</string>
+    <string name="toast_message_maximum_number_of_tools_reached">Maximális számú gyors beállítás van kiválasztva</string>
+    <string name="usbux_strings_charger_do_not_show_agin_txt">Ne jelenjen meg újra</string>
+    <string name="usbux_strings_charger_incompatible_dialog_msg_txt">A csatlakoztatott töltő nem kompatibilis ezzel az eszközzel. Az eszköz károsodásának elkerülése érdekében a töltés leállt. Ha folytatni szeretné a töltést, használja az eszközhöz biztosított töltőt és kábelt.</string>
+    <string name="usbux_strings_charger_incompatible_dialog_title_txt">Nincs töltés</string>
+    <string name="usbux_strings_charger_incompatible_notification_summary_txt">Nem lehet tölteni. Használja az eredeti töltőt.</string>
+    <string name="usbux_strings_charger_under_current_dialog_msg_txt">A csatlakoztatott töltővel tovább tart a töltés. A gyorsabb töltéshez használja az eszközhöz biztosított töltőt és kábelt.</string>
+    <string name="usbux_strings_charger_under_current_dialog_title_txt">Lassú töltés</string>
+    <string name="usbux_strings_charger_under_current_toast_txt">A gyorsabb töltéshez használja az eredeti töltőt.</string>
+    <string name="vzw_airplane_mode_dont_show_again">Ne jelenjen meg újra</string>
+    <string name="vzw_airplane_mode_is_on">A Repülőgépes üzemmód be van kapcsolva. Csak akkor tud internetet, e-mailt vagy adatkapcsolatot igénylő más alkalmazást használni, ha Wi-Fi hálózathoz kapcsolódik.</string>
+    <string name="vzw_airplane_mode_is_on_volte">A Repülőgépes üzemmód be van kapcsolva. A mobiladatok kikapcsolásakor nem működik a videohívás. Csak akkor tud internetet, e-mailt vagy adatkapcsolatot igénylő más alkalmazást használni, ha Wi-Fi hálózathoz kapcsolódik.</string>
+    <string name="vzw_airplane_mode_turn_on">A továbbiakban csak akkor tud internetet, e-mailt vagy adatkapcsolatot igénylő más alkalmazást használni, ha Wi-Fi hálózathoz kapcsolódik.</string>
+    <string name="vzw_airplane_mode_turn_on_volte">A mobiladatok kikapcsolásakor nem működik a videohívás. Csak akkor tud internetet, e-mailt vagy adatkapcsolatot igénylő más alkalmazást használni, ha Wi-Fi hálózathoz kapcsolódik.</string>
+    <string name="vzw_airplane_turn_on_airplane_mode">Bekapcsolja a repülőgépes üzemmódot?</string>
+    <string name="vzw_status_bar_roam_status_data_roaming_txt">Adatbarangolás</string>
+    <string name="vzw_status_bar_roam_status_roaming_txt">Barangolás</string>
+    <string name="vzw_status_bar_roam_status_voice_and_data_roaming_txt">Hang- és adatbarangolás</string>
+    <string name="vzw_status_bar_roam_status_voice_roaming_txt">Hangbarangolás</string>
+    <string name="vzw_title_airplane_mode">Repülőgépes üzemmód</string>
+    <string name="vzw_title_airplane_mode_is_on">Repülőgépes üzemmód</string>
+    <string name="yes_button_txt">Igen</string>
+    <string name="dsds_keyguard_enter_sim_pin_txt">%s PIN megadása</string>
+    <string name="dsds_keyguard_enter_sim_puk_txt">%s PUK megadása</string>
+    <string name="dsds_sim_disable_notification_tray_first_line_txt">%1$s letiltva</string>
+    <string name="dsds_sim_disable_notification_tray_second_line_txt">Koppintson ide a %1$s engedélyezéséhez</string>
+    <string name="keyguard_carrier_default_when_not_softbank_sim">A behelyezett SIM kártya nem érhető el ebben a telefonban. Helyezzen be egy érvényes SIM kártyát.</string>
+    <string name="kg_somc_verizon_enter_confirm_pin_hint">Erősítse meg a PIN kódot a beírás megismétlésével.</string>
+    <string name="kg_somc_verizon_invalid_confirm_pin_hint">Sajnáljuk, a SIM kártya megadott új PIN kódjai nem egyeznek meg. Adjon meg egy új 4-8 jegyű PIN kódot a SIM kártyához.</string>
+    <string name="kg_somc_verizon_password_wrong_pin_code_pukked">A PIN legutóbbi megadása zárolta a SIM kártyát. A SIM kártya feloldásához szükséges PUK kód beszerzéséért forduljon a vezeték nélküli hálózat szolgáltatójához. Nyomja meg a Folytatás gombot a SIM kártya zárolásának feloldásához szükséges PUK kód megadásához.</string>
+    <string name="kg_somc_verizon_password_wrong_puk_code_dead">A PUK kód megadásának 10. kísérlete véglegesen letiltotta a SIM kártyáját. Másik SIM kártya beszerzése végett forduljon a vezeték nélküli hálózat szolgáltatójához.</string>
+    <string name="kg_somc_verizon_puk_enter_pin_hint">Adja meg a SIM kártya 4-8 jegyű PIN kódját.</string>
+    <string name="kg_somc_verizon_puk_enter_puk_hint">Adja meg a SIM kártya 8 jegyű PUK kódját</string>
+    <string name="kg_somc_verizon_sim_pin_instructions">Adja meg a SIM kártya 4-8 jegyű PIN kódját</string>
+    <string name="lockscreen_accessibility_unlock_hint">A feloldáshoz csúsztasson felfelé vagy lefelé</string>
+    <string name="lockscreen_app_name">Lezárt képernyő</string>
+    <string name="lockscreen_short_unlock_hint">Feloldás csúsztatással</string>
+    <string name="lockscreen_unlock_hint">A feloldáshoz csúsztasson felfelé vagy lefelé</string>
+    <string name="status_bar_date_formatter">"%2$s
+%1$s"</string>
+</resources>

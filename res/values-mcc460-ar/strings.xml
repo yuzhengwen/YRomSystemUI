@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_wifi_scanning_label">WLAN: المسح</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: الاتصال</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">نقطة اتصال بشبكة WLAN غير متوفرة في وضع الطائرة</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">تم إيقاف WLAN.</string>
+    <string name="accessibility_no_wifi">تم قطع اتصال WLAN.</string>
+    <string name="accessibility_wifi_one_bar">إشارة WLAN تتكون من شريط واحد.</string>
+    <string name="accessibility_wifi_two_bars">إشارة WLAN تتكون من شريطين.</string>
+    <string name="accessibility_wifi_three_bars">إشارة WLAN تتكون من ثلاثة أشرطة.</string>
+    <string name="accessibility_wifi_signal_full">إشارة WLAN كاملة.</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">تم إيقاف محول WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">تم تشغيل محول WLAN</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN متصلة</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">إيقاف WLAN</string>
+    <string name="quick_settings_connected_via_wfa">‏تم التوصيل عبر مساعد WLAN</string>
+    <string name="status_bar_settings_wifi">‏WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">نقطة اتصال WLAN</string>
+    <string name="status_bar_wifi">‏WLAN</string>
+    <string name="status_bar_wifi_hotspot">نقطة اتصال WLAN</string>
+    <string name="vzw_airplane_mode_is_on">تم تشغيل وضع الطائرة. ما لم تستخدم اتصال WLAN، لن تتمكن من استخدام الإنترنت أو البريد الإلكتروني أو التطبيقات الأخرى التي تتطلب اتصال بيانات.</string>
+    <string name="vzw_airplane_mode_is_on_volte">تم تشغيل وضع الطائرة. لن تعمل مكالمات الفيديو عند إيقاف تشغيل بيانات النقال. كذلك، لن تتمكن من استخدام الإنترنت أو البريد الإلكتروني أو التطبيقات الأخرى التي تتطلب اتصال بيانات ما لم تتصل بشبكة WLAN.</string>
+    <string name="vzw_airplane_mode_turn_on">ما لم تستخدم اتصال WLAN، لن تتمكن بعد ذلك من استخدام الإنترنت أو البريد الإلكتروني أو التطبيقات الأخرى التي تتطلب اتصال بيانات.</string>
+    <string name="vzw_airplane_mode_turn_on_volte">لن تعمل مكالمات الفيديو عند إيقاف تشغيل بيانات النقال. كذلك لن تتمكن من استخدام الإنترنت أو البريد الإلكتروني أو التطبيقات الأخرى التي تتطلب اتصال بيانات ما لم تتصل بشبكة WLAN.</string>
+</resources>

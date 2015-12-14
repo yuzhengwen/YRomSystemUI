@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_wifi_scanning_label">WLAN: Đang quét</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: Đang kết nối</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">Không sử dụng được điểm truy cập WLAN ở chế độ máy bay</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">Đã tắt WLAN.</string>
+    <string name="accessibility_no_wifi">Đã ngắt kết nối WLAN.</string>
+    <string name="accessibility_wifi_one_bar">Tín hiệu WLAN một vạch.</string>
+    <string name="accessibility_wifi_two_bars">Tín hiệu WLAN hai vạch.</string>
+    <string name="accessibility_wifi_three_bars">Tín hiệu WLAN ba vạch.</string>
+    <string name="accessibility_wifi_signal_full">Tín hiệu WLAN đầy đủ.</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">Đã tắt WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">Đã bật WLAN</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">Đã kết nối WLAN</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">Tắt WLAN</string>
+    <string name="quick_settings_connected_via_wfa">Được kết nối qua trình hỗ trợ WLAN</string>
+    <string name="status_bar_settings_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">Điểm phát sóng WLAN</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">Điểm phát sóng WLAN</string>
+    <string name="vzw_airplane_mode_is_on">Chế độ Trên máy bay bật. Trừ khi sử dụng WLAN, bạn sẽ không thể dùng Internet, Email hay các ứng dụng khác yêu cầu kết nối dữ liệu.</string>
+    <string name="vzw_airplane_mode_is_on_volte">Chế độ Trên máy bay bật. Các cuộc gọi video sẽ không hoạt động khi dữ liệu di động tắt. Đồng thời, bạn sẽ không thể dùng Internet, Email hay các ứng dụng khác cần có kết nối dữ liệu trừ khi bạn kết nối với mạng WLAN.</string>
+    <string name="vzw_airplane_mode_turn_on">Trừ khi sử dụng WLAN, bạn sẽ không thể dùng Internet, Email hay các ứng dụng khác yêu cầu kết nối dữ liệu nữa.</string>
+    <string name="vzw_airplane_mode_turn_on_volte">Các cuộc gọi video sẽ không hoạt động khi dữ liệu di động tắt. Đồng thời, bạn sẽ không thể dùng Internet, Email hay các ứng dụng khác cần có kết nối dữ liệu trừ khi bạn kết nối với mạng WLAN.</string>
+</resources>

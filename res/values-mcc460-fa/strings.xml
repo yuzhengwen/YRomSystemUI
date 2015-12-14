@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_wifi_scanning_label">WLAN: در حال جستجو</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: در حال اتصال</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">محل دسترسی بیسیم به اینترنت WLAN در حالت هواپیما در دسترس نیست</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">WLAN خاموش.</string>
+    <string name="accessibility_no_wifi">WLAN قطع شد.</string>
+    <string name="accessibility_wifi_one_bar">یک نوار برای WLAN.</string>
+    <string name="accessibility_wifi_two_bars">دو نوار برای WLAN.</string>
+    <string name="accessibility_wifi_three_bars">سه نوار برای WLAN.</string>
+    <string name="accessibility_wifi_signal_full">قدرت سیگنال WLAN کامل است.</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN خاموش شد</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN روشن شد</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN متصل شد</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN خاموش است</string>
+    <string name="quick_settings_connected_via_wfa">‏متصل شده از طریق دستیار WLAN</string>
+    <string name="status_bar_settings_wifi">‏WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">نقطه دسترسی WLAN</string>
+    <string name="status_bar_wifi">‏WLAN</string>
+    <string name="status_bar_wifi_hotspot">نقطه دسترسی WLAN</string>
+    <string name="vzw_airplane_mode_is_on">حالت هواپیما روشن است. در صورت عدم استفاده از WLAN، نمی‌توانید از اینترنت، ایمیل یا دیگر برنامه‌هایی که به اتصال داده نیاز دارند استفاده کنید.</string>
+    <string name="vzw_airplane_mode_is_on_volte">حالت هواپیما روشن است. تماس تصویری در هنگام خاموش بودن داده تلفن همراه کار نمی‌کند. همچنین نمی‌توانید از اینترنت، ایمیل یا دیگر برنامه‌هایی که به اتصال داده نیاز دارند استفاده کنید، مگر اینکه به شبکه WLAN وصل شوید.</string>
+    <string name="vzw_airplane_mode_turn_on">در صورت عدم استفاده از WLAN، نمی‌توانید از اینترنت، ایمیل یا دیگر برنامه‌هایی که به اتصال داده نیاز دارند استفاده کنید.</string>
+    <string name="vzw_airplane_mode_turn_on_volte">تماس تصویری در هنگام خاموش بودن داده تلفن همراه کار نمی‌کند. همچنین نمی‌توانید از اینترنت، ایمیل یا دیگر برنامه‌هایی که به اتصال داده نیاز دارند استفاده کنید، مگر اینکه به شبکه WLAN وصل شوید.</string>
+</resources>

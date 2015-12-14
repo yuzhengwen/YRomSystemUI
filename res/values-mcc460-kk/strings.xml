@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_wifi_scanning_label">WLAN: ізделуде</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: қосылуда</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">WLAN ыстық нүктесі ұшақ режимінде қол жетімді емес</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">WLAN байланысы өшірілді.</string>
+    <string name="accessibility_no_wifi">WLAN байланысы ажыратылды.</string>
+    <string name="accessibility_wifi_one_bar">WLAN бір жолақ.</string>
+    <string name="accessibility_wifi_two_bars">WLAN екі жолақ.</string>
+    <string name="accessibility_wifi_three_bars">WLAN үш жолақ.</string>
+    <string name="accessibility_wifi_signal_full">WLAN сигнал толық.</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN өшірілді</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN қосылды</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN қосылды</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN өшіру</string>
+    <string name="quick_settings_connected_via_wfa">WLAN көмекшісі арқылы қосылу орындалды</string>
+    <string name="status_bar_settings_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">WLAN ыстық нүктесі</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">WLAN ыстық нүктесі</string>
+    <string name="vzw_airplane_mode_is_on">Ұшақ режимі қосылған. WLAN желісін пайдаланбасаңыз, \"Интернет\", \"Электрондық пошта\" қолданбаларын немесе деректер байланысын қажет ететін басқа қолданбаларды пайдалана алмайсыз.</string>
+    <string name="vzw_airplane_mode_is_on_volte">Ұшақ режимі қосылған. Мобильді деректер өшірулі кезде бейне қоңыраулар жұмыс істемейді. Сондай-ақ, WLAN желісіне қосылмасаңыз, \"Интернет\", \"Электрондық пошта\" қолданбаларын немесе деректер байланысын қажет ететін басқа қолданбаларды пайдалана алмайсыз.</string>
+    <string name="vzw_airplane_mode_turn_on">WLAN желісін пайдаланбасаңыз, \"Интернет\", \"Электрондық пошта\" қолданбаларын немесе деректер байланысын қажет ететін басқа қолданбаларды пайдалана алмайсыз.</string>
+    <string name="vzw_airplane_mode_turn_on_volte">Мобильді деректер өшірулі кезде бейне қоңыраулар жұмыс істемейді. Сондай-ақ, WLAN желісіне қосылмасаңыз, \"Интернет\", \"Электрондық пошта\" қолданбаларын немесе деректер байланысын қажет ететін басқа қолданбаларды пайдалана алмайсыз.</string>
+</resources>

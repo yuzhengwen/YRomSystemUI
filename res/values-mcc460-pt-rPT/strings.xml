@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_wifi_scanning_label">WLAN: a procurar</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: a ligar</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">O hotspot WLAN não está disponível no modo de avião</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">WLAN desativado.</string>
+    <string name="accessibility_no_wifi">WLAN desligado.</string>
+    <string name="accessibility_wifi_one_bar">Uma barra de WLAN.</string>
+    <string name="accessibility_wifi_two_bars">Duas barras de WLAN.</string>
+    <string name="accessibility_wifi_three_bars">Três barras de WLAN.</string>
+    <string name="accessibility_wifi_signal_full">Sinal WLAN completo.</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN desativado</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN ativado</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN ligado</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN Desligado</string>
+    <string name="quick_settings_connected_via_wfa">Ligado através do Assistente de WLAN</string>
+    <string name="quick_settings_hotspot_label">Zona WLAN</string>
+    <string name="status_bar_settings_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">Hotspot WLAN</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">Hotspot WLAN</string>
+    <string name="vzw_airplane_mode_is_on">O modo de avião está ligado. A não ser que utilize o WLAN, não será possível utilizar a Internet, o e-mail ou outras aplicações que precisem de uma ligação de dados.</string>
+    <string name="vzw_airplane_mode_is_on_volte">O modo de avião está ligado. Desta forma, não é possível realizar chamadas de vídeo. Além disso, não será possível utilizar a Internet, o e-mail ou outras aplicações que precisem de uma ligação de dados, a não ser que estabeleça ligação a uma rede WLAN.</string>
+    <string name="vzw_airplane_mode_turn_on">A não ser que utilize o WLAN, deixará de ser possível utilizar a Internet, o e-mail ou outras aplicações que precisem de uma ligação de dados.</string>
+    <string name="vzw_airplane_mode_turn_on_volte">Com os dados móveis desligados, não é possível realizar chamadas de vídeo. Além disso, não será possível utilizar a Internet, o e-mail ou outras aplicações que precisem de uma ligação de dados, a não ser que estabeleça ligação a uma rede WLAN.</string>
+</resources>

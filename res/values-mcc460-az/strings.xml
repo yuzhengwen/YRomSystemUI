@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_wifi_scanning_label">WLAN: Skanlanır</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: Qoşulur</string>
+    <string name="toast_message_not_allow_turn_on_hotspot">WLAN qaynar nöqtəsi uçuş rejimində mövcud olmur</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">WLAN sönülüdür.</string>
+    <string name="accessibility_no_wifi">WLAN ilə bağlantı kəsildi.</string>
+    <string name="accessibility_wifi_one_bar">WLAN bir xətdir</string>
+    <string name="accessibility_wifi_two_bars">WLAN iki xətdir</string>
+    <string name="accessibility_wifi_three_bars">WLAN üç xətdir</string>
+    <string name="accessibility_wifi_signal_full">WLAN siqnalı doludur</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN söndürüldü</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN yandırıldı</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN qoşulub</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN sönülüdür</string>
+    <string name="quick_settings_connected_via_wfa">WLAN köməkçisi vasitəsilə qoşulub</string>
+    <string name="status_bar_settings_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">WLAN qaynar nöqtəsi</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">WLAN qaynar nöqtəsi</string>
+    <string name="vzw_airplane_mode_is_on">Uçuş rejimi aktivdir. WLAN istifadə etmədən İnternet, E-poçt və ya internet bağlantısı tələb edən digər proqramları istifadə edə bilməyəcəksiniz.</string>
+    <string name="vzw_airplane_mode_is_on_volte">Uçuş rejimi aktivdir. Mobil tarif qeyri-aktiv olduqda video zənglər işləmir. Həmçinin, WLAN şəbəkəsinə qoşulmadan İnternet, E-poçt və ya internet bağlantısı tələb edən digər proqramları istifadə edə bilməyəcəksiniz.</string>
+    <string name="vzw_airplane_mode_turn_on">WLAN istifadə etmədən İnternet, E-poçt və ya internet bağlantısı tələb edən digər proqramları istifadə edə bilməyəcəksiniz.</string>
+    <string name="vzw_airplane_mode_turn_on_volte">Mobil tarif qeyri-aktiv olduqda video zənglər işləmir. Həmçinin, WLAN şəbəkəsinə qoşulmadan İnternet, E-poçt və ya internet bağlantısı tələb edən digər proqramları istifadə edə bilməyəcəksiniz.</string>
+</resources>
