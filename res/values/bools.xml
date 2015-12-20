@@ -44,7 +44,7 @@
     <bool name="enable_volume_ui">true</bool>
     <bool name="config_limited_usb_charging">false</bool>
     <bool name="config_showCallBusyingIconForDsds">true</bool>
-    <bool name="config_showOperatorNameInStatusBar">false</bool>
+    <bool name="config_showOperatorNameInStatusBar">true</bool>
     <bool name="somc_qs_is_tablet">false</bool>
     <bool name="config_qsEnableAirplane">true</bool>
     <bool name="config_qsEnableRotation">true</bool>
